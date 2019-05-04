@@ -8,140 +8,37 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans" rel="stylesheet">
-
-    <style>
-        :root {
-            --brand-color-dark: #082d3a;
-            --brand-color-light: #258cb0;
-            --background-color: #fcfcfc;
-        }
-
-        html, body {
-            margin: 0;
-            padding: 0;
-        }
-
-        body {
-            background: var(--background-color);
-
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-
-            font-family: 'Corbel', 'Nunito Sans', sans-serif;
-            color: var(--brand-color-dark);
-        }
-
-        .wrapper {
-            position: relative;
-            margin: 30px;
-        }
-
-        h1 {
-            margin-top: 0;
-
-            color: var(--brand-color-light);
-            font-variant: small-caps;
-            font-size: 38px;
-        }
-
-        h1 em {
-            color: var(--brand-color-dark);
-            font-style: normal;
-        }
-
-        .lead {
-            font-variant: small-caps;
-            font-size: 32px;
-        }
-
-        .rocket {
-            position: absolute;
-            top: 20px;
-            right: 30px;
-
-            width: 130px;
-        }
-
-        .name {
-            margin-top: 60px;
-            margin-bottom: 3px;
-
-            font-size: 24px;
-            font-weight: bold;
-            font-variant: small-caps;
-        }
-
-        .title {
-            margin-top: 0;
-            margin-bottom: 15px;
-
-            font-size: 18px;
-            font-variant: small-caps;
-        }
-
-        .contact {
-            margin-top: 0;
-
-            font-size: 18px;
-            line-height: 28px;
-            text-transform: lowercase;
-        }
-
-        .contact a {
-            color: initial;
-            text-decoration: none;
-        }
-
-        @media only screen and (max-width: 639px) {
-            .wrapper {
-                margin-left: 35px;
-            }
-
-            .rocket {
-                position: static;
-                margin-left: 20px;
-            }
-
-            .name {
-                margin-top: 30px;
-            }
-
-            .divider {
-                display: block;
-                visibility: hidden;
-                line-height: 0;
-            }
-        }
-    </style>
+    <link href="style.css" rel="stylesheet">
 </head>
 
 <body>
 
-<div class="wrapper">
-    <div>
-        <h1><em>Projekt</em>itekt</h1>
-        <p class="lead">NeuGierig?<br>NeuGründung!</p>
-    </div>
+<a href="index.html"><img src="logo.png" alt="Projektitekt Logo" class="logo"></a>
 
-    <img src="rocket.min.svg" class="rocket" alt="Rocket Logo">
+<hr class="separator">
 
-    <div>
-        <p class="name">Sylvia C. Schuster</p>
-        <p class="title">M.A. Architektin</p>
-        <p class="contact">
-            <a href="mailto:sylvia@projektitekt.de">sylvia@projektitekt.de</a>
-            <span class="divider">|</span>
-            +49 177 63 101 89
-            <span class="divider">|</span>
-            Thomashofstr. 15
-            <span class="divider">|</span>
-            52070 Aachen
-        </p>
-    </div>
+<h1 class="title uppercase">NeuGierig? NeuGründung!</h1>
+
+<div class="content">
+    <p class="justify">
+        Schön, dass Sie vorbeischauen! Mein Unternehmen befindet sich aktuell in der Gründungsphase. Wenn Sie bereits
+        neugierig geworden sind, wie Projektitekt Sie bei einer effizienteren Organisation Ihres Planungsbüros
+        unterstützen kann, schreiben Sie mir gerne eine <a href="mailto:sylvia.schuster@projektitekt.de">Email</a> oder
+        kontaktieren mich telefonisch unter +49 (177) 63 101 89!
+    </p>
+
+    <p class="contact">
+        <span class="name">Sylvia C. Schuster</span>
+        <span class="title">M.A. Architektin</span>
+        <span class="mail"><a href="mailto:sylvia.schuster@projektitekt.de">sylvia.schuster@projektitekt.de</a></span>
+    </p>
 </div>
+
+<hr class="separator">
+
+<ul class="links">
+    <li><a href="imprint.html">Impressum</a></li>
+</ul>
 
 </body>
 
