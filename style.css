@@ -113,6 +113,22 @@ ul.links {
     padding-inline-start: 0;
 }
 
+.photo {
+    float: right;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 40px;
+    margin-right: -30px;
+}
+
+@media only screen and (max-width: 640px) {
+    .photo {
+        float: none;
+        margin: 0 0 30px;
+        max-width: 100%;
+    }
+}
+
 @media only screen and (max-width: 360px) {
     h1.title {
         font-size: 32px;
