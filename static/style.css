@@ -113,6 +113,20 @@ ul.links {
     padding-inline-start: 0;
 }
 
+ul.links li {
+    display: inline;
+}
+
+ul.links li::after {
+    content: "–";
+    margin-left: 8px;
+    margin-right: 4px;
+}
+
+ul.links li:last-child::after {
+    content: "";
+}
+
 .photo {
     float: right;
     width: 200px;
