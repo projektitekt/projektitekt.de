@@ -10,7 +10,7 @@ Deutschland<br>
 [sylvia.schuster@projektitekt.de](mailto:sylvia.schuster@projektitekt.de)<br>
 +49 (177) 63 101 89
 
-**USt-ID:** beantragt
+**USt-ID:** DE322898651
 
 **Zuständige Berufskammer:**<br>
 Architektenkammer Nordrhein-Westfalen<br>
