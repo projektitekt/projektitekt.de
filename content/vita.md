@@ -7,7 +7,7 @@ title: Vita
 Während meiner Tätigkeit als Architektin, Bauleiterin und Projektmanagerin in
 Planungsbüros zwischen zwei und zweihundert Mitarbeitern habe ich viele
 unterschiedliche Facetten des Bau- und Planungsprozesses kennengelernt. Gelernt
-habe ich dabei allen Dingen, meine eigenen Stärken zu erkennen, weiter
+habe ich dabei vor allen Dingen, meine eigenen Stärken zu erkennen, weiter
 auszubauen und richtig zu nutzen. Ich bin Generalist durch und durch, liebe es,
 zu organisieren, zu analysieren, zu strukturieren und über viele Teilaspekte
 eines großen Ganzen den Überblick zu behalten.
@@ -52,15 +52,14 @@ Sant Cugat/Spanien (Carpus+Partner, Kunde: Boehringer Ingelheim)
 ## CV
 
 - 2019 Gründung von Projektitekt
-- 2014 - 2019 Projektmanagerin bei der [Carpus+Partner AG](www.carpus.de), Aachen
+- 2014 - 2019 Projektmanagerin bei der [Carpus+Partner AG](https://www.carpus.de), Aachen
 - 2013 - 2014 Sabbatical Lateinamerika
 - 2011 - 2013 Architektin, Bauleiterin im [Architekturbüro Werner
-Schüller](www.architekt-schueller.de), Haan
+Schüller](http://www.architekt-schueller.de), Haan
 - 2016 Eintragung als Mitglied der Architektenkakmmer NRW
 - 2009 - 2010 Studienbegleitende Tätigkeit bei [Anne Kloeters
 Innenarchitektur](http://akinnenarchitektur.de), Aachen
-- 2008 - 2009 Studienbegleitende Tätigkeit im [Architekturbüro Heinz
-Kochs](www.kochsplan.de), Aachen
+- 2008 - 2009 Studienbegleitende Tätigkeit im Architekturbüro Heinz Kochs, Aachen
 - 2007 - 2009 Hilfswissenschaftliche Mitarbeiterin an der [Fachhochschule
 Aachen](https://www.fh-aachen.de/fachbereiche/architektur/) bei Professor Thomas
 Tünnemann, Fachbereich Architektur)
