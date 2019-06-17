@@ -75,6 +75,10 @@ h1.title {
     line-height: 24px;
 }
 
+.content > ul > li {
+    margin-bottom: 4px;
+}
+
 .content > p:last-child {
     margin-bottom: 0;
 }
