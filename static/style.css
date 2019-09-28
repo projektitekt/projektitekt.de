@@ -150,6 +150,10 @@ ul.links li:last-child::after {
     content: "";
 }
 
+.copyright {
+    margin-bottom: 14px;
+}
+
 .photo-wrapper {
     width: 200px;
     margin-left: 40px;
