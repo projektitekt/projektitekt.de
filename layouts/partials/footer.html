@@ -5,3 +5,16 @@
     <li><a href="/imprint">Impressum</a></li>
     <li><a href="/privacy">Datenschutz</a></li>
 </ul>
+
+<script>
+  (function() {
+    var links = document.links;
+
+    for (var i = 0; i < links.length; i++) {
+      if (links[i].hostname !== window.location.hostname) {
+        links[i].target = '_blank';
+        links[i].rel = 'noopener noreferrer';
+      }
+    }
+  })();
+</script>
