@@ -2,13 +2,6 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-<div class="photo-wrapper">
-    <img src="/sylvia.jpg" class="photo" alt="Photo of Sylvia Schuster">
-    <a href="https://aachen.digital" target="_blank" rel="noopener noreferrer">
-        <img src="/digital-hub.svg" alt="Digital Hub Logo">
-    </a>
-</div>
-
 Projektmanagement im Planungsbüro?
 
   * Sie sind Architekt und haben Freude am kreativen Entwerfen, aber Terminpläne

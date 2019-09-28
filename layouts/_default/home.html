@@ -1,7 +1,16 @@
 {{ define "main" }}
 <h1 class="title">{{ .Title }}</h1>
 
-<div class="content">
-    {{ .Content }}
+<div class="content home">
+    <div>
+        {{ .Content }}
+    </div>
+
+    <div class="photo-wrapper">
+        <img src="/sylvia.jpg" class="photo" alt="Photo of Sylvia Schuster">
+        <a href="https://aachen.digital" target="_blank" rel="noopener noreferrer">
+            <img src="/digital-hub.svg" alt="Digital Hub Logo">
+        </a>
+    </div>
 </div>
 {{ end }}

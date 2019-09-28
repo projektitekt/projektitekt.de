@@ -83,8 +83,9 @@ h1.title {
     margin-bottom: 0;
 }
 
-.home {
-    margin-top: 55px;
+.content.home {
+    display: flex;
+    width: 800px;
 }
 
 p.contact {
@@ -141,10 +142,9 @@ ul.links li:last-child::after {
 }
 
 .photo-wrapper {
-    float: right;
     width: 200px;
     margin-left: 40px;
-    margin-right: -30px;
+    margin-right: 10px;
 }
 
 .photo-wrapper img {
@@ -157,9 +157,11 @@ ul.links li:last-child::after {
 }
 
 @media only screen and (max-width: 640px) {
+    .content.home {
+        flex-direction: column-reverse;
+    }
+
     .photo-wrapper {
-        float: none;
-        margin: 0 0 30px;
         max-width: 100%;
     }
 }
