@@ -17,7 +17,7 @@ Projektmanagement im Planungsbüro?
     Überblick über die laufenden Projekte? Sie erwarten von Ihren Projektleitern
     ein besseres Verständnis für Kosten, Termine und Qualitäten?
 
-Meine rund zehnjährige berufliche Erfahrung habe ich als Planerin und
+Meine rund zehnjährige berufliche [Erfahrung](/vita) habe ich als Planerin und
 Bauleiterin in kleinen Architekturbüros und zuletzt als Projektmanagerin in der
 Generalplanung gesammelt.
 
