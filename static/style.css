@@ -147,7 +147,7 @@ ul.links li:last-child::after {
     margin-right: -30px;
 }
 
-.photo-wrapper > img {
+.photo-wrapper img {
     width: 200px;
     margin-bottom: 20px;
 }

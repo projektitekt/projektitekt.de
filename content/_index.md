@@ -3,7 +3,9 @@
 
 <div class="photo-wrapper">
     <img src="/sylvia.jpg" class="photo" alt="Photo of Sylvia Schuster">
-    <img src="/digital-hub.svg" alt="Digital Hub Logo">
+    <a href="https://aachen.digital" target="_blank" rel="noopener noreferrer">
+        <img src="/digital-hub.svg" alt="Digital Hub Logo">
+    </a>
 </div>
 
 <p class="justify">
