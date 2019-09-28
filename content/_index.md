@@ -1,5 +1,4 @@
 ---
-title: NeuGierig? NeuGründung!
 ---
 
 <div class="photo-wrapper">
