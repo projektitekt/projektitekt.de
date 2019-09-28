@@ -1,6 +1,38 @@
 ---
-title: Vita
+title: Referenzen & Vita
 ---
+
+
+## Referenzen Projektitekt
+
+- Organisationsberatung, Qualitätsmanagement [VALERES Industriebau GmbH](https://www.valeres.de), Würselen (2019)
+
+## Projekte (2009-2019)
+
+- Projektmanagement: Neubau Produktionsgebäude und
+  Verwaltungsgebäude mit Betriebsrestaurant in Niederdorfelden für die [Engelhard Arzneimittel GmbH, Niederdorfelden](https://www.engelhard.de)
+- Projektmanagement: Neubau Pharmagebäude für Sterilabfüllung CEB-SFF2 in
+  Leverkusen für Bayer Technology Services
+- Machbarkeitsstudie für den Neubau eines Pharmagebäudes in
+  Sant Cugat/Spanien für Boehringer Ingelheim.
+- verschiedene Konzeptstudien im Labor- und Pharmasektor
+- Planung und Bauleitung: Neubau [Gewerbehalle mit Großküche](http://www.windmann-catering.de) in Hilden.
+- Planung und Bauleitung: Erweiterung private Kindertagesstätte, Erweiterung und Umbauten Schüco, Brandsanierung Bürogebäude und weitere Projekte im Raum Haan (Rheinland).
+- Planungsunterstützung studienbegleitend: C+P Werkstatt, verschiedene Kindergärten, denkmalgeschützter Wohnturm Aachen Sief, Qiagen Hilden uvm.
+
+
+## CV
+
+- 2019 Gründung von Projektitekt
+- 2018 Geschäftsführerin und Segelfluglehrerin im [Luftsportverein Aachen e.V.](https://www.lv-aachen.de) (Ehrenamt)
+- 2014 - 2019 Projektmanagerin, [Carpus+Partner AG](https://www.carpus.de), Aachen
+- 2016 Eintragung als Mitglied der Architektenkammer NRW
+- 2011 - 2013 Planering & Bauleiterin [Architekturbüro Werner Schüller](http://www.architekt-schueller.de), Haan
+- 2007 - 2010 Studienbegleitende Tätigkeiten in Aachen; [Anne Kloeters Innenarchitektur](http://akinnenarchitektur.de),<br>
+  Architekturbüro Heinz Kochs, [Fachhochschule Aachen](https://www.fh-aachen.de/fachbereiche/architektur/)
+- 2006 - 2012 Architektur, Fachholschule Aachen und [Universiti Sains Malaysia](https://www.usm.my/)
+- 2005 Abitur in Haan (Rhld.)
+
 
 ## Was mich zur Gründung von *Projektitekt* bewegt hat...
 
@@ -8,8 +40,8 @@ Während meiner Tätigkeit als Architektin, Bauleiterin und Projektmanagerin in
 Planungsbüros zwischen zwei und zweihundert Mitarbeitern habe ich viele
 unterschiedliche Facetten des Bau- und Planungsprozesses kennengelernt. Gelernt
 habe ich dabei vor allen Dingen, meine eigenen Stärken zu erkennen, weiter
-auszubauen und richtig zu nutzen. Ich bin Generalist durch und durch, liebe es,
-zu organisieren, zu analysieren, zu strukturieren und über viele Teilaspekte
+auszubauen und richtig zu nutzen. Ich bin Generalist durch und durch und bin 
+gut darin, zu analysieren, zu organisieren, strukturieren und über viele Teilaspekte
 eines großen Ganzen den Überblick zu behalten.
 
 In meiner Rolle als Projektmanagerin von Großbauprojekten habe ich mit vielen
@@ -27,57 +59,3 @@ Unternehmens gesteigert werden kann.
 Gerne führe ich mit Ihnen ein unverbindliches Gespräch über die Bedürfnisse und
 Potentiale in Ihrem Unernehmen. Rufen Sie mich an unter +49 177 63 101 89 oder
 schreiben Sie mir eine [E-Mail](mailto:sylvia.schuster@projektitekt.de).
-
-
-## Referenzen Projektitekt
-
-- Organisationsberatung: VALERES Industriebau GmbH, Würselen (2019)
-
-## Projekte (2011-2019)
-
-- Projektmanagement: Neubau eines Produktionsgebäudes und eines
-Verwaltungsgebäudes mit Betriebsrestaurant (Carpus+Partner AG, Bauherr:
-Engelhard Arzneimittel GmbH, Niederdorfelden)
-- Projektmanagement: Neubau Pharmagebäude für Sterilabfüllung CEB-SFF2,
-Leverkusen (Carpus+Partner AG, Bauherr: Bayer Technology Services)
-- Projektmanagement: Machbarkeitsstudie für den Neubau eines Pharmagebäudes,
-Sant Cugat/Spanien (Carpus+Partner, Kunde: Boehringer Ingelheim)
-- Projektassistenz: verschiedene Konzeptstudien im Labor- und Pharmasektor
-(Carpus+Partner AG)
-- Planung und Bauleitung: Neubau Gewerbehalle mit Großküche, Hilden
-- Ausführungsplanung und Bauleitung: Erweiterung private Kindertagesstätte, Haan.
-- Planung: Erweiterung und Umbauten Schüco, Haan.
-- Ausführungsplanung und Bauleitung: Brandsanierung Bürogebäude, Haan.
-
-## CV
-
-- 2019 Gründung von Projektitekt
-- 2014 - 2019 Projektmanagerin bei der [Carpus+Partner AG](https://www.carpus.de), Aachen
-- 2013 - 2014 Sabbatical Lateinamerika
-- 2011 - 2013 Architektin, Bauleiterin im [Architekturbüro Werner
-Schüller](http://www.architekt-schueller.de), Haan
-- 2016 Eintragung als Mitglied der Architektenkakmmer NRW
-- 2009 - 2010 Studienbegleitende Tätigkeit bei [Anne Kloeters
-Innenarchitektur](http://akinnenarchitektur.de), Aachen
-- 2008 - 2009 Studienbegleitende Tätigkeit im Architekturbüro Heinz Kochs, Aachen
-- 2007 - 2009 Hilfswissenschaftliche Mitarbeiterin an der [Fachhochschule
-Aachen](https://www.fh-aachen.de/fachbereiche/architektur/) bei Professor Thomas
-Tünnemann, Fachbereich Architektur)
-- 2006 - 2012 Studium der Architektur an der Fachholschule Aachen und der
-[Universiti Sains Malaysia](https://www.usm.my/), Penang (Abschluss: Master of
-Arts in Architektur)
-- 2005 Abitur in Haan (Rhld.)
-
-## Fortbildungen
-
-- Führungskompetenz, Feedbackkultur, Konflikttraining 
-- Grundlagen der BIM-Methode
-- Bikablo Visualisierungstraining
-- HOAI, Vergaberecht, VOB-konforme Bauabwicklung, Claim Management,
-Terminmanagement, Bauüberwachung und Recht, Projektmanagement, privates
-Baurecht, Kostenplanung etc.
-
-## Ehrenamt
-
-- seit 2019 Segelfluglehrerin Luftsportverein Aachen e.V.
-- seit 2018 Geschäftsführerin Luftsportverein Aachen e.V.
