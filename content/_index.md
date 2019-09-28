@@ -2,7 +2,10 @@
 title: NeuGierig? NeuGründung!
 ---
 
-<img src="/sylvia.jpg" class="photo" alt="Photo of Sylvia Schuster">
+<div class="photo-wrapper">
+    <img src="/sylvia.jpg" class="photo" alt="Photo of Sylvia Schuster">
+    <img src="/digital-hub.svg" alt="Digital Hub Logo">
+</div>
 
 <p class="justify">
     Schön, dass Sie vorbeischauen! Mein Unternehmen befindet sich aktuell in der

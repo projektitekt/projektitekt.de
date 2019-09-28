@@ -136,16 +136,24 @@ ul.links li:last-child::after {
     content: "";
 }
 
-.photo {
+.photo-wrapper {
     float: right;
     width: 200px;
-    border-radius: 50%;
     margin-left: 40px;
     margin-right: -30px;
 }
 
+.photo-wrapper > img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.photo {
+    border-radius: 50%;
+}
+
 @media only screen and (max-width: 640px) {
-    .photo {
+    .photo-wrapper {
         float: none;
         margin: 0 0 30px;
         max-width: 100%;
