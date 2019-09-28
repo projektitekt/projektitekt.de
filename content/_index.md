@@ -2,27 +2,29 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-Projektmanagement im Planungsbüro?
+Mit einer maßgeschneiderten Beratung unterstützt Projektitekt Architektur- und Planungsbüros bei der Projektorganisation, Termin- und Kostenmanagement sowie Digitalisierungsthemen. Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe.
 
   * Sie sind Architekt und haben Freude am kreativen Entwerfen, aber Terminpläne
-    und Honorartabellen sind jedes Mal aufs Neue ein Angang?
+    und Honorartabellen sind machen Ihnen das Leben schwer?
 
-  * Sie führen ein kleines oder mittelständisches Bauunternehmen, haben aber das
-    Gefühl, dass beim Unternehmenswachstum die Büroorgansation auf der Strecke
+  * Sie führen ein kleines oder mittelständisches Bauunternehmen, haben aber das 
+    Gefühl, dass beim immer schneller fortschreitenden Wachstum die Büroorgansation auf der Strecke
     bleibt?
 
-  * Sie möchten die Abläufe innerhalb der Projekte stäker standardisieren?
+  * Sie möchten die Abläufe innerhalb der Projekte stäker standardisieren und die Zufriedenheit
+    Ihrer Bauherren und Kunden steigern?
 
   * Die Auftragslage ist momentan besser denn je, aber Sie wünschen sich mehr
     Überblick über die laufenden Projekte? Sie erwarten von Ihren Projektleitern
-    ein besseres Verständnis für Kosten, Termine und Qualitäten?
+    ein besseres Verständnis für Kosten, Termine und Qualitäten, brauchen aber Unterstützung,
+    dieses Wissen im Unternehmenzu vermitteln?
 
 Meine rund zehnjährige berufliche [Erfahrung](/vita) habe ich als Planerin und
 Bauleiterin in kleinen Architekturbüros und zuletzt als Projektmanagerin in der
 Generalplanung gesammelt.
 
 Gerne führe ich mit Ihnen ein unverbindliches Gespräch, in dem wir uns über die
-Bedürfnisse und möglicherweise nicht genutzten Potentiale in Ihrem Unernehmen
+Bedürfnisse und möglicherweise nicht genutzten Potentiale in Ihrem Unternehmen
 unterhalten.
 
 Rufen Sie mich an unter +49 (177) 63 101 89 oder schreiben Sie mir eine
