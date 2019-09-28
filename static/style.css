@@ -63,23 +63,23 @@ h1.title {
     margin-bottom: 55px;
 }
 
-.content > p {
+.content p {
     margin: 0 0 16px;
 
     font-size: 16px;
     line-height: 24px;
 }
 
-.content > ul {
+.content ul {
     font-size: 16px;
     line-height: 24px;
 }
 
-.content > ul > li {
+.content ul > li {
     margin-bottom: 4px;
 }
 
-.content > p:last-child {
+.content p:last-child {
     margin-bottom: 0;
 }
 
