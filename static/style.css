@@ -99,6 +99,15 @@ span.mail {
     margin-top: 10px;
 }
 
+.social-media-button {
+    text-decoration: none;
+    margin-right: 4px;
+}
+
+.social-media-button > img {
+    width: 32px;
+}
+
 span.name {
     color: var(--color-dark-blue);
     font-weight: bold;

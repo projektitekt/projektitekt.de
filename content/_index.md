@@ -31,6 +31,16 @@ den sozialen Netzwerken auf
 [Xing](https://www.xing.com/profile/SylviaCarola_Schuster/portfolio) und
 [LinkedIn](https://www.linkedin.com/in/sylvia-carola-schuster-14725310b/).
 
+<a href="https://www.xing.com/profile/SylviaCarola_Schuster/portfolio" class="social-media-button" aria-hidden="true">
+  <img src="/xing.png">
+</a>
+<a href="https://www.linkedin.com/in/sylvia-carola-schuster-14725310b/" class="social-media-button" aria-hidden="true">
+  <img src="/linkedin.png">
+</a>
+<a href="https://www.instagram.com/projektitekt.de/" class="social-media-button" aria-hidden="true">
+  <img src="/instagram.png">
+</a>
+
 **Ich freue mich, Sie und Ihr Unternehmen kennen zu lernen!**
 
 <p class="contact">
