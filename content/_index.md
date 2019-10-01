@@ -8,7 +8,7 @@ Projektitekt unterstützt Architektur- und Planungsbüros bei der Projektorganis
     und Honorartabellen machen Ihnen das Leben schwer?
 
   * Sie führen ein kleines oder mittelständisches Bauunternehmen, haben aber das 
-    Gefühl, dass beim immer schneller fortschreitenden Wachstum die Büroorgansation auf der Strecke
+    Gefühl, dass beim immer schneller fortschreitenden Wachstum die Büroorganisation auf der Strecke
     bleibt?
 
   * Sie möchten die Abläufe innerhalb der Projekte stärker standardisieren und die Zufriedenheit
@@ -17,7 +17,7 @@ Projektitekt unterstützt Architektur- und Planungsbüros bei der Projektorganis
   * Die Auftragslage ist momentan besser denn je, aber Sie wünschen sich mehr
     Überblick über die laufenden Projekte? Sie erwarten von Ihren Projektleitern
     ein besseres Verständnis für Kosten, Termine und Qualitäten, brauchen aber Unterstützung,
-    dieses Wissen im Unternehmenzu vermitteln?
+    dieses Wissen im Unternehmen zu vermitteln?
 
 Meine rund zehnjährige berufliche [Erfahrung](/vita) habe ich als Planerin und
 Bauleiterin in kleinen Architekturbüros und zuletzt als Projektmanagerin in der
