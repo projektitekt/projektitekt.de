@@ -5,13 +5,13 @@ title: Organisationsberatung für Planungsbüros
 Projektitekt unterstützt Architektur- und Planungsbüros bei der Projektorganisation, im Termin- und Kostenmanagement sowie bei Digitalisierungsthemen durch eine maßgeschneiderte Beratung. Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Untenehmen.
 
   * Sie sind Architekt und haben Freude am kreativen Entwerfen, aber Terminpläne
-    und Honorartabellen sind machen Ihnen das Leben schwer?
+    und Honorartabellen machen Ihnen das Leben schwer?
 
   * Sie führen ein kleines oder mittelständisches Bauunternehmen, haben aber das 
     Gefühl, dass beim immer schneller fortschreitenden Wachstum die Büroorgansation auf der Strecke
     bleibt?
 
-  * Sie möchten die Abläufe innerhalb der Projekte stäker standardisieren und die Zufriedenheit
+  * Sie möchten die Abläufe innerhalb der Projekte stärker standardisieren und die Zufriedenheit
     Ihrer Bauherren und Kunden steigern?
 
   * Die Auftragslage ist momentan besser denn je, aber Sie wünschen sich mehr
