@@ -2,7 +2,9 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-Projektitekt unterstützt Architektur- und Planungsbüros bei der Projektorganisation, im Termin- und Kostenmanagement sowie bei Digitalisierungsthemen durch eine maßgeschneiderte Beratung. Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Untenehmen.
+Projektitekt unterstützt Architektur- und Planungsbüros bei der Projektorganisation, im Termin- und Kostenmanagement sowie bei Digitalisierungsthemen durch eine maßgeschneiderte Beratung. Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Unternehmen.
+
+Wenn die eine oder andere der folgenden Fragen für Sie relevant sind, dann sollten wir ins Gespräch kommen:
 
   * Sie sind Architekt und haben Freude am kreativen Entwerfen, aber Terminpläne
     und Honorartabellen machen Ihnen das Leben schwer?
@@ -18,6 +20,8 @@ Projektitekt unterstützt Architektur- und Planungsbüros bei der Projektorganis
     Überblick über die laufenden Projekte? Sie erwarten von Ihren Projektleitern
     ein besseres Verständnis für Kosten, Termine und Qualitäten, brauchen aber Unterstützung,
     dieses Wissen im Unternehmen zu vermitteln?
+    
+Ich unterstütze Sie gerne beim Projektmanagement und bei der Prozessoptimierung:
 
 Meine rund zehnjährige berufliche [Erfahrung](/vita) habe ich als Planerin und
 Bauleiterin in kleinen Architekturbüros und zuletzt als Projektmanagerin in der
@@ -43,7 +47,7 @@ den sozialen Netzwerken auf
   <img src="/instagram.png">
 </a>
 
-**Ich freue mich, Sie und Ihr Unternehmen kennen zu lernen!**
+**Ich freue mich, Sie und Ihr Unternehmen kennenzulernen!**
 
 <p class="contact">
     <span class="name">Sylvia C. Schuster</span>
