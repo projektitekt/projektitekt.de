@@ -44,7 +44,7 @@ Meine zweite große Leidenschaft gilt dem Reisen - mehrmonatige Aufenthalte in L
 Als Architektin, Bauleiterin und Projektmanagerin in unterschiedlich großen
 Planungsbüros habe ich viele Facetten des Bau- und Planungsprozesses kennengelernt.
 Meine ideale Rolle sehe ich dabei als Generalist: Es fällt mir leicht, über die vielen Teilaspekte
-eines großen Ganzen den Überblick zu behalten - und ich analysiere, organisiere und strukturieren sehr gerne.
+eines großen Ganzen den Überblick zu behalten - und ich analysiere, organisiere und strukturiere sehr gerne.
 
 Während meiner Tätigkeit als Projektmanagerin von Großbauprojekten habe ich mit vielen
 Planern und Planungsbüros zusammengearbeitet, die Experten auf ihrem Gebiet
