@@ -6,7 +6,7 @@ title: Referenzen & Vita
 ## Referenzen Projektitekt
 
 - Baumanagement, Terminplanung für das Architekturbüro Kochsplan, Aachen (2019-2020)
-- Organisationsberatung, Qualitätsmanagement für [VALERES Industriebau GmbH](https://www.valeres.de), Würselen (2019)
+- Organisationsberatung, Qualitätsmanagement für die [VALERES Industriebau GmbH](https://www.valeres.de), Würselen (2019)
 
 ## Projekte (2009-2019)
 
