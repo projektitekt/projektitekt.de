@@ -20,7 +20,7 @@ title: Referenzen & Vita
 - Konzeptstudie für die Sandoz GmbH in Kundl/Österreich.
 - Projektmanagement: Umbau Pharmaproduktion für BEMA Pharma in Berlin.
 - Planung und Bauleitung: Neubau [Gewerbehalle mit Großküche](http://www.windmann-catering.de) in Hilden.
-- Planung und Bauleitung: Erweiterung private Kindertagesstätte, Erweiterung und Umbauten Schüco, Brandsanierung Bürogebäude und weitere   Projekte im Raum Haan (Rheinland).
+- Planung und Bauleitung: Erweiterung private Kindertagesstätte, Erweiterung und Umbauten Schüco, Brandsanierung Bürogebäude, Erweiterung Pferdesportzentrum sowie verschiedene Wohnbauprojekte im Raum Haan (Rheinland).
 - Planungsunterstützung studienbegleitend: C+P Werkstatt, verschiedene Kindergärten, denkmalgeschützter Wohnturm Aachen Sief, Qiagen Hilden uvm.
 
 
