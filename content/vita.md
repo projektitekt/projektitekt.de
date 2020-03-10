@@ -6,7 +6,6 @@ title: Referenzen & Vita
 ## Referenzen Projektitekt
 
 - Prozessoptimierung, Qualitätsmanagement, Wissensmanagement für die [BOB efficiency design AG](http://www.bob-ag.de), Aachen (2020)
-- Fachspezifische Beratung & Schulung für [ROOMSDesign](https://www.rooms-design.eu), Münster (2020)
 - Baumanagement, Terminplanung für das Architekturbüro Kochsplan, Aachen (2019-2020)
 - Organisationsberatung, Qualitätsmanagement für die [VALERES Industriebau GmbH](https://www.valeres.de), Würselen (2019)
 
