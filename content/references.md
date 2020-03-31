@@ -12,14 +12,25 @@ title: Referenzen
 
 ## Projekte im Pharmasektor (2014-2019)
 
-- Projektmanagement (LP 2-8)<br>
-  Neubau Produktionsgebäude und Verwaltungsgebäude mit Betriebsrestaurant für die [Engelhard Arzneimittel GmbH, Niederdorfelden](https://www.engelhard.de), Niederdorfelden
+- **Neubau Produktionsgebäude und Verwaltungsgebäude mit Betriebsrestaurant** <br>
+  [Engelhard Arzneimittel GmbH](https://www.engelhard.de), Niederdorfelden <br>
+  Projektmanagement (LP 2-8)
 
-- Projektmanagement (LP 3-8)<br>
-  Neubau Pharmagebäude für Sterilabfüllung CEB-SFF2 für Bayer Technology Services, Leverkusen.
-- Machbarkeitsstudie für den Neubau eines Pharmagebäudes für Boehringer Ingelheim, Sant Cugat (Spanien).
-- Konzeptstudie für die Sandoz GmbH, Kundl (Österreich).
-- Machbarkeitsstudie: Umbau Pharmaproduktion für BEMA Pharma, Berlin.
+- **Pharmagebäude für Sterilabfüllung CEB-SFF2** <br>
+  [Bayer Technology Services](https://www.bayer.com), Leverkusen <br>
+  Projektmanagement (LP 3-8)
+  
+- **Erweiterung Pharmaproduktion Respimat** <br>
+  Boehringer Ingelheim, Sant Cugat (Spanien).<br>
+  Machbarkeitsstudie, Projektmanagement (LP 1-2)
+  
+- **Konzeptstudie und Masterplan für den Aufbau einer neuen Vial-Linie**<br>
+  Sandoz GmbH, Kundl (Österreich).<br>
+  Projektmanagement (LP 1-2)
+  
+- **Umbau Pharmaproduktion**<br>
+  BEMA Pharma, Berlin.<br>
+  Projektmanagement (LP 1-4)
 
 ## Private und gewerbliche Projekte (2008-2013)
 
