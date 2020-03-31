@@ -18,6 +18,7 @@ title: Referenzen
   [VALERES Industriebau GmbH](https://www.valeres.de), Würselen (2019).
   
 
+<br>
 Nachfolgende Projekte wurden durch die Gründerin von Projektitekt in verschiedenen Planungsbüros begleitet:
 
 ## Projekte im Pharmasektor
@@ -43,6 +44,7 @@ Nachfolgende Projekte wurden durch die Gründerin von Projektitekt in verschiede
   [BEMA Pharma](https://www.bemapharma.com), Berlin.<br>
   Projektmanagement (LP 1-4).
 
+
 ## Private und gewerbliche Projekte
 #### Werner Schüller Architektur, Haan (2010-2013)
 
@@ -59,7 +61,7 @@ Nachfolgende Projekte wurden durch die Gründerin von Projektitekt in verschiede
   Planung (LP 2-4).
   
 - **Brandsanierung Bürogebäude**<br>
-  [HSL Systemdesign GmbH](https://www.hsl.com), Haan (Rhld.).
+  [HSL Systemdesign GmbH](https://www.hsl.com), Haan (Rhld.).<br>
   Ausschreibung, Vergabe, Bauleitung (LP 6-8).
   
 - **Erweiterung Pferdesportzentrum**<br>
@@ -69,7 +71,7 @@ Nachfolgende Projekte wurden durch die Gründerin von Projektitekt in verschiede
 - **Verschiedene Wohnbauprojekte**<br>
   Haan, Gruiten, Erkrath, Hilden.<br>
   Alle Leistungsphasen.
-
+  
 #### Innenarchitektur / studienbegleitende Projekte (2008-2010)
 
 - **Büroflächen Neubau Planungsbüro**<br>
