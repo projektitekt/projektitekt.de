@@ -3,14 +3,26 @@ title: Referenzen
 ---
 
 
-## Referenzen Projektitekt
+## Referenzen Projektitekt (seit 2019)
 
-- Fachspezifsche Beratung & individuelle Schulung für [ROOMSDesign](https://www.rooms-design.eu), Münster (2020)
-- Prozessoptimierung, Qualitätsmanagement, Wissensmanagement für die [BOB efficiency design AG](http://www.bob-ag.de), Aachen (2020)
-- Baumanagement, Terminplanung für das Architekturbüro Kochsplan, Aachen (2019-2020)
-- Organisationsberatung, Qualitätsmanagement für die [VALERES Industriebau GmbH](https://www.valeres.de), Würselen (2019)
+- **Fachspezifsche Beratung & individuelle Schulung**<br>
+  [ROOMSDesign](https://www.rooms-design.eu), Münster.<br>
+  2020.
+  
+- **Prozessoptimierung, Qualitätsmanagement, Wissensmanagement**<br>
+  [BOB efficiency design AG](http://www.bob-ag.de), Aachen (2020).
+  
+- **Baumanagement, Terminplanung**<br>
+  Architekturbüro Kochsplan, Aachen (2019-2020).
+  
+- **Organisationsberatung, Prozessoptimierung, Qualitätsmanagement**<br>
+  [VALERES Industriebau GmbH](https://www.valeres.de), Würselen (2019).
+  
 
-## Projekte im Pharmasektor (2014-2019)
+Nachfolgende Projekte wurden durch die Gründerin von Projektitekt in verschiedenen Planungsbüros begleitet:
+
+## Projekte im Pharmasektor
+#### Carpus+Partner AG, Aachen (2014-2019)
 
 - **Neubau Produktionsgebäude und Verwaltungsgebäude mit Betriebsrestaurant** <br>
   [Engelhard Arzneimittel GmbH](https://www.engelhard.de), Niederdorfelden <br>
@@ -32,7 +44,8 @@ title: Referenzen
   [BEMA Pharma](https://www.bemapharma.com), Berlin.<br>
   Projektmanagement (LP 1-4)
 
-## Private und gewerbliche Projekte (2010-2013)
+## Private und gewerbliche Projekte
+#### Werner Schüller Architektur, Haan (2010-2013)
 
 - **Neubau Gewerbehalle mit Großküche, Bistro und Betreiberwohnung**<br>
   [Windmann Catering](https://www.windmann-catering.de), Hilden.<br>
@@ -55,9 +68,20 @@ title: Referenzen
   Planung (LP 2-5)
   
 - **Verschiedene Wohnbauprojekte**<br>
-  Kreis Mettmann,<br>
+  Kreis Mettmann<br>
   Alle Leistungsphasen
 
-## Projekte im Bereich Innenarchitektur (2008-2010)
-- C+P Werkstatt
-- verschiedene Kindergärten, denkmalgeschützter Wohnturm Aachen Sief, Qiagen Hilden uvm.
+#### Innenarchitektur / studienbegleitende Projekte (2008-2010)
+
+- **Büroflächen Neubau Planungsbüro**<br>
+  [Carpus+Partner AG](https://www.carpus.de), Aachen.
+  
+- **Büroflächen Neubau Konzernzentrale**<br>
+  [Qiagen](https://www.qiagen.com/), Hilden.
+  
+- **verschiedene Kindergärten**
+  Städteregion Aachen.
+  
+- **Sanierung denkmalgeschützter Wohnturm**<br>
+  [Kloster Brandenburg](https://de.wikipedia.org/wiki/Kloster_Brandenburg_(Sief)) aus dem 15. Jahrhundert, Aachen Sief.
+  
