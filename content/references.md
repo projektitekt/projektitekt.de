@@ -12,8 +12,11 @@ title: Referenzen
 
 ## Projekte im Pharmasektor (2014-2019)
 
-- Projektmanagement: Neubau Produktionsgebäude und Verwaltungsgebäude mit Betriebsrestaurant für die [Engelhard Arzneimittel GmbH, Niederdorfelden](https://www.engelhard.de), Niederdorfelden 
-- Projektmanagement: Neubau Pharmagebäude für Sterilabfüllung CEB-SFF2 für Bayer Technology Services, Leverkusen.
+- Projektmanagement (LP 2-8)<br>
+  Neubau Produktionsgebäude und Verwaltungsgebäude mit Betriebsrestaurant für die [Engelhard Arzneimittel GmbH, Niederdorfelden](https://www.engelhard.de), Niederdorfelden
+
+- Projektmanagement (LP 3-8)<br>
+  Neubau Pharmagebäude für Sterilabfüllung CEB-SFF2 für Bayer Technology Services, Leverkusen.
 - Machbarkeitsstudie für den Neubau eines Pharmagebäudes für Boehringer Ingelheim, Sant Cugat (Spanien).
 - Konzeptstudie für die Sandoz GmbH, Kundl (Österreich).
 - Machbarkeitsstudie: Umbau Pharmaproduktion für BEMA Pharma, Berlin.
@@ -25,7 +28,7 @@ title: Referenzen
 - Erweiterung und Umbauten Schüco, Planung (LP 2-4), Haan.
 - Brandsanierung Bürogebäude, Bauleitung (LP 6-8), Haan.
 - Erweiterung Pferdesportzentrum, Planung (LP 3-5), Haan.
-- verschiedene Wohnbauprojekte im Kreis Mettmann (LP 1-9), Raum Haan (Rhld.).
+- Wohnbauprojekte im Kreis Mettmann (LP 1-9), Raum Haan (Rhld.).
 
 
-- Planungsunterstützung studienbegleitend: C+P Werkstatt, verschiedene Kindergärten, denkmalgeschützter Wohnturm Aachen Sief, Qiagen Hilden uvm.
+- C+P Werkstatt, verschiedene Kindergärten, denkmalgeschützter Wohnturm Aachen Sief, Qiagen Hilden uvm.
