@@ -25,18 +25,16 @@ before_install:
   - export PATH=$HOME/.yarn/bin:$PATH
 
 install:
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz
-  - tar xzf hugo_0.55.6_Linux-64bit.tar.gz
   - yarn install --non-interactive
 
 script:
   - yarn test
-  - ./hugo
+  - yarn build -prod
 
 deploy:
   provider: pages
   skip_cleanup: true
-  local_dir: public
+  local_dir: dist
   github_token: $GITHUB_TOKEN
   on:
     branch: master
