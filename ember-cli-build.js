@@ -4,7 +4,16 @@ const EmberApp = require('ember-cli/lib/broccoli/ember-app');
 
 module.exports = function(defaults) {
   let app = new EmberApp(defaults, {
-    // Add options here
+    prember: {
+      urls: [
+        '/',
+        '/imprint',
+        '/news',
+        '/privacy',
+        '/vita',
+      ],
+      emptyFile: '404.html',
+    },
   });
 
   // Use `app.import` to add additional libraries to the generated
