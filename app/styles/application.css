@@ -33,7 +33,7 @@ a {
   h1.title {
     max-width: 80%;
     margin: 45px 0 35px;
-
+    hyphens: auto;
     font-size: 34px;
     color: var(--color-dark-blue);
 
@@ -50,7 +50,7 @@ a {
 
   .content p {
     margin: 0 0 16px;
-
+    hyphens: auto;
     font-size: 16px;
     line-height: 24px;
   }
