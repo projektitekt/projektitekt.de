@@ -1,8 +1,8 @@
 <PageProgress @background="var(--color-dark-blue)" />
 
-<a href="/">
+<LinkTo @route="index">
   <img src="/projektitekt-logo.svg" alt="Projektitekt Logo" class="logo">
-</a>
+</LinkTo>
 
 <hr class="separator">
 
@@ -11,10 +11,10 @@
 <hr class="separator">
 
 <ul class="links">
-  <li><a href="/news">News</a></li>
-  <li><a href="/vita">Referenzen & Vita</a></li>
-  <li><a href="/imprint">Impressum</a></li>
-  <li><a href="/privacy">Datenschutz</a></li>
+  <li><LinkTo @route="news">News</LinkTo></li>
+  <li><LinkTo @route="vita">Referenzen & Vita</LinkTo></li>
+  <li><LinkTo @route="imprint">Impressum</LinkTo></li>
+  <li><LinkTo @route="privacy">Datenschutz</LinkTo></li>
 </ul>
 
 <div class="copyright">
