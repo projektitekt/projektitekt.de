@@ -106,10 +106,6 @@ ul.links li:last-child::after {
     width: 800px;
   }
 
-  p.contact {
-    margin-top: 35px;
-  }
-
   @media only screen and (max-width: 640px) {
     .content.home {
       flex-direction: column-reverse;

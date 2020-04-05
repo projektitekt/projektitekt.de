@@ -36,21 +36,3 @@ Rufen Sie mich an unter +49 (177) 63 101 89 oder schreiben Sie mir eine
 den sozialen Netzwerken auf
 [Xing](https://www.xing.com/profile/SylviaCarola_Schuster/portfolio) und
 [LinkedIn](https://www.linkedin.com/in/sylvia-carola-schuster-14725310b/).
-
-<a href="https://www.xing.com/profile/SylviaCarola_Schuster/portfolio" class="social-media-button" aria-hidden="true">
-  <img src="/xing.png">
-</a>
-<a href="https://www.linkedin.com/in/sylvia-carola-schuster-14725310b/" class="social-media-button" aria-hidden="true">
-  <img src="/linkedin.png">
-</a>
-<a href="https://www.instagram.com/projektitekt.de/" class="social-media-button" aria-hidden="true">
-  <img src="/instagram.png">
-</a>
-
-**Ich freue mich, Sie und Ihr Unternehmen kennenzulernen!**
-
-<p class="contact">
-    <span class="name">Sylvia C. Schuster</span>
-    <span class="title">M.A. Architektin</span>
-    <span class="mail"><a href="mailto:sylvia.schuster@projektitekt.de">sylvia.schuster@projektitekt.de</a></span>
-</p>
