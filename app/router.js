@@ -8,7 +8,8 @@ export default class Router extends EmberRouter {
 
 Router.map(function() {
   this.route('news');
-  this.route('vita');
+  this.route('referenzen');
+  this.route('unternehmen');
   this.route('imprint');
   this.route('privacy');
 });
