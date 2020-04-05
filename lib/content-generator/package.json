@@ -1,0 +1,9 @@
+{
+  "name": "content-generator",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "broccoli-static-site-json": "*"
+  }
+}
