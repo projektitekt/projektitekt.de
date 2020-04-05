@@ -1,10 +1,81 @@
-.logo {
-  width: 320px;
-  max-width: calc(100% - 90px);
-  height: auto;
-  margin: 45px;
+.header {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 120px;
+  background: var(--color-dark-blue);
+  color: white;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+
+  @media only screen and (max-width: 640px) {
+    position: relative;
+    height: auto;
+  }
 }
 
-.separator {
-  composes: separator from '../styles/-shared.css';
+.spacer {
+  margin-bottom: 120px;
+
+  @media only screen and (max-width: 640px) {
+    margin: 0;
+  }
+}
+
+.content {
+  display: flex;
+  align-items: baseline;
+  width: 800px;
+  margin: 30px;
+
+  @media only screen and (max-width: 640px) {
+    flex-direction: column;
+  }
+}
+
+.logo-link {
+  flex-shrink: 0;
+  flex-grow: 1;
+}
+
+.logo {
+  width: 200px;
+  height: auto;
+
+  path {
+    fill: white;
+  }
+}
+
+.links {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 0 20px;
+
+  li {
+    display: inline;
+    margin-left: 18px;
+    font-size: 20px;
+
+    a {
+      color: white;
+      text-decoration: none;
+      letter-spacing: 0.019em;
+
+      &:global(.active) {
+        font-weight: bold;
+        letter-spacing: 0;
+      }
+    }
+
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+
+  @media only screen and (max-width: 640px) {
+    margin: 20px 0 0;
+  }
 }

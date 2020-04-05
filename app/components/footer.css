@@ -1,25 +1,69 @@
-.separator {
-  composes: separator from '../styles/-shared.css';
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 320px;
+  background: var(--color-dark-blue);
+  color: white;
 }
 
-ul.links {
+.content {
+  width: 800px;
+  margin: 0 30px;
+}
+
+.logo {
+  width: 150px;
+  height: auto;
+  margin-bottom: 16px;
+
+  path {
+    fill: white;
+  }
+}
+
+.name {
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  margin-bottom: 4px;
+}
+
+.title {
+  font-size: 12px;
+  margin-bottom: 16px;
+}
+
+.address {
+  font-size: 14px;
+  line-height: 18px;
+  margin-bottom: 16px;
+}
+
+.links {
+  font-size: 14px;
   list-style-type: none;
-  margin: 15px;
-  padding-inline-start: 0;
-}
+  padding: 0;
 
-ul.links li {
-  display: inline;
-}
+  li {
+    display: inline;
 
-ul.links li::after {
-  content: "–";
-  margin-left: 8px;
-  margin-right: 4px;
-}
+    a {
+      color: white;
+      text-decoration: none;
+    }
 
-ul.links li:last-child::after {
-  content: "";
+    &::after {
+      content: "·";
+      margin-left: 6px;
+      margin-right: 3px;
+    }
+
+    &:last-child::after {
+      content: "";
+    }
+  }
 }
 
 .copyright {
