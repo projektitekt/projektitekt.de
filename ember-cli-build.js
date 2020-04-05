@@ -14,6 +14,12 @@ module.exports = function(defaults) {
       ],
       emptyFile: '404.html',
     },
+
+    svgJar: {
+      sourceDirs: [
+        'public/svg-jar',
+      ],
+    },
   });
 
   // Use `app.import` to add additional libraries to the generated
