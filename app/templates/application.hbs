@@ -1,1 +1,33 @@
+<a href="/">
+  <img src="/projektitekt-logo.svg" alt="Projektitekt Logo" class="logo">
+</a>
+
+<hr class="separator">
+
 {{outlet}}
+
+<hr class="separator">
+
+<ul class="links">
+  <li><a href="/news">News</a></li>
+  <li><a href="/vita">Referenzen & Vita</a></li>
+  <li><a href="/imprint">Impressum</a></li>
+  <li><a href="/privacy">Datenschutz</a></li>
+</ul>
+
+<div class="copyright">
+  &copy; 2019-2020 Sylvia C. Schuster Projektitekt.
+</div>
+
+<script>
+  (function() {
+    var links = document.links;
+
+    for (var i = 0; i < links.length; i++) {
+      if (links[i].hostname !== window.location.hostname) {
+        links[i].target = '_blank';
+        links[i].rel = 'noopener noreferrer';
+      }
+    }
+  })();
+</script>
