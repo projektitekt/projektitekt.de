@@ -1,9 +1,28 @@
-{{title @model.title}}
+{{title "News"}}
 
-<h1 class="title">{{@model.title}}</h1>
+<h1 class="title">
+  News
+  <small local-class="subtitle">
+    via <a href="https://www.instagram.com/projektitekt.de/" target="_blank" rel="noopener noreferrer">Instagram</a>
+  </small>
+</h1>
 
 <div class="content">
-  {{html @model.html}}
+  <ol local-class="list">
+    {{#each @model as |post|}}
+      <li>
+        <a href="https://www.instagram.com/p/{{post.id}}/" target="_blank" rel="noopener noreferrer">
+          <img src={{post.src}} alt={{post.alt}}/>
+          <div local-class="caption-column">
+            <div local-class="caption">
+              {{trim post.caption}}
+            </div>
+            <div local-class="date">
+              {{relative-date post.date}}
+            </div>
+          </div>
+        </a>
+      </li>
+    {{/each}}
+  </ol>
 </div>
-
-<script async src="https://www.instagram.com/embed.js"></script>

@@ -1,7 +1,19 @@
 import Route from '@ember/routing/route';
+import fetch from 'fetch';
 
 export default class extends Route {
-  model() {
-    return this.store.findRecord('content', 'news');
+  async model() {
+    let response = await fetch('https://instagram.com/projektitekt.de?__a=1');
+    let { graphql: { user } } = await response.json();
+    return user.edge_owner_to_timeline_media.edges.map(it => {
+      let { node } = it;
+      let id = node.shortcode;
+      let src = node.thumbnail_src;
+      let alt = node.accessibility_caption;
+      let date = new Date(node.taken_at_timestamp * 1000);
+      let { edge_media_to_caption: { edges: captionEdges } } = node;
+      let caption = captionEdges[0].node.text;
+      return { id, caption, src, alt, date }
+    });
   }
 }
