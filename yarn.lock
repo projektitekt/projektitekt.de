@@ -8095,6 +8095,13 @@ memory-fs@~0.4.1:
     errno "^0.1.3"
     readable-stream "^2.0.1"
 
+memory-scroll@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/memory-scroll/-/memory-scroll-1.0.0.tgz#964b55053175454c1ade93e2e469c68419b3ac0a"
+  integrity sha512-dWN0ItndqYhCu2Tch7hzFaZMmYNyOJORNbOd+cMMu7BRlsxozYMKXjJFK559dm37qlIEquweuwVaktboYviFNw==
+  dependencies:
+    ember-cli-babel "^6.6.0"
+
 memory-streams@^0.1.3:
   version "0.1.3"
   resolved "https://registry.yarnpkg.com/memory-streams/-/memory-streams-0.1.3.tgz#d9b0017b4b87f1d92f55f2745c9caacb1dc93ceb"

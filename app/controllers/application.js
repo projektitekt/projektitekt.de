@@ -3,4 +3,5 @@ import { inject as service } from '@ember/service';
 
 export default class extends Controller {
   @service layout;
+  @service router;
 }

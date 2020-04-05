@@ -1,6 +1,7 @@
 {{!-- template-lint-disable no-implicit-this no-curly-component-invocation --}}
 {{head-layout}}
 {{title "Projektitekt" separator=" · " prepend=false}}
+{{remember-document-scroll key=this.router.currentRouteName}}
 
 <PageProgress @background="white" />
 <Header @wide={{this.layout.wide}} />
