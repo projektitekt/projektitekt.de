@@ -1,0 +1,10 @@
+.logo {
+  width: 320px;
+  max-width: calc(100% - 90px);
+  height: auto;
+  margin: 45px;
+}
+
+.separator {
+  composes: separator from '../styles/-shared.css';
+}
