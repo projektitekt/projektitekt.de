@@ -25,34 +25,6 @@ a {
   color: var(--color-dark-blue);
 }
 
-.separator {
-  composes: separator from './-shared.css';
-}
-
-ul.links {
-  list-style-type: none;
-  margin: 15px;
-  padding-inline-start: 0;
-}
-
-ul.links li {
-  display: inline;
-}
-
-ul.links li::after {
-  content: "–";
-  margin-left: 8px;
-  margin-right: 4px;
-}
-
-ul.links li:last-child::after {
-  content: "";
-}
-
-.copyright {
-  margin-bottom: 14px;
-}
-
 :global {
   h1.title {
     max-width: 80%;
