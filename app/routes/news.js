@@ -5,6 +5,6 @@ export default class extends Route {
   @service instagram;
 
   model() {
-    return this.instagram.loadPosts();
+    return this.instagram.getPosts();
   }
 }
