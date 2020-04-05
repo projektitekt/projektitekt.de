@@ -73,6 +73,10 @@ ul.links li:last-child::after {
 
     font-size: 34px;
     color: var(--color-dark-blue);
+
+    @media only screen and (max-width: 360px) {
+      font-size: 32px;
+    }
   }
 
   .content {
@@ -104,17 +108,9 @@ ul.links li:last-child::after {
   .content.home {
     display: flex;
     width: 800px;
-  }
 
-  @media only screen and (max-width: 640px) {
-    .content.home {
+    @media only screen and (max-width: 640px) {
       flex-direction: column-reverse;
-    }
-  }
-
-  @media only screen and (max-width: 360px) {
-    h1.title {
-      font-size: 32px;
     }
   }
 }
