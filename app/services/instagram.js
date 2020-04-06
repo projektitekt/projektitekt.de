@@ -16,7 +16,7 @@ export default class extends Service {
   }
 
   async loadPosts() {
-    let response = await fetch('https://instagram.com/projektitekt.de?__a=1');
+    let response = await fetch('https://www.instagram.com/projektitekt.de/?__a=1');
     let { graphql: { user } } = await response.json();
     return user.edge_owner_to_timeline_media.edges.map(it => {
       let { node } = it;
