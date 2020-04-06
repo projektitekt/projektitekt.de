@@ -8,21 +8,32 @@
 </h1>
 
 <div class="content">
-  <ol local-class="list">
-    {{#each @model as |post|}}
-      <li>
-        <a href="https://www.instagram.com/p/{{post.id}}/" target="_blank" rel="noopener noreferrer">
-          <img src={{post.src}} alt={{post.alt}}/>
-          <div local-class="caption-column">
-            <div local-class="caption">
-              {{trim post.caption}}
+  {{#if @model.loading}}
+    <div local-class="centered">
+      <LoadingSpinner local-class="loading"/>
+    </div>
+  {{else if @model.error}}
+    <div local-class="centered">
+      Leider ist das Laden der Inhalte von <a href="https://www.instagram.com/projektitekt.de/" target="_blank" rel="noopener noreferrer">Instagram</a> fehlgeschlagen :(
+      <span local-class="error">({{@model.error}})</span>
+    </div>
+  {{else}}
+    <ol local-class="list">
+      {{#each @model.posts as |post|}}
+        <li>
+          <a href="https://www.instagram.com/p/{{post.id}}/" target="_blank" rel="noopener noreferrer">
+            <img src={{post.src}} alt={{post.alt}}/>
+            <div local-class="caption-column">
+              <div local-class="caption">
+                {{trim post.caption}}
+              </div>
+              <div local-class="date">
+                {{relative-date post.date}}
+              </div>
             </div>
-            <div local-class="date">
-              {{relative-date post.date}}
-            </div>
-          </div>
-        </a>
-      </li>
-    {{/each}}
-  </ol>
+          </a>
+        </li>
+      {{/each}}
+    </ol>
+  {{/if}}
 </div>
