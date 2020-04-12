@@ -1,5 +1,5 @@
 .grid {
-  --grid-gap: 10px;
+  --grid-gap: 5px;
 
   display: grid;
   grid-template-columns: repeat(4, 25%);
@@ -16,7 +16,7 @@
   justify-content: center;
   align-items: center;
   margin: var(--grid-gap) 0 0 var(--grid-gap);
-  padding: 5px;
+  padding: 10px;
   border: none;
   border-radius: 2px;
   background: white;
@@ -44,6 +44,7 @@
   }
 
   @media only screen and (max-width: 450px) {
+    padding: 5px;
     hyphens: auto;
   }
 }
