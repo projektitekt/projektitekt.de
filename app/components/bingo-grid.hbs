@@ -1,0 +1,152 @@
+<div local-class="grid">
+  {{#if this.hasBingo}}
+    {{! template-lint-disable }}
+    {{confetti}}
+  {{/if}}
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 0) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 0)}}
+  >
+    <strong>Home Office BINGO</strong> für Video-Konferenzen
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 1) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 1)}}
+  >
+    „Sind alle da?“
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 2) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 2)}}
+  >
+    „Sorry, mein Akku war leer...“
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 3) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 3)}}
+  >
+    „Versteht ihr mich?“
+    {{svg-jar "speaker" local-class="speaker"}}
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 4) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 4)}}
+  >
+    „Mein WLAN spinnt!“
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 5) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 5)}}
+  >
+    Rückkopplung, Pfeifen, ...
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 6) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 6)}}
+  >
+    Kinderstimmen
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 7) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 7)}}
+  >
+    „Ich muss in die nächste Telko!“
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 8) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 8)}}
+  >
+    Schwarze Silhouette vor Fenster
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 9) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 9)}}
+  >
+    {{svg-jar "cat" local-class="cat"}}
+    Tiergeräusche
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 10) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 10)}}
+  >
+    „Ich musste kurz ein Paket annehmen“
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 11) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 11)}}
+  >
+    Verpixeltes Bild / gar kein Bild
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 12) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 12)}}
+  >
+    Lautes Tastatur-Tippen
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 13) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 13)}}
+  >
+    ...alle reden gleichzeitig.
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 14) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 14)}}
+  >
+    „Hallo? Halloooo?“
+  </button>
+
+  <button
+    type="button"
+    aria-pressed="{{if (get this.state 15) "true" "false"}}"
+    local-class="item"
+    {{on "click" (fn this.toggle 15)}}
+  >
+    Partner läuft durchs Bild
+  </button>
+</div>

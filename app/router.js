@@ -10,6 +10,7 @@ Router.map(function() {
   this.route('news');
   this.route('referenzen');
   this.route('unternehmen');
+  this.route('bingo');
   this.route('imprint');
   this.route('privacy');
 });
