@@ -1,0 +1,8 @@
+.content {
+  composes: content from global;
+
+  @media only screen and (max-width: 640px) {
+    max-width: unset;
+    width: 100%;
+  }
+}

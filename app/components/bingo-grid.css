@@ -42,6 +42,10 @@
       background: #203864;
     }
   }
+
+  @media only screen and (max-width: 450px) {
+    hyphens: auto;
+  }
 }
 
 .speaker {
