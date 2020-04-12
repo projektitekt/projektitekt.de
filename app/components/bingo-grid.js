@@ -8,7 +8,7 @@ export default class BingoGrid extends Component {
   @service fastboot;
 
   @tracked state = [
-    true, false, false, false,
+    false, false, false, false,
     false, false, false, false,
     false, false, false, false,
     false, false, false, false,
