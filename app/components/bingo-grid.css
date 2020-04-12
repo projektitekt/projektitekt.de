@@ -34,6 +34,10 @@
     outline: none;
   }
 
+  &::-moz-focus-inner {
+    border: 0;
+  }
+
   &[aria-pressed="true"] {
     background: #2F5597;
     color: white;
