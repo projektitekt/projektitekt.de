@@ -4,149 +4,48 @@
     {{confetti}}
   {{/if}}
 
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 0) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 0)}}
-  >
-    „Hallo? Halloooo?“
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 1) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 1)}}
-  >
-    „Sind alle da?“
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 2) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 2)}}
-  >
-    „Sorry, mein Akku war leer...“
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 3) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 3)}}
-  >
-    „Versteht ihr mich?“
-    {{svg-jar "speaker" local-class="speaker"}}
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 4) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 4)}}
-  >
-    „Mein WLAN spinnt!“
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 5) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 5)}}
-  >
-    Rückkopplung, Pfeifen, ...
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 6) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 6)}}
-  >
-    Kinderstimmen
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 7) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 7)}}
-  >
-    „Ich muss in die nächste Telko!“
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 8) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 8)}}
-  >
-    Schwarze Silhouette vor Fenster
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 9) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 9)}}
-  >
-    {{svg-jar "cat" local-class="cat"}}
-    Tiergeräusche
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 10) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 10)}}
-  >
-    „Ich musste kurz ein Paket annehmen“
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 11) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 11)}}
-  >
-    Verpixeltes Bild / gar kein Bild
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 12) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 12)}}
-  >
-    Lautes Tastatur-Tippen
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 13) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 13)}}
-  >
-    ...alle reden gleichzeitig.
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 14) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 14)}}
-  >
-    Klospülung
-  </button>
-
-  <button
-    type="button"
-    aria-pressed="{{if (get this.state 15) "true" "false"}}"
-    local-class="item"
-    {{on "click" (fn this.toggle 15)}}
-  >
-    Partner läuft durchs Bild
-  </button>
+  {{#each this.state key=index as |value index|}}
+    <button
+      type="button"
+      aria-pressed="{{if (get this.state index) "true" "false"}}"
+      local-class="item"
+      {{on "click" (fn this.toggle index)}}
+    >
+      {{#if (eq index 0)}}
+        „Hallo? Halloooo?“
+      {{else if (eq index 1)}}
+        „Sind alle da?“
+      {{else if (eq index 2)}}
+        „Sorry, mein Akku war leer...“
+      {{else if (eq index 3)}}
+        „Versteht ihr mich?“
+        {{svg-jar "speaker" local-class="speaker"}}
+      {{else if (eq index 4)}}
+        „Mein WLAN spinnt!“
+      {{else if (eq index 5)}}
+        Rückkopplung, Pfeifen, ...
+      {{else if (eq index 6)}}
+        Kinderstimmen
+      {{else if (eq index 7)}}
+        „Ich muss in die nächste Telko!“
+      {{else if (eq index 8)}}
+        Schwarze Silhouette vor Fenster
+      {{else if (eq index 9)}}
+        {{svg-jar "cat" local-class="cat"}}
+        Tiergeräusche
+      {{else if (eq index 10)}}
+        „Ich musste kurz ein Paket annehmen“
+      {{else if (eq index 11)}}
+        Verpixeltes Bild / gar kein Bild
+      {{else if (eq index 12)}}
+        Lautes Tastatur-Tippen
+      {{else if (eq index 13)}}
+        ...alle reden gleichzeitig.
+      {{else if (eq index 14)}}
+        Klospülung
+      {{else if (eq index 15)}}
+        Partner läuft durchs Bild
+      {{/if}}
+    </button>
+  {{/each}}
 </div>
