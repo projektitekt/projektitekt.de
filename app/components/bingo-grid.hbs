@@ -4,48 +4,50 @@
     {{confetti}}
   {{/if}}
 
-  {{#each this.state key=index as |value index|}}
+  {{#each this.order as |contentIndex index|}}
     <button
       type="button"
       aria-pressed="{{if (get this.state index) "true" "false"}}"
       local-class="item"
       {{on "click" (fn this.toggle index)}}
     >
-      {{#if (eq index 0)}}
-        „Hallo? Halloooo?“
-      {{else if (eq index 1)}}
-        „Sind alle da?“
-      {{else if (eq index 2)}}
-        „Sorry, mein Akku war leer...“
-      {{else if (eq index 3)}}
-        „Versteht ihr mich?“
-        {{svg-jar "speaker" local-class="speaker"}}
-      {{else if (eq index 4)}}
-        „Mein WLAN spinnt!“
-      {{else if (eq index 5)}}
-        Rückkopplung, Pfeifen, ...
-      {{else if (eq index 6)}}
-        Kinderstimmen
-      {{else if (eq index 7)}}
-        „Ich muss in die nächste Telko!“
-      {{else if (eq index 8)}}
-        Schwarze Silhouette vor Fenster
-      {{else if (eq index 9)}}
-        {{svg-jar "cat" local-class="cat"}}
-        Tiergeräusche
-      {{else if (eq index 10)}}
-        „Ich musste kurz ein Paket annehmen“
-      {{else if (eq index 11)}}
-        Verpixeltes Bild / gar kein Bild
-      {{else if (eq index 12)}}
-        Lautes Tastatur-Tippen
-      {{else if (eq index 13)}}
-        ...alle reden gleichzeitig.
-      {{else if (eq index 14)}}
-        Klospülung
-      {{else if (eq index 15)}}
-        Partner läuft durchs Bild
-      {{/if}}
+      <span local-class="text {{if (not textVisible) "hidden"}}">
+        {{#if (eq contentIndex 0)}}
+          „Hallo? Halloooo?“
+        {{else if (eq contentIndex 1)}}
+          „Sind alle da?“
+        {{else if (eq contentIndex 2)}}
+          „Sorry, mein Akku war leer...“
+        {{else if (eq contentIndex 3)}}
+          „Versteht ihr mich?“
+          {{svg-jar "speaker" local-class="speaker"}}
+        {{else if (eq contentIndex 4)}}
+          „Mein WLAN spinnt!“
+        {{else if (eq contentIndex 5)}}
+          Rückkopplung, Pfeifen, ...
+        {{else if (eq contentIndex 6)}}
+          Kinderstimmen
+        {{else if (eq contentIndex 7)}}
+          „Ich muss in die nächste Telko!“
+        {{else if (eq contentIndex 8)}}
+          Schwarze Silhouette vor Fenster
+        {{else if (eq contentIndex 9)}}
+          {{svg-jar "cat" local-class="cat"}}
+          Tiergeräusche
+        {{else if (eq contentIndex 10)}}
+          „Ich musste kurz ein Paket annehmen“
+        {{else if (eq contentIndex 11)}}
+          Verpixeltes Bild / gar kein Bild
+        {{else if (eq contentIndex 12)}}
+          Lautes Tastatur-Tippen
+        {{else if (eq contentIndex 13)}}
+          ...alle reden gleichzeitig.
+        {{else if (eq contentIndex 14)}}
+          Klospülung
+        {{else if (eq contentIndex 15)}}
+          Partner läuft durchs Bild
+        {{/if}}
+      </span>
     </button>
   {{/each}}
 </div>
