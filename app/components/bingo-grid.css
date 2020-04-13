@@ -4,7 +4,7 @@
   display: grid;
   grid-template-columns: repeat(4, 25%);
   grid-template-rows: repeat(4, minmax(110px, 25%));
-  background: #dae3f3;
+  background: var(--blue200);
   padding-right: var(--grid-gap);
   padding-bottom: var(--grid-gap);
   border-radius: 4px;
@@ -19,17 +19,17 @@
   border: none;
   border-radius: 2px;
   background: white;
-  color: #2f5597;
+  color: var(--blue700);
   font-size: .9rem;
   cursor: pointer;
   transition: 75ms;
 
   &:hover {
-    background: #b4c7e7;
+    background: var(--blue300);
   }
 
   &:focus {
-    box-shadow: 0 0 0 3px var(--color-dark-blue);
+    box-shadow: 0 0 0 3px var(--blue800);
     outline: none;
   }
 
@@ -38,11 +38,11 @@
   }
 
   &[aria-pressed="true"] {
-    background: #2F5597;
+    background: var(--blue700);
     color: white;
 
     &:hover {
-      background: #203864;
+      background: var(--blue800);
     }
   }
 
