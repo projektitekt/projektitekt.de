@@ -1,0 +1,40 @@
+name: Deployment
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  '0 3 * * *' # daily, at 3am
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+
+      - run: yarn install --frozen-lockfile
+      - run: yarn build -prod
+
+      - uses: webfactory/ssh-agent@v0.2.0
+        with:
+          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+
+      - uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          BASE_BRANCH: master
+          BRANCH: gh-pages
+          CLEAN: true
+          FOLDER: dist
+          GIT_CONFIG_NAME: Projektitekt
+          GIT_CONFIG_EMAIL: bot@projektitekt.de
+          SINGLE_COMMIT: true
+          SSH: true
