@@ -6,14 +6,21 @@ export default class extends Route {
   @service instagram;
 
   async model() {
-    try {
-      if (this.fastboot.isFastBoot) {
-        return { loading: true };
-      } else {
-        return { posts: await this.instagram.getPosts() };
+    if (this.fastboot.isFastBoot) {
+      try {
+        let posts = await this.instagram.getPosts();
+        this.fastboot.shoebox.put('insta-posts', posts);
+      } catch (error) {
+        // ignore error
       }
+
+      return { loading: true };
+    }
+
+    try {
+      return { posts: await this.instagram.getPosts() };
     } catch (error) {
-      return { error };
+      return { error, posts: this.fastboot.shoebox.retrieve('insta-posts') };
     }
   }
 }

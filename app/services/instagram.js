@@ -23,7 +23,7 @@ export default class extends Service {
       let id = node.shortcode;
       let src = node.thumbnail_src;
       let alt = node.accessibility_caption;
-      let date = new Date(node.taken_at_timestamp * 1000);
+      let date = node.taken_at_timestamp * 1000;
       let { edge_media_to_caption: { edges: captionEdges } } = node;
       let caption = captionEdges[0].node.text;
       return { id, caption, src, alt, date }

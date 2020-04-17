@@ -12,12 +12,7 @@
     <div local-class="centered">
       <LoadingSpinner local-class="loading"/>
     </div>
-  {{else if @model.error}}
-    <div local-class="centered">
-      Leider ist das Laden der Inhalte von <a href="https://www.instagram.com/projektitekt.de/" target="_blank" rel="noopener noreferrer">Instagram</a> fehlgeschlagen :(
-      <span local-class="error">({{@model.error}})</span>
-    </div>
-  {{else}}
+  {{else if @model.posts}}
     <ol local-class="list">
       {{#each @model.posts as |post|}}
         <li>
@@ -35,5 +30,12 @@
         </li>
       {{/each}}
     </ol>
+  {{else}}
+    <div local-class="centered">
+      Leider ist das Laden der Inhalte von <a href="https://www.instagram.com/projektitekt.de/" target="_blank" rel="noopener noreferrer">Instagram</a> fehlgeschlagen :(
+      {{#if @model.error}}
+        <span local-class="error">({{@model.error}})</span>
+      {{/if}}
+    </div>
   {{/if}}
 </div>
