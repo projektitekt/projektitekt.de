@@ -7,9 +7,9 @@ import { Ember as EmberIntegration } from '@sentry/integrations/esm/ember';
 
 import config from './config/environment';
 
-if (config.environment === 'production') {
+if (config.sentry.enabled) {
   Sentry.init({
-    dsn: 'https://45bb93af3b9f4070986722f65d768302@o379737.ingest.sentry.io/5204937',
+    ...config.sentry,
     integrations: [new EmberIntegration()]
   });
 }
