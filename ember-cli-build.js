@@ -29,6 +29,10 @@ module.exports = function(defaults) {
       emptyFile: '404.html',
     },
 
+    sourcemaps: {
+      enabled: true,
+    },
+
     svgJar: {
       sourceDirs: [
         'public/svg-jar',
