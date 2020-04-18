@@ -20,6 +20,8 @@
     "test:ember": "ember test"
   },
   "dependencies": {
+    "@sentry/browser": "^5.15.4",
+    "@sentry/integrations": "^5.15.4",
     "canvas-confetti": "^1.2.0",
     "date-fns": "^2.11.1"
   },
