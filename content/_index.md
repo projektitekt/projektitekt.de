@@ -6,6 +6,9 @@ Projektitekt unterstützt Architektur- und Planungsbüros bei der Projektorganis
 
 Wenn eine der folgenden Fragen für Sie relevant ist, sollten wir ins Gespräch kommen:
 
+  * Sie möchten die Abläufe innerhalb der Projekte stärker standardisieren und die Zufriedenheit
+    Ihrer Bauherren und Kunden steigern?
+
   * Sie sind Architekt und haben Freude am kreativen Entwerfen, aber Terminpläne
     und Honorartabellen machen Ihnen das Leben schwer?
 
@@ -13,19 +16,16 @@ Wenn eine der folgenden Fragen für Sie relevant ist, sollten wir ins Gespräch 
     Gefühl, dass beim immer schneller fortschreitenden Wachstum die Büroorganisation auf der Strecke
     bleibt?
 
-  * Sie möchten die Abläufe innerhalb der Projekte stärker standardisieren und die Zufriedenheit
-    Ihrer Bauherren und Kunden steigern?
-
   * Die Auftragslage ist momentan besser denn je, aber Sie wünschen sich mehr
     Überblick über die laufenden Projekte? Sie erwarten von Ihren Projektleitern
     ein besseres Verständnis für Kosten, Termine und Qualitäten, brauchen aber Unterstützung,
     dieses Wissen im Unternehmen zu vermitteln?
     
-Ich unterstütze Sie gerne beim Projektmanagement und bei der Prozessoptimierung:
+Projektitekt unterstützt Sie bei der Optimierung Ihrer Büro- und Projektabläufe. Gemeinsam stärken wir Ihre Kompetenz im Projektmanagement, identifizieren ungenutzte Potentiale der Mitarbeiter und finden die richtigen digitalen Lösungen. Durch effizientere Prozesse steigern wir die Zufriedenheit Ihrer Mitarbeiter - und natürlich auch die Ihrer Kunden.
 
-Meine rund zehnjährige berufliche [Erfahrung](/vita) habe ich als Planerin und
+Meine rund zehnjährige berufliche [Erfahrung](/referenzen) habe ich als Planerin und
 Bauleiterin in kleinen Architekturbüros und zuletzt als Projektmanagerin in der
-Generalplanung gesammelt.
+Generalplanung gesammelt. Seit Mai 2019 berät Projektitekt Architektur- und Planungsbüros, Bauunternehmen und Projektentwickler.
 
 Gerne führe ich mit Ihnen ein unverbindliches Gespräch, in dem wir uns über die
 Bedürfnisse und möglicherweise nicht genutzten Potentiale in Ihrem Unternehmen
