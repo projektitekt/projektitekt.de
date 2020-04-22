@@ -17,7 +17,7 @@ title: Referenzen
 - **Organisationsberatung, Prozessoptimierung, Qualitätsmanagement**<br>
   [VALERES Industriebau GmbH](https://www.valeres.de), Würselen (2019).
   
-![Workshop mit Projektitekt](/projektitekt_workshop.jpg)
+![Workshop mit Projektitekt](/contents/projektitekt_workshop.jpg)
 <br>
 Nachfolgende Projekte wurden durch die Gründerin von Projektitekt in verschiedenen Planungsbüros begleitet:
 
@@ -27,7 +27,7 @@ Nachfolgende Projekte wurden durch die Gründerin von Projektitekt in verschiede
 - **Neubau Produktionsgebäude und Verwaltungsgebäude mit Betriebsrestaurant** <br>
   [Engelhard Arzneimittel GmbH](https://www.engelhard.de), Niederdorfelden. <br>
   Projektmanagement (LP 2-8).<br>
-  [Artikel in der Fachzeitschrift "Facility Management"](/2018_Artikel_Facility_Management.pdf) (PDF 1,4 MB)
+  [Artikel in der Fachzeitschrift "Facility Management"](/contents/2018_Artikel_Facility_Management.pdf) (PDF 1,4 MB)
 
 - **Pharmagebäude für Sterilabfüllung CEB-SFF2** <br>
   [Bayer Technology Services](https://www.bayer.com), Leverkusen. <br>

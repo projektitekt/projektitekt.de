@@ -20,6 +20,10 @@ module.exports = function(defaults) {
       preferNative: true,
     },
 
+    fingerprint: {
+      exclude: ['contents'],
+    },
+
     prember: {
       urls: [
         '/',
