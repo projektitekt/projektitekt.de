@@ -17,7 +17,7 @@ title: Referenzen
 - **Organisationsberatung, Prozessoptimierung, Qualitätsmanagement**<br>
   [VALERES Industriebau GmbH](https://www.valeres.de), Würselen (2019).
   
-
+![Workshop mit Projektitekt](/projektitekt_workshop.jpg)
 <br>
 Nachfolgende Projekte wurden durch die Gründerin von Projektitekt in verschiedenen Planungsbüros begleitet:
 
