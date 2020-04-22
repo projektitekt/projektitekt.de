@@ -10,6 +10,8 @@ Meine Rolle war dabei immer die eines Generalisten: Es fällt mir leicht, über 
 eines großen Ganzen den Überblick zu behalten. Zu meinen größten Stärken zählen eine hohe analytische 
 Kompetenz, strukturiertes Denken und Organisationstalent.
 
+![Sylvia C. Schuster](/projektitekt_bauhelm.jpg)
+
 Während meiner Tätigkeit als **Projektmanagerin von Großbauprojekten** habe ich mit vielen
 Planern und Planungsbüros zusammengearbeitet, die Experten auf ihrem Gebiet
 sind. Ab einer gewissen Unternehmens- und Projektgröße scheint es selbstverständlich, dass
