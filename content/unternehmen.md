@@ -1,8 +1,6 @@
 ---
-title: Unternehmen
+title: Wie es zur Gründung von Projektitekt kam...
 ---
-
-## Wie es zur Gründung von Projektitekt kam...
 
 Als Architektin, Bauleiterin und Projektmanagerin in unterschiedlich großen
 Planungsbüros habe ich in den letzten zehn Jahren viele **Facetten des Planungs- und Bauprozesses** kennengelernt.
