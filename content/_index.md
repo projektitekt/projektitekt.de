@@ -3,8 +3,8 @@ title: Organisationsberatung für Planungsbüros
 ---
 
 Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit
-* umfangreichem Bau-Knowhow sowie einer
-* hohen methodischen Kompetenz im Projektmanagement
+* umfangreichem Bau-Knowhow
+* hoher methodischer Kompetenz im Projektmanagement
 * unter Einsatz digitaler Methoden.
 
 Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Unternehmen.
