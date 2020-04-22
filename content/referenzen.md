@@ -26,7 +26,8 @@ Nachfolgende Projekte wurden durch die Gründerin von Projektitekt in verschiede
 
 - **Neubau Produktionsgebäude und Verwaltungsgebäude mit Betriebsrestaurant** <br>
   [Engelhard Arzneimittel GmbH](https://www.engelhard.de), Niederdorfelden. <br>
-  Projektmanagement (LP 2-8).
+  Projektmanagement (LP 2-8).<br>
+  [Artikel in der Fachzeitschrift "Facility Management"](/2018_Artikel_Facility_Management.pdf) (PDF 1,4 MB)
 
 - **Pharmagebäude für Sterilabfüllung CEB-SFF2** <br>
   [Bayer Technology Services](https://www.bayer.com), Leverkusen. <br>
