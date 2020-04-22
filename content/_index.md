@@ -2,7 +2,12 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-Projektitekt unterstützt Architektur- und Planungsbüros bei der Projektorganisation, im Termin- und Kostenmanagement sowie bei Digitalisierungsthemen durch eine maßgeschneiderte Beratung. Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Unternehmen.
+Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit
+* umfangreichem Bau-Knowhow sowie einer
+* hohen methodischen Kompetenz im Projektmanagement
+* unter Einsatz digitaler Methoden.
+
+Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Unternehmen.
 
 Wenn eine der folgenden Fragen für Sie relevant ist, sollten wir ins Gespräch kommen:
 
@@ -21,7 +26,7 @@ Wenn eine der folgenden Fragen für Sie relevant ist, sollten wir ins Gespräch 
     ein besseres Verständnis für Kosten, Termine und Qualitäten, brauchen aber Unterstützung,
     dieses Wissen im Unternehmen zu vermitteln?
     
-Projektitekt unterstützt Sie bei der Optimierung Ihrer Büro- und Projektabläufe. Gemeinsam stärken wir Ihre Kompetenz im Projektmanagement, identifizieren ungenutzte Potentiale der Mitarbeiter und finden die richtigen digitalen Lösungen. Durch effizientere Prozesse steigern wir die Zufriedenheit Ihrer Mitarbeiter - und natürlich auch die Ihrer Kunden.
+Projektitekt unterstützt Sie bei der Optimierung Ihrer Büro- und Projektabläufe. Wir stärken wir Ihre Kompetenz im Projektmanagement, identifizieren ungenutzte Potentiale der Mitarbeiter und finden die richtigen digitalen Lösungen. Durch effizientere Prozesse steigern wir die Zufriedenheit Ihrer Mitarbeiter - und natürlich auch die Ihrer Kunden.
 
 Meine rund zehnjährige berufliche [Erfahrung](/referenzen) habe ich als Planerin und
 Bauleiterin in kleinen Architekturbüros und zuletzt als Projektmanagerin in der
