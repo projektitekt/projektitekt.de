@@ -39,5 +39,5 @@ unterhalten.
 Rufen Sie mich an unter +49 (177) 63 101 89 oder schreiben Sie mir eine
 [E-Mail](mailto:sylvia.schuster@projektitekt.de). Sie finden mich außerdem in
 den sozialen Netzwerken auf
-[Xing](https://www.xing.com/profile/SylviaCarola_Schuster/portfolio) und
+[Xing](https://www.xing.com/profile/SylviaC_Schuster/portfolio) und
 [LinkedIn](https://www.linkedin.com/in/sylvia-carola-schuster-14725310b/).
