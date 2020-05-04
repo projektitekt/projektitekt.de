@@ -9,6 +9,7 @@ export default class Router extends EmberRouter {
 Router.map(function() {
   this.route('news');
   this.route('referenzen');
+  this.route('vita');
   this.route('unternehmen');
   this.route('bingo');
   this.route('imprint');
