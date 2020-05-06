@@ -2,6 +2,9 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
+## 6. Mai 2020, 19 Uhr: Heute findet die Prämierungsfeier des NUK Gründerwettbewerbs statt. Projektitekt freut sich über jede Stimme beim Publikumspreis! Livestream ab 19 Uhr auf [Youtube](https://www.youtube.com/watch?v=h7MClNxSPfE)!
+Artikel "bau | beratung | architektur" [hier lesen](https://www.bba-online.de/aktuell/meldungen/architektin-start-up-gruenderpreis-nominiert/).
+
 Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit
 * umfangreichem Bau-Knowhow
 * hoher methodischer Kompetenz im Projektmanagement
