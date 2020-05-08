@@ -29,6 +29,7 @@ module.exports = function(defaults) {
         '/',
         '/imprint',
         '/news',
+        '/presse',
         '/privacy',
         '/bingo',
         '/referenzen',

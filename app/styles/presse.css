@@ -1,0 +1,9 @@
+.presse {
+  ul > li {
+    margin-bottom: 20px;
+
+    strong {
+      font-size: 110%;
+    }
+  }
+}
