@@ -3,10 +3,7 @@ title: Organisationsberatung für Planungsbüros
 ---
 
 <div style="background: var(--blue800);color: white;border-radius: 2px;padding: 15px;margin: -15px;margin-bottom: 20px">
-    <p>6. Mai 2020: Heute findet die Prämierungsfeier des NUK Gründerwettbewerbs statt.
-    Projektitekt freut sich über jede Stimme beim Publikumspreis! Livestream ab 19
-    Uhr auf <a href="https://www.youtube.com/watch?v=h7MClNxSPfE" style="color: white;margin-left: 1px">Youtube</a>!</p>
-
+    <p>Vielen Dank für die Unterstützung beim NUK-Wettbewerb! Projektitekt hat den Publikumspreis gewonnen!</p>
     <p>Mehr Details im Artikel "bau | beratung | architektur"
     <a href="https://www.bba-online.de/aktuell/meldungen/architektin-start-up-gruenderpreis-nominiert/" style="color: white">hier lesen</a>.</p>
 </div>
