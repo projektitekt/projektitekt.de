@@ -14,7 +14,7 @@ title: Pressespiegel
 Online-Artikel [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/blog/2020/05/06/abe-mitglied-projektitekt-beim-gruenderwettbewerb-nuk-nominiert/?kat2&target=news_item4653), 06.05.2020
 
 > **Ausgezeichnete Ideen, aus denen noch viel mehr werden kann**<br>
-  Artikel in den Wirtschaftlichen Nachrichten, 04.2020
+  Artikel in den [Wirtschaftlichen Nachrichten](/contents/020-04_Wirtschaftliche_Nachrichten_Gruendungswettbewerb.pdf) (PDF 0,3 MB), 04.2020
 
 
 ## Archiv Presseartikel
