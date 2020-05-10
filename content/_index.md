@@ -3,8 +3,7 @@ title: Organisationsberatung für Planungsbüros
 ---
 
 <div style="background: var(--blue800);color: white;border-radius: 2px;padding: 15px;margin: -15px;margin-bottom: 20px">
-    <p>Vielen Dank für die Unterstützung beim NUK-Wettbewerb! Projektitekt hat den Publikumspreis gewonnen!</p></div>
-Hier geht es zum [Pressespiegel](/presse).
+    <p>Vielen Dank für die Unterstützung beim NUK-Wettbewerb! Projektitekt hat den Publikumspreis gewonnen! Hier geht es zum [Pressespiegel](/presse).</p></div>
 
 
 Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit
