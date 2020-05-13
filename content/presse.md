@@ -4,7 +4,7 @@ title: Pressespiegel
 
 - **« Aachener Start-up gwinnt Publikumspreis »**<br>
   Aachener Nachrichten (Seite 9, Wirtschaft) vom 13.05.2020
-<img src="/contents/200513_aachener_nachrichten.png" style="border: black solid 1px";"width="70" align="right" >
+<img src="/contents/200513_aachener_nachrichten.png" "width="70" align="right" alt="Aachener Nachrichten vom 13.05.2020" style="border: black solid 1px">
 
 - **« Projektitekt gewinnt Publikumspreis beim 24. NUK Businessplanwettbewerb »**<br>
   Online-Artikel [Aachen.digital](https://aachen.digital/news/publikumspreis-projektitekt/), 08.05.2020.
@@ -18,7 +18,7 @@ title: Pressespiegel
 - **« Ausgezeichnete Ideen, aus denen noch viel mehr werden kann »**<br>
   Artikel in den [Wirtschaftlichen Nachrichten](/contents/2020-04_Wirtschaftliche_Nachrichten_Gruendungswettbewerb.pdf) (PDF 0,3 MB), 04.2020
 
-<img src="/contents/200508_baumeister_news.jpg" style="border: black solid 1px;">
+<img src="/contents/200508_baumeister_news.jpg" alt="Baumeister News vom 08.05.2020" style="border: black solid 1px;">
 
 - **« Standorterweiterung für Arzneimittelhersteller »**<br>
   Artikel in der [Facility Management](/contents/2018_Artikel_Facility_Management.pdf) (PDF 1,4 MB), 06.2018
