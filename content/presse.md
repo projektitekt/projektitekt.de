@@ -4,7 +4,7 @@ title: Pressespiegel
 
 - **« Aachener Start-up gwinnt Publikumspreis »**<br>
   Aachener Nachrichten (Seite 9, Wirtschaft) vom 13.05.2020
-<img src="/contents/200513_aachener_nachrichten.png" style="border: black solid 1px;">
+<img src="/contents/200513_aachener_nachrichten.png" style="border: black solid 1px";"width="70" align="right" >
 
 - **« Projektitekt gewinnt Publikumspreis beim 24. NUK Businessplanwettbewerb »**<br>
   Online-Artikel [Aachen.digital](https://aachen.digital/news/publikumspreis-projektitekt/), 08.05.2020.
