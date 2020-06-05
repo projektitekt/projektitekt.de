@@ -2,10 +2,6 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-<div style="background: var(--blue800);color: white;border-radius: 2px;padding: 15px;margin: -15px;margin-bottom: 20px">
-    <p>Hier geht es zum <a href="https://projektitekt.de/presse" style="color: white">Pressespiegel</a>.</p></div>
-
-
 Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit
 * umfangreichem Bau-Knowhow
 * hoher methodischer Kompetenz im Projektmanagement
@@ -39,6 +35,9 @@ Generalplanung gesammelt. Seit Mai 2019 berät Projektitekt Architektur- und Pla
 Gerne führe ich mit Ihnen ein unverbindliches Gespräch, in dem wir uns über die
 Bedürfnisse und möglicherweise nicht genutzten Potentiale in Ihrem Unternehmen
 unterhalten.
+
+<div style="background: var(--blue800);color: white;border-radius: 2px;padding: 15px;margin: -15px;margin-bottom: 20px">
+    <p>Sie möchten lesen, was die Medien über Projektitekt schreiben? Hier geht es zum <a href="https://projektitekt.de/presse" style="color: white">Pressespiegel</a>.</p></div>
 
 Rufen Sie mich an unter +49 (177) 63 101 89 oder schreiben Sie mir eine
 [E-Mail](mailto:sylvia.schuster@projektitekt.de). Sie finden mich außerdem in
