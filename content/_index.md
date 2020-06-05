@@ -36,8 +36,10 @@ Gerne führe ich mit Ihnen ein unverbindliches Gespräch, in dem wir uns über d
 Bedürfnisse und möglicherweise nicht genutzten Potentiale in Ihrem Unternehmen
 unterhalten.
 
+
 <div style="background: var(--blue800);color: white;border-radius: 2px;padding: 15px;margin: -15px;margin-bottom: 20px">
-    <p>Sie möchten lesen, was die Medien über Projektitekt schreiben? Hier geht es zum <a href="https://projektitekt.de/presse" style="color: white">Pressespiegel</a>.</p></div>
+    <p>Sie möchten lesen, was die Medien über Projektitekt schreiben? <br>
+      Hier geht es zum <a href="https://projektitekt.de/presse" style="color: white">Pressespiegel</a>.</p></div>
 
 Rufen Sie mich an unter +49 (177) 63 101 89 oder schreiben Sie mir eine
 [E-Mail](mailto:sylvia.schuster@projektitekt.de). Sie finden mich außerdem in
