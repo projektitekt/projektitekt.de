@@ -2,6 +2,10 @@
 title: Pressespiegel
 ---
 
+- **« Start-up Projektitekt: Bauen ohne Kostenexplosion »**<br>
+  Aachener Zeitung (Seite 1 & 6, Wirtschaft) vom 02.06.2020 <br>
+  Online-Artikel [Aachener Zeitung](https://www.aachener-zeitung.de/wirtschaft/bauen-ohne-kostenexplosion_aid-51371629), 01.06.2020.
+
 - **« Aachener Start-up gewinnt Publikumspreis »**<br>
   Aachener Nachrichten (Seite 9, Wirtschaft) vom 13.05.2020
 
