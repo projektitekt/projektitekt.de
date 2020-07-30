@@ -2,6 +2,10 @@
 title: Pressespiegel
 ---
 
+- **« Gründerwettbewerb NUK: Aachener Architektin gewinnt Publikumspreis »**<br>
+  Wirtschaftliche Nachrichten der IHK Aachen 07/2020 (Seite 62) vom 02.06.2020 <br>
+  Online-Artikel [IHK Aachen](https://www.aachen.ihk.de/blueprint/servlet/resource/blob/4834488/4a8c10682edbf95af135c43d26d888ef/wn-07-08-2020-data.pdf), 01.07.2020.
+  
 - **« Start-up Projektitekt: Bauen ohne Kostenexplosion »**<br>
   Aachener Zeitung (Seite 1 & 6, Wirtschaft) vom 02.06.2020 <br>
   Online-Artikel [Aachener Zeitung](https://www.aachener-zeitung.de/wirtschaft/bauen-ohne-kostenexplosion_aid-51371629), 01.06.2020.
