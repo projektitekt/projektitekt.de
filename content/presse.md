@@ -36,6 +36,6 @@ title: Pressespiegel
 - **« Standorterweiterung für Arzneimittelhersteller »**<br>
   Fachartikel in der [Facility Management](/contents/2018_Artikel_Facility_Management.pdf) (PDF 1,4 MB), 06.2018
   
-  - **« Trip in die Trabantenstadt: Vom Slum zur Megacity »**<br>
-  Bericht über Städtebaulichen Workshop in Kunming, China in der [Süddeutschen Zeitung] (/contents/090328_SDZ_Trabantenstadt.pdf) (PDF 0,1 MB), 28.03.2009
+ - **« Trip in die Trabantenstadt: Vom Slum zur Megacity »**<br>
+ Bericht über Städtebaulichen Workshop in Kunming, China in der [Süddeutschen Zeitung] (/contents/090328_SDZ_Trabantenstadt.pdf) (PDF 0,1 MB), 28.03.2009
   
