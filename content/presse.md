@@ -31,7 +31,7 @@ title: Pressespiegel
 <img src="/contents/200508_baumeister_news.jpg" alt="Baumeister News vom 08.05.2020" style="border: black solid 1px;">
 
 - **« Innovation aus Tradition: Standorterweiterung für Arzneimittelhersteller in fünfter Generation »**<br>
-  Fachartikel in der [Reinraumtechnik], 03.2019.
+  Fachartikel in der [Reinraumtechnik](https://www.reinraum.de/news.html?id=5298), 03.2019.
 
 - **« Standorterweiterung für Arzneimittelhersteller »**<br>
   Fachartikel in der [Facility Management](/contents/2018_Artikel_Facility_Management.pdf) (PDF 1,4 MB), 06.2018
