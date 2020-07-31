@@ -10,7 +10,7 @@ title: Pressespiegel
   Aachener Zeitung (Seite 1 & 6, Wirtschaft) vom 02.06.2020 <br>
   Online-Artikel [Aachener Zeitung (paywall)](https://www.aachener-zeitung.de/wirtschaft/bauen-ohne-kostenexplosion_aid-51371629), 01.06.2020.
   
-<img src="/contents/AZ1.jpg" alt="Aachener Zeitung vom 02.06.2020" style="border: black solid 1px;"> 
+<img src="/contents/AZ1.jpg" alt="Aachener Zeitung vom 02.06.2020"> 
   
   - **« Ideen im Rampenlicht: Nominierte Gründer und Unternehmen der AC²-Wettbewerbe stehen fest »**<br>
   Wirtschaftliche Nachrichten der IHK Aachen 06/2020 (Seite 12-14) vom 01.06.2020 <br>
