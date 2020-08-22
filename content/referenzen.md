@@ -5,6 +5,9 @@ title: Referenzen
 
 ## Referenzen Projektitekt
 
+- **Lehrauftrag für Baumanagement**<br>
+  [Fachhochschule Aachen, Fachbereich Architektur](https://www.fh-aachen.de/fachbereiche/architektur/), Aachen (ab WS 2020/21)
+
 - **Prozessoptimierung, Qualitätsmanagement, Wissensmanagement**<br>
   [BOB efficiency design AG](https://www.bob-ag.de), Aachen (2020).
   
