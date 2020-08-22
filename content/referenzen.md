@@ -9,7 +9,7 @@ title: Referenzen
   [Fachhochschule Aachen, Fachbereich Architektur](https://www.fh-aachen.de/fachbereiche/architektur/), Aachen (ab WS 2020/21)
 
 - **Prozessoptimierung, Qualitätsmanagement, Wissensmanagement**<br>
-  [BOB efficiency design AG](https://www.bob-ag.de), Aachen (2020).
+  [BOB efficiency design AG](http://www.bob-ag.de), Aachen (2020).
   
 - **BIM-Schulungen im buildingSMART Zertifizierungsprogramm**<br>
   gemeinsam mit [Terrameta](https://www.terrameta.de), Aachen (2020).  
@@ -17,7 +17,7 @@ title: Referenzen
 - **Schulung BIM-Grundlagen**<br>
   [Aachen Building Experts e.V.](https://www.aachenbuildingexperts.de), Aachen (2020).
 
-- **Fachspezifsche Beratung & individuelle Schulung**<br>
+- **Beratung & individuelle Schulung (HOAI)**<br>
   [ROOMSDesign](https://www.rooms-design.eu), Münster (2020).
   
 - **Baumanagement, Terminplanung**<br>
