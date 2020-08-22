@@ -11,7 +11,7 @@ title: Referenzen
 - **Prozessoptimierung, Qualitätsmanagement, Wissensmanagement**<br>
   [BOB efficiency design AG](https://www.bob-ag.de), Aachen (2020).
   
-- **Dozentin im buildingSMART Zertifizierungsprogramm **<br>
+- **BIM-Schulungen im buildingSMART Zertifizierungsprogramm**<br>
   gemeinsam mit [Terrameta](https://www.terrameta.de), Aachen (2020).  
 
 - **Schulung BIM-Grundlagen**<br>
