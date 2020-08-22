@@ -3,13 +3,19 @@ title: Referenzen
 ---
 
 
-## Referenzen Projektitekt (seit 2019)
+## Referenzen Projektitekt
+
+- **Prozessoptimierung, Qualitätsmanagement, Wissensmanagement**<br>
+  [BOB efficiency design AG](https://www.bob-ag.de), Aachen (2020).
+  
+- **Dozentin im buildingSMART Zertifizierungsprogramm **<br>
+  gemeinsam mit [Terrameta](https://www.terrameta.de), Aachen (2020).  
+
+- **Schulung BIM-Grundlagen**<br>
+  [Aachen Building Experts e.V.](https://www.aachenbuildingexperts.de), Aachen (2020).
 
 - **Fachspezifsche Beratung & individuelle Schulung**<br>
   [ROOMSDesign](https://www.rooms-design.eu), Münster (2020).
-  
-- **Prozessoptimierung, Qualitätsmanagement, Wissensmanagement**<br>
-  [BOB efficiency design AG](http://www.bob-ag.de), Aachen (2020).
   
 - **Baumanagement, Terminplanung**<br>
   Architekturbüro Kochsplan, Aachen (2019-2020).
