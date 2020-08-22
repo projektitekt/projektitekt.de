@@ -12,7 +12,7 @@ title: Referenzen
   [BOB efficiency design AG](http://www.bob-ag.de), Aachen (2020).
   
 - **BIM-Schulungen im buildingSMART Zertifizierungsprogramm**<br>
-  gemeinsam mit [Terrameta](https://www.terrameta.de), Aachen (2020).  
+  gemeinsam mit [Terrameta](https://www.terrameta.de), Alsdorf (2020).  
 
 - **Schulung BIM-Grundlagen**<br>
   [Aachen Building Experts e.V.](https://www.aachenbuildingexperts.de), Aachen (2020).
