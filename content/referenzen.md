@@ -15,7 +15,7 @@ title: Referenzen
   in Kooperation mit [Terrameta](https://www.terrameta.de), Alsdorf (2020).  
 
 - **Schulung BIM-Grundlagen**<br>
-  [Aachen Building Experts e.V.](https://www.aachenbuildingexperts.de), Aachen (2020).
+  in Kooperation mit [Aachen Building Experts e.V.](https://www.aachenbuildingexperts.de), Aachen (2020).
 
 - **Beratung & individuelle Schulung (HOAI)**<br>
   [ROOMSDesign](https://www.rooms-design.eu), Münster (2020).
