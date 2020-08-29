@@ -25,6 +25,11 @@ Wenn eine der folgenden Fragen für Sie relevant ist, sollten wir ins Gespräch 
     Überblick über die laufenden Projekte? Sie erwarten bspw. von Ihren Projektleitern
     ein besseres Verständnis für Kosten, Termine und Qualitäten, brauchen aber Unterstützung,
     dieses Wissen im Unternehmen zu vermitteln?
+    
+Gerne führe ich mit Ihnen ein unverbindliches Gespräch über die Bedürfnisse und
+Potentiale in Ihrem Unternehmen. Rufen Sie mich an unter +49 177 63 101 89 oder
+schreiben Sie mir eine [E-Mail](mailto:sylvia.schuster@projektitekt.de).
+
 
 ***Wie es zur Gründung von Projektitekt kam...***
 
@@ -51,11 +56,7 @@ Ich bin davon überzeugt, dass in vielen kleinen und mittelständischen Büros d
 der internen Organisation nicht nur der Inhaber entlastet wird, sondern auch insgesamt die **Effizienz** 
 des Unternehmens gesteigert werden kann. Um diese **Potentiale** zu **erkennen**, ist ein Blick "von außen" oft sehr hilfreich.
 
-Gerne führe ich mit Ihnen ein unverbindliches Gespräch über die Bedürfnisse und
-Potentiale in Ihrem Unternehmen. Rufen Sie mich an unter +49 177 63 101 89 oder
-schreiben Sie mir eine [E-Mail](mailto:sylvia.schuster@projektitekt.de).
-
-**Sylvia C. Schuster**<br>
+**Sylvia Carola Schuster**<br>
 (Gründerin Projektitekt)
 
 
