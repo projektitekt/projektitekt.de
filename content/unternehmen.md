@@ -7,6 +7,8 @@ Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschne
 * einer hohen methodischen Kompetenz im Projektmanagement
 * unter Einsatz branchenspezifischer digitaler Werkzeuge.
 
+![Sylvia C. Schuster](/contents/projektitekt_bauhelm.jpg)
+
 Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Unternehmen.
 Wenn eine der folgenden Fragen für Sie relevant ist, sollten wir ins Gespräch kommen:
 
@@ -31,8 +33,6 @@ Planungsbüros habe ich in den letzten zehn Jahren viele **Facetten des Planungs
 Meine Rolle war dabei immer die eines Generalisten: Es fällt mir leicht, über die vielen Teilaspekte
 eines großen Ganzen den Überblick zu behalten. Zu meinen größten Stärken zählen eine hohe analytische 
 Kompetenz, strukturiertes Denken und Organisationstalent.
-
-![Sylvia C. Schuster](/contents/projektitekt_bauhelm.jpg)
 
 Während meiner Tätigkeit als **Projektmanagerin von Großbauprojekten** habe ich mit vielen
 Planern und Planungsbüros zusammengearbeitet, die Experten auf ihrem Gebiet
