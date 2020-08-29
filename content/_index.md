@@ -37,7 +37,7 @@ Bedürfnisse und möglicherweise nicht genutzten Potentiale in Ihrem Unternehmen
 unterhalten.
 
 
-<div style="background: var(--blue800);color: white;border-radius: 2px;padding: 15px;margin: -15px;margin-bottom: 20px">
+<div style="background: white;color: white;border-radius: 2px;padding: 15px;margin: -15px;margin-bottom: 20px">
     <p>Sie möchten lesen, was die Medien über Projektitekt schreiben? <br>
       Hier geht es zum <a href="https://projektitekt.de/presse" style="color: white">Pressespiegel</a>.</p></div>
 
