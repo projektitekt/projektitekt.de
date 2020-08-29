@@ -1,6 +1,31 @@
 ---
-title: Wie es zur Gründung von Projektitekt kam...
+title: Projektitekt macht Planungsbüros effizient
 ---
+
+Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit
+* umfangreichem Bau-Knowhow
+* einer hohen methodischen Kompetenz im Projektmanagement
+* unter Einsatz branchenspezifischer digitaler Werkzeuge.
+
+Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Unternehmen.
+Wenn eine der folgenden Fragen für Sie relevant ist, sollten wir ins Gespräch kommen:
+
+  * Sie möchten die Abläufe innerhalb der Projekte stärker standardisieren und die Zufriedenheit
+    Ihrer Bauherren und Kunden steigern?
+
+  * Sie sind Architekt und haben Freude am kreativen Entwerfen, aber Terminpläne
+    und Honorartabellen machen Ihnen das Leben schwer?
+
+  * Sie führen ein kleines oder mittelständisches Bauunternehmen, haben aber das 
+    Gefühl, dass beim immer schneller fortschreitenden Wachstum die Büroorganisation auf der Strecke
+    bleibt?
+
+  * Die Auftragslage ist momentan besser denn je, aber Sie wünschen sich mehr
+    Überblick über die laufenden Projekte? Sie erwarten von Ihren Projektleitern
+    ein besseres Verständnis für Kosten, Termine und Qualitäten, brauchen aber Unterstützung,
+    dieses Wissen im Unternehmen zu vermitteln?
+
+***Wie es zur Gründung von Projektitekt kam...***
 
 Als Architektin, Bauleiterin und Projektmanagerin in unterschiedlich großen
 Planungsbüros habe ich in den letzten zehn Jahren viele **Facetten des Planungs- und Bauprozesses** kennengelernt.
