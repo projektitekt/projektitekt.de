@@ -8,6 +8,8 @@ Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschne
 * unter Einsatz digitaler Methoden.
     
 Ziel ist die Optimierung Ihrer Büro- und Projektabläufe. Wir stärken Ihre Kompetenz im Projektmanagement, identifizieren ungenutzte Potentiale und finden die richtigen (digitalen) Lösungen. Durch effiziente Prozesse sparen Sie Zeit im Büro- und Projektalltag. 
+  
+![Schwerpunkte Projektitekt](/contents/USP_Projektitekt.PNG)
 
 Sylvia Carola Schuster hat Projektitekt im Mai 2019 in Aachen gegründet. Die branchenspezifische Organisations- und Prozessberatung fußt auf einer langjährigen Erfahrung der Gründerin als Architektin, Bauleiterin und Projektmanagerin ([Referenzen](/referenzen).
 
