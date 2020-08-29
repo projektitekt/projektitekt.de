@@ -10,18 +10,17 @@ Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschne
 Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Unternehmen.
 Wenn eine der folgenden Fragen für Sie relevant ist, sollten wir ins Gespräch kommen:
 
-  * Sie möchten die Abläufe innerhalb der Projekte stärker standardisieren und die Zufriedenheit
-    Ihrer Bauherren und Kunden steigern?
-
-  * Sie sind Architekt und haben Freude am kreativen Entwerfen, aber Terminpläne
-    und Honorartabellen machen Ihnen das Leben schwer?
-
   * Sie führen ein kleines oder mittelständisches Bauunternehmen, haben aber das 
     Gefühl, dass beim immer schneller fortschreitenden Wachstum die Büroorganisation auf der Strecke
     bleibt?
 
+  * Sie möchten die Abläufe innerhalb der Projekte stärker standardisieren und die Zufriedenheit
+    Ihrer Bauherren und Kunden steigern?
+
+  * Sie haben das Gefühl, viel Zeit in nicht wertschöpfende Tätigkeiten zu stecken, die Sie künftig vermeiden möchten? Es passieren oft die gleichen Fehler in der Planungsphase oder Sie benötigen ein effizientes Vorgehen bei der Dokumentation der Bauphase?
+
   * Die Auftragslage ist momentan besser denn je, aber Sie wünschen sich mehr
-    Überblick über die laufenden Projekte? Sie erwarten von Ihren Projektleitern
+    Überblick über die laufenden Projekte? Sie erwarten bspw. von Ihren Projektleitern
     ein besseres Verständnis für Kosten, Termine und Qualitäten, brauchen aber Unterstützung,
     dieses Wissen im Unternehmen zu vermitteln?
 
