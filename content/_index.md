@@ -6,36 +6,12 @@ Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschne
 * umfangreichem Bau-Knowhow
 * hoher methodischer Kompetenz im Projektmanagement
 * unter Einsatz digitaler Methoden.
-
-Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Unternehmen.
-
-Wenn eine der folgenden Fragen für Sie relevant ist, sollten wir ins Gespräch kommen:
-
-  * Sie möchten die Abläufe innerhalb der Projekte stärker standardisieren und die Zufriedenheit
-    Ihrer Bauherren und Kunden steigern?
-
-  * Sie sind Architekt und haben Freude am kreativen Entwerfen, aber Terminpläne
-    und Honorartabellen machen Ihnen das Leben schwer?
-
-  * Sie führen ein kleines oder mittelständisches Bauunternehmen, haben aber das 
-    Gefühl, dass beim immer schneller fortschreitenden Wachstum die Büroorganisation auf der Strecke
-    bleibt?
-
-  * Die Auftragslage ist momentan besser denn je, aber Sie wünschen sich mehr
-    Überblick über die laufenden Projekte? Sie erwarten von Ihren Projektleitern
-    ein besseres Verständnis für Kosten, Termine und Qualitäten, brauchen aber Unterstützung,
-    dieses Wissen im Unternehmen zu vermitteln?
     
-Projektitekt unterstützt Sie bei der Optimierung Ihrer Büro- und Projektabläufe. Wir stärken wir Ihre Kompetenz im Projektmanagement, identifizieren ungenutzte Potentiale der Mitarbeiter und finden die richtigen digitalen Lösungen. Durch effizientere Prozesse steigern wir die Zufriedenheit Ihrer Mitarbeiter - und natürlich auch die Ihrer Kunden.
+Ziel ist die Optimierung Ihrer Büro- und Projektabläufe. Wir stärken Ihre Kompetenz im Projektmanagement, identifizieren ungenutzte Potentiale und finden die richtigen (digitalen) Lösungen. Durch effiziente Prozesse sparen Sie Zeit im Büro- und Projektalltag. 
 
-Meine rund zehnjährige berufliche [Erfahrung](/referenzen) habe ich als Planerin und
-Bauleiterin in kleinen Architekturbüros und zuletzt als Projektmanagerin in der
-Generalplanung gesammelt. Seit Mai 2019 berät Projektitekt Architektur- und Planungsbüros, Bauunternehmen und Projektentwickler.
+Sylvia Carola Schuster hat Projektitekt im Mai 2019 in Aachen gegründet. Die branchenspezifische Organisations- und Prozessberatung fußt auf einer langjährigen Erfahrung der Gründerin als Architektin, Bauleiterin und Projektmanagerin ([Referenzen](/referenzen).
 
-Gerne führe ich mit Ihnen ein unverbindliches Gespräch, in dem wir uns über die
-Bedürfnisse und möglicherweise nicht genutzten Potentiale in Ihrem Unternehmen
-unterhalten.
-
+Gerne führe ich mit Ihnen ein unverbindliches Gespräch um herauszufinden, welche Potentiale in Ihrem Planungsbüro stecken und wie wir die Zufriedenheit Ihrer Mitarbeiter, Projektbeteiligten und Ihrer Bauherren nachhaltig verbessern können.
 
 <div style="background: white;color: white;border-radius: 2px;padding: 15px;margin: -15px;margin-bottom: 20px">
     <p>Sie möchten lesen, was die Medien über Projektitekt schreiben? <br>
