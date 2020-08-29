@@ -11,7 +11,7 @@ Ziel ist die Optimierung Ihrer Büro- und Projektabläufe. Wir stärken Ihre Kom
   
 ![USP Projektitekt](/contents/USP_Projektitekt.PNG)
 
-Sylvia Carola Schuster hat Projektitekt im Mai 2019 in Aachen gegründet. Die branchenspezifische Organisations- und Prozessberatung fußt auf einer langjährigen Erfahrung der Gründerin als Architektin, Bauleiterin und Projektmanagerin ([Referenzen](/referenzen).
+Sylvia Carola Schuster hat Projektitekt im Mai 2019 in Aachen gegründet. Die branchenspezifische Organisations- und Prozessberatung fußt auf einer langjährigen Erfahrung der Gründerin als Architektin, Bauleiterin und Projektmanagerin [(Referenzen)](/referenzen).
 
 Gerne führe ich mit Ihnen ein unverbindliches Gespräch um herauszufinden, welche Potentiale in Ihrem Planungsbüro stecken und wie wir die Zufriedenheit Ihrer Mitarbeiter, Projektbeteiligten und Ihrer Bauherren nachhaltig verbessern können.
 
