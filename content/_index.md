@@ -23,7 +23,3 @@ Rufen Sie mich an unter +49 (177) 63 101 89 oder schreiben Sie mir eine
 den sozialen Netzwerken auf
 [Xing](https://www.xing.com/profile/SylviaC_Schuster/portfolio) und
 [LinkedIn](https://www.linkedin.com/in/sylvia-c-schuster/).
-
-
-![Aachen Building Experts e.V.](/ABE_Logo_Member.png)(https://aachenbuildingexperts.de)
-![digitalHub e.V.](/digital-hub.svg)(https://aachen.digital)
