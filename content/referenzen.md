@@ -28,7 +28,7 @@ title: Referenzen
   
 ![Workshop mit Projektitekt](/contents/projektitekt_workshop.jpg)
 <br><br>
-Nachfolgende Projekte sollen einen Überlick über die Erfahrungen der Gründerin geben, die im Angestelltenverhältnis in verschiedenen Planungsbüros erangt wurden:
+Nachfolgende Projekte sollen einen Überlick über die Erfahrungen geben, die Sylvia Schuster im Angestelltenverhältnis in verschiedenen Planungsbüros erlangte. Die folgenden Projekte stehen nicht in einem direkten Zusammenhang mit Projektitekt.
 
 ## Projekte im Pharmasektor
 #### Carpus+Partner AG, Aachen (2014-2019)
