@@ -27,19 +27,20 @@ title: Referenzen
   [VALERES Industriebau GmbH](https://www.valeres.de), Würselen (2019).
   
 ![Workshop mit Projektitekt](/contents/projektitekt_workshop.jpg)
-<br>
-Nachfolgende Projekte wurden durch die Gründerin von Projektitekt in verschiedenen Planungsbüros begleitet:
+<br><br>
+Nachfolgende Projekte sollen einen Überlick über die Erfahrungen der Gründerin geben, die im Angestelltenverhältnis in verschiedenen Planungsbüros erangt wurden:
 
 ## Projekte im Pharmasektor
 #### Carpus+Partner AG, Aachen (2014-2019)
 
 - **Neubau Produktionsgebäude und Verwaltungsgebäude mit Betriebsrestaurant** <br>
-  [Engelhard Arzneimittel GmbH](https://www.engelhard.de), Niederdorfelden. <br>
+  [Engelhard Arzneimittel GmbH](https://www.carpus.de/what-we-do/engelhard-produktion-und-kantine), Niederdorfelden. <br>
   Projektmanagement (LP 2-8).<br>
+  Generalplanung: Carpus+Partner AG<br>
   [Artikel in der Fachzeitschrift "Facility Management"](/contents/2018_Artikel_Facility_Management.pdf) (PDF 1,4 MB)
 
 - **Pharmagebäude für Sterilabfüllung CEB-SFF2** <br>
-  [Bayer Technology Services](https://www.bayer.com), Leverkusen. <br>
+  [Bayer Technology Services], Leverkusen. <br>
   Projektmanagement (LP 3-8).
   
 - **Erweiterung Pharmaproduktion Respimat** <br>
