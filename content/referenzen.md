@@ -17,7 +17,7 @@ title: Referenzen
 - **Schulung BIM-Grundlagen**<br>
   in Kooperation mit [Aachen Building Experts e.V.](https://www.aachenbuildingexperts.de), Aachen (2020).
 
-- **Beratung & individuelle Schulung (HOAI)**<br>
+- **Beratung & Schulungen**<br>
   [ROOMSDesign](https://www.rooms-design.eu), Münster (2020).
   
 - **Baumanagement, Terminplanung**<br>
