@@ -34,30 +34,30 @@ Nachfolgende Projekte sollen einen Überlick über die Erfahrungen geben, die Sy
 #### Carpus+Partner AG, Aachen (2014-2019)
 
 - **Neubau Produktionsgebäude und Verwaltungsgebäude mit Betriebsrestaurant** <br>
-  [Engelhard Arzneimittel GmbH](https://www.carpus.de/what-we-do/engelhard-produktion-und-kantine), Niederdorfelden. <br>
+  Engelhard Arzneimittel GmbH, Niederdorfelden. <br>
   Projektmanagement (LP 2-8).<br>
-  Generalplanung: Carpus+Partner AG<br>
+  Generalplanung: [Carpus+Partner AG](https://www.carpus.de/what-we-do/engelhard-produktion-und-kantine)<br>
   [Artikel in der Fachzeitschrift "Facility Management"](/contents/2018_Artikel_Facility_Management.pdf) (PDF 1,4 MB)
 
 - **Pharmagebäude für Sterilabfüllung CEB-SFF2** <br>
   Bayer Technology Services, Leverkusen. <br>
   Projektmanagement (LP 3-8).<br>
-  Generalplanung: Carpus+Partner AG
+  Generalplanung: [Carpus+Partner AG](https://www.carpus.de/)
   
 - **Erweiterung Pharmaproduktion Respimat** <br>
   Boehringer Ingelheim, Sant Cugat (Spanien).<br>
   Machbarkeitsstudie, Projektmanagement (LP 1-2).<br>
-  Generalplanung: Carpus+Partner AG
+  Generalplanung: [Carpus+Partner AG](https://www.carpus.de/)
   
 - **Konzeptstudie und Masterplan für den Aufbau einer neuen Vial-Linie**<br>
   Sandoz GmbH, Kundl (Österreich).<br>
   Projektmanagement (LP 1-2).<br>
-  Generalplanung: Carpus+Partner AG
+  Generalplanung: [Carpus+Partner AG](https://www.carpus.de/)
   
 - **Umbau Pharmaproduktion**<br>
   BEMA Pharma, Berlin.<br>
   Projektmanagement (LP 1-4).<br>
-  Generalplanung: Carpus+Partner AG
+  Generalplanung: [Carpus+Partner AG](https://www.carpus.de/)
 
 
 ## Private und gewerbliche Projekte
