@@ -40,43 +40,47 @@ Nachfolgende Projekte sollen einen Überlick über die Erfahrungen der Gründeri
   [Artikel in der Fachzeitschrift "Facility Management"](/contents/2018_Artikel_Facility_Management.pdf) (PDF 1,4 MB)
 
 - **Pharmagebäude für Sterilabfüllung CEB-SFF2** <br>
-  [Bayer Technology Services], Leverkusen. <br>
-  Projektmanagement (LP 3-8).
+  Bayer Technology Services, Leverkusen. <br>
+  Projektmanagement (LP 3-8).<br>
+  Generalplanung: Carpus+Partner AG
   
 - **Erweiterung Pharmaproduktion Respimat** <br>
-  [Boehringer Ingelheim](https://www.boehringer-ingelheim.de), Sant Cugat (Spanien).<br>
-  Machbarkeitsstudie, Projektmanagement (LP 1-2).
+  Boehringer Ingelheim, Sant Cugat (Spanien).<br>
+  Machbarkeitsstudie, Projektmanagement (LP 1-2).<br>
+  Generalplanung: Carpus+Partner AG
   
 - **Konzeptstudie und Masterplan für den Aufbau einer neuen Vial-Linie**<br>
-  [Sandoz GmbH](https://www.sandoz.at), Kundl (Österreich).<br>
-  Projektmanagement (LP 1-2).
+  Sandoz GmbH, Kundl (Österreich).<br>
+  Projektmanagement (LP 1-2).<br>
+  Generalplanung: Carpus+Partner AG
   
 - **Umbau Pharmaproduktion**<br>
-  [BEMA Pharma](https://www.bemapharma.com), Berlin.<br>
-  Projektmanagement (LP 1-4).
+  BEMA Pharma, Berlin.<br>
+  Projektmanagement (LP 1-4).<br>
+  Generalplanung: Carpus+Partner AG
 
 
 ## Private und gewerbliche Projekte
 #### Werner Schüller Architektur, Haan (2010-2013)
 
 - **Neubau Gewerbehalle mit Großküche, Bistro und Betreiberwohnung**<br>
-  [Windmann Catering](https://www.windmann-catering.de), Hilden.<br>
+  Windmann Catering, Hilden.<br>
   Planung und Bauleitung (LPH 2-8).
   
 - **Umbau und Erweiterung Kindergarten**<br>
- [Private Kindergruppe Haan e.V.](https://www.privatekindergruppe.de), Haan (Rhld.).<br>
+ Private Kindergruppe Haan e.V., Haan (Rhld.).<br>
  Planung und Bauleitung (LP 5-8).
  
 - **Erweiterung und Umbauten Fensterproduktion und Logistik**<br>
-  [Schüco International KG](https://www.schueco.com), Haan (Rhld.).<br>
+  Schüco International KG, Haan (Rhld.).<br>
   Planung (LP 2-4).
   
 - **Brandsanierung Bürogebäude**<br>
-  [HSL Systemdesign GmbH](https://www.hsl.com), Haan (Rhld.).<br>
+  Haan (Rhld.).<br>
   Ausschreibung, Vergabe, Bauleitung (LP 6-8).
   
 - **Erweiterung Pferdesportzentrum**<br>
-  [Pferdesportzentrum Haan](https://pferdesport-zentrum-haan.de).<br>
+  Pferdesportzentrum Haan.<br>
   Planung (LP 2-5).
   
 - **Verschiedene Wohnbauprojekte**<br>
@@ -86,18 +90,18 @@ Nachfolgende Projekte sollen einen Überlick über die Erfahrungen der Gründeri
 #### Innenarchitektur / studienbegleitende Projekte (2008-2010)
 
 - **Büroflächen Neubau Planungsbüro**<br>
-  [Carpus+Partner AG](https://www.carpus.de), Aachen.<br>
-  Planung Innenarchitektur.
+  Carpus+Partner AG, Aachen.<br>
+  Planung Innenarchitektur: anne kloeters innenarchitektur
   
 - **Büroflächen Neubau Konzernzentrale**<br>
-  [Qiagen](https://www.qiagen.com/), Hilden.<br>
-  Planung Innenarchitektur.
+  Qiagen, Hilden.<br>
+  Planung Innenarchitektur: anne kloeters innenarchitektur
   
 - **verschiedene Kindergärten**<br>
   Städteregion Aachen.<br>
-  Planung Innenarchitektur.
+  Planung Innenarchitektur: anne kloeters innenarchitektur
   
 - **Sanierung denkmalgeschützter Wohnturm**<br>
   [Kloster Brandenburg](https://de.wikipedia.org/wiki/Kloster_Brandenburg_(Sief)) aus dem 15. Jahrhundert, Aachen Sief.<br>
-  Planung Sanierung und Innenarchitektur.
+  Planung Sanierung und Innenarchitektur: Kochsplan
   
