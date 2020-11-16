@@ -6,6 +6,10 @@ title: Impressum
 M.A. Architektin (AKNW Mitgliedsnummer 105383)<br>
 Thomashofstraße 15<br>
 52070 Aachen<br>
+
+Büro:<br>
+Kasinostr. 44<br>
+52066 Aachen<br>
 Deutschland<br>
 [sylvia.schuster@projektitekt.de](mailto:sylvia.schuster@projektitekt.de)<br>
 +49 (177) 63 101 89
