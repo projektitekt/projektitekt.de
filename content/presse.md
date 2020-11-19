@@ -2,6 +2,9 @@
 title: Pressespiegel
 ---
 
+- **« Ausgezeichnete FH Alumni: Sylvia Schuster und Shirin Hadji-Abbassi beim AC²-Gründungswettbewerb geehrt »**<br>
+  Presse/Aktuelles [fh-aachen.de](https://www.fh-aachen.de/pressestelle/presseaktuelles/aktuelles-details/?tx_ttnews%5Btt_news%5D=19174&cHash=60cc800a03ca53c86defe51f7c85910e)
+
 - **« Gründerwettbewerb NUK: Aachener Architektin gewinnt Publikumspreis »**<br>
   Wirtschaftliche Nachrichten der IHK Aachen 07/2020 (Seite 62) vom 01.07.2020
   
