@@ -5,17 +5,17 @@ title: Referenzen
 
 ## Referenzen Projektitekt
 
-- **Lehrauftrag für Baumanagement**<br>
-  [Fachhochschule Aachen, Fachbereich Architektur](https://www.fh-aachen.de/fachbereiche/architektur/), Aachen.
+- **BIM-Schulungen im buildingSMART Zertifizierungsprogramm**<br>
+  in Kooperation mit [Terrameta](https://www.terrameta.de), Alsdorf.
+
+- **Lehrauftrag Baumanagement: Dozentin im 5.+ 6. Semester Bachelor Architektur**<br>
+  [Fachhochschule Aachen, Fachbereich Architektur](https://www.fh-aachen.de/menschen/sschuster), Aachen.
 
 - **Berater Gründung & Wachstum (ehrenamtlich)**<br>
   [Gründerregion Aachen](https://www.gruenderregion.de/wettbewerbe/ac2-der-gruendungswettbewerb/ablauf.html), Aachen.
 
 - **Prozessoptimierung, Qualitätsmanagement, Wissensmanagement**<br>
   [BOB efficiency design AG](http://www.bob-ag.de), Aachen.
-  
-- **BIM-Schulungen im buildingSMART Zertifizierungsprogramm**<br>
-  in Kooperation mit [Terrameta](https://www.terrameta.de), Alsdorf.
 
 - **Schulung Building Information Modeling (BIM)**<br>
   in Kooperation mit [Aachen Building Experts e.V.](https://www.aachenbuildingexperts.de), Aachen.
