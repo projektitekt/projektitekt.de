@@ -4,16 +4,11 @@ title: Impressum
 
 **Sylvia C. Schuster Projektitekt**<br>
 M.A. Architektin (AKNW Mitgliedsnummer 105383)<br>
-Thomashofstraße 15<br>
-52070 Aachen<br>
+Kasinostr. 44<br>
+52066 Aachen<br>
 Deutschland<br>
 [sylvia.schuster@projektitekt.de](mailto:sylvia.schuster@projektitekt.de)<br>
 +49 (177) 63 101 89
-
-**Besuchsadresse:**<br>
-Kasinostr. 44<br>
-52066 Aachen<br>
-
 
 **USt-ID:** DE322898651
 
