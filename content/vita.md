@@ -4,7 +4,7 @@ CV Sylvia C. Schuster
   Gründung 1. Mai 2019 <br>
   erfolgreiche Teilnahme an verschiedenen Gründungswettbewerben (u.a. 3. Preis AC² 2020)
   
-- **Geschäftsführerin & Segelfluglehrerin ** <br>
+- **Geschäftsführerin & Segelfluglehrerin** <br>
   seit 2018 im Luftsportverein Aachen e.V.
   
 - **Angestellte Planerin, Bauleiterin und Projektmanagerin** <br>
