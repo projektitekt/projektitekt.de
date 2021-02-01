@@ -1,11 +1,16 @@
-CV Sylvia C. Schuster
+## CV Sylvia C. Schuster
+
+- **Dozentin Fachhochschule Aachen** <br>
+  seit 09.2020 Lehrauftrag für Baumanagement<br>
+  Studiengang Architektur, Bachelor 5. und 6. Semester<br>
+  Studiengang Smart Building Engineering, Bachelor 4. Semester
 
 - **Inhaberin Projektitekt** <br>
-  Gründung 1. Mai 2019 <br>
+  seit 05.2019 <br>
   erfolgreiche Teilnahme an verschiedenen Gründungswettbewerben (u.a. 3. Preis AC² 2020)
   
 - **Geschäftsführerin & Segelfluglehrerin** <br>
-  seit 2018 im Luftsportverein Aachen e.V.
+  seit 04.2018 im Luftsportverein Aachen e.V.
   
 - **Angestellte Planerin, Bauleiterin und Projektmanagerin** <br>
   2008-2019 in verschiedenen Planungsbüros <br>
@@ -86,8 +91,11 @@ CV Sylvia C. Schuster
   [Kloster Brandenburg](https://de.wikipedia.org/wiki/Kloster_Brandenburg_(Sief)) aus dem 15. Jahrhundert, Aachen Sief.<br>
   Planung Sanierung und Innenarchitektur: Kochsplan
   
+  #### Ausbildung
+  
 - **Studium der Architektur**<br>
   an der Fachhochschule Aachen und der Universiti Sains Malaysia (Stipendium des Deutschen Akademischen Austauschdienstes, DAAD)
   
 - **Abitur in Haan (Rhld.)**<br>
+  am städtischen Gymnasium Haan (Rhld.)
 
