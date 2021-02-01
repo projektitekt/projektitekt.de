@@ -1,14 +1,14 @@
 CV Sylvia C. Schuster
 
-- **Inhaberin Projektitekt**
-  Gründung 1. Mai 2019
+- **Inhaberin Projektitekt** <br>
+  Gründung 1. Mai 2019 <br>
   erfolgreiche Teilnahme an verschiedenen Gründungswettbewerben (u.a. 3. Preis AC² 2020)
   
-- **Geschäftsführerin & Segelfluglehrerin **
+- **Geschäftsführerin & Segelfluglehrerin ** <br>
   seit 2018 im Luftsportverein Aachen e.V.
   
-- **Angestellte Planerin, Bauleiterin und Projektmanagerin**
-  2008-2019 in verschiedenen Planungsbüros
+- **Angestellte Planerin, Bauleiterin und Projektmanagerin** <br>
+  2008-2019 in verschiedenen Planungsbüros <br>
   Auszug der bearbeiteten Projekte:
 
 ## Projekte im Pharmasektor
