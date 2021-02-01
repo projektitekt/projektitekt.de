@@ -91,7 +91,7 @@
   [Kloster Brandenburg](https://de.wikipedia.org/wiki/Kloster_Brandenburg_(Sief)) aus dem 15. Jahrhundert, Aachen Sief.<br>
   Planung Sanierung und Innenarchitektur: Kochsplan
   
-  #### Ausbildung
+  ## Ausbildung
   
 - **Studium der Architektur**<br>
   an der Fachhochschule Aachen und der Universiti Sains Malaysia (Stipendium des Deutschen Akademischen Austauschdienstes, DAAD)
