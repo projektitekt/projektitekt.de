@@ -94,7 +94,8 @@
   ## Ausbildung
   
 - **Studium der Architektur**<br>
-  an der Fachhochschule Aachen und der Universiti Sains Malaysia (Stipendium des Deutschen Akademischen Austauschdienstes, DAAD)
+  an der Fachhochschule Aachen und der Universiti Sains Malaysia (Penang, Malaysia).<br>
+  (Stipendium des Deutschen Akademischen Austauschdienstes, DAAD)
   
 - **Abitur in Haan (Rhld.)**<br>
   am städtischen Gymnasium Haan (Rhld.)
