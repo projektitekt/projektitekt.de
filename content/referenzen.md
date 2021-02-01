@@ -1,9 +1,6 @@
 ---
-title: Referenzen
+title: Referenzen Projektitekt
 ---
-
-
-## Referenzen Projektitekt
 
 - **BIM-Schulungen im buildingSMART Zertifizierungsprogramm**<br>
   in Kooperation mit [Terrameta](https://www.terrameta.de), Alsdorf.
@@ -32,3 +29,4 @@ title: Referenzen
 - **Organisationsberatung, Prozessoptimierung, Qualitätsmanagement**<br>
   [VALERES Industriebau GmbH](https://www.valeres.de), Würselen.
   
+Einen Überblick über die beruftliche Tätigkeit der Gründerin finden Sie hier.
