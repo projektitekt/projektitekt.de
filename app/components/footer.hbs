@@ -1,18 +1,47 @@
 <footer local-class="footer">
-  <div local-class="content">
-    {{svg-jar "projektitekt-logo" role="img" aria-label="Projektitekt" local-class="logo"}}
+  <div local-class="top">
+    <div local-class="name-box">
+      {{svg-jar "projektitekt-logo" role="img" aria-label="Projektitekt" local-class="logo"}}
 
-    <div local-class="name">
-      <a href="mailto:sylvia.schuster@projektitekt.de">Sylvia C. Schuster</a>
+      <div local-class="name">Sylvia C. Schuster</div>
+      <div local-class="title">M.A. Architektin</div>
     </div>
-    <div local-class="title">M.A. Architektin</div>
-    <div local-class="address">Thomashofstr. 15<br>52070 Aachen</div>
 
-    <ul local-class="links">
-      <li><LinkTo @route="imprint">Impressum</LinkTo></li>
-      <li><LinkTo @route="privacy">Datenschutz</LinkTo></li>
-    </ul>
+    <div local-class="box address-box">
+      {{svg-jar "location-pin" local-class="box-logo"}}
+      <div local-class="box-text">
+        Kasinostr. 44<br>
+        52066 Aachen
+      </div>
+    </div>
 
-    <div local-class="copyright">&copy; 2019-2020</div>
+    <div local-class="box mail-box">
+      {{svg-jar "letter" local-class="box-logo"}}
+      <div local-class="box-text">
+        Schreiben Sie uns!<br>
+        <a href="mailto:mail@projektitekt.de">mail@projektitekt.de</a>
+      </div>
+    </div>
+
+    <div local-class="box phone-box">
+      {{svg-jar "phone" local-class="box-logo"}}
+      <div local-class="box-text">
+        Rufen Sie an!<br>
+        +49 (177) 63 101 89
+      </div>
+    </div>
+  </div>
+
+  <div local-class="bottom">
+    <div local-class="bottom-content">
+      <div local-class="copyright">
+        &copy; Projektitekt 2019–{{this.year}}
+      </div>
+
+      <ul local-class="links">
+        <li><LinkTo @route="imprint">Impressum</LinkTo></li>
+        <li><LinkTo @route="privacy">Datenschutz</LinkTo></li>
+      </ul>
+    </div>
   </div>
 </footer>

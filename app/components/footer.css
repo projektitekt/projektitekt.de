@@ -1,33 +1,8 @@
 .footer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   width: 100%;
-  height: 320px;
   background: var(--blue800);
   color: white;
-}
-
-.content {
-  width: 800px;
-  margin: 0 30px;
-}
-
-.logo {
-  width: 150px;
-  height: auto;
-  margin-bottom: 16px;
-
-  path {
-    fill: white;
-  }
-}
-
-.name {
-  font-size: 18px;
-  font-weight: 500;
-  letter-spacing: 0.05em;
-  margin-bottom: 4px;
+  font-size: 14px;
 
   a {
     color: white;
@@ -35,42 +10,123 @@
   }
 }
 
-.title {
-  font-size: 12px;
-  margin-bottom: 16px;
+.top,
+.bottom-content {
+  max-width: 800px;
+  margin: 0 auto;
 }
 
-.address {
-  font-size: 14px;
-  line-height: 18px;
-  margin-bottom: 16px;
+.top {
+  display: grid;
+  grid-template-columns: 22% 22% 28% 28%;
+  justify-items: end;
+  align-items: end;
+  padding: 24px 30px;
+}
+
+.name-box {
+  justify-self: start;
+}
+
+.logo {
+  width: 160px;
+  height: auto;
+  margin-bottom: 20px;
+
+  path {
+    fill: white;
+  }
+}
+
+.name {
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+
+.title {
+  font-size: 12px;
+}
+
+.box {
+  display: flex;
+}
+
+.box-logo {
+  flex-shrink: 0;
+  width: 30px;
+  height: auto;
+  margin-right: 15px;
+}
+
+.box-text {
+  line-height: 21px;
+}
+
+.bottom {
+  border-top: solid 1px white;
+}
+
+.bottom-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 30px;
+}
+
+.copyright {
+
 }
 
 .links {
-  font-size: 14px;
   list-style-type: none;
+  margin: 0;
   padding: 0;
 
   li {
     display: inline;
 
-    a {
-      color: white;
-      text-decoration: none;
-    }
-
-    &::after {
+    &:not(:last-child)::after {
       content: "·";
       margin-left: 6px;
       margin-right: 3px;
     }
-
-    &:last-child::after {
-      content: "";
-    }
   }
 }
 
-.copyright {
-  margin-bottom: 14px;
+@media only screen and (max-width: 800px) {
+  .top {
+    grid-template-columns: 33.3% 33.3% 33.4%;
+    justify-content: space-between;
+  }
+
+  .name-box {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    margin-bottom: 20px;
+  }
+
+  .address-box {
+    justify-self: start;
+  }
+
+  .mail-box {
+    justify-self: center;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .top {
+    display: block;
+    justify-content: space-between;
+  }
+
+  .address-box {
+    margin-bottom: 10px;
+  }
+
+  .mail-box {
+    margin-bottom: 10px;
+  }
 }
