@@ -1,5 +1,15 @@
+CV Sylvia C. Schuster
 
-Nachfolgende Projekte sollen einen Überlick über die Erfahrungen geben, die Sylvia Schuster im Angestelltenverhältnis in verschiedenen Planungsbüros erlangte. Die folgenden Projekte stehen nicht in einem direkten Zusammenhang mit Projektitekt.
+- **Inhaberin Projektitekt**
+  Gründung 1. Mai 2019
+  erfolgreiche Teilnahme an verschiedenen Gründungswettbewerben (u.a. 3. Preis AC² 2020)
+  
+- **Geschäftsführerin & Segelfluglehrerin **
+  seit 2018 im Luftsportverein Aachen e.V.
+  
+- **Angestellte Planerin, Bauleiterin und Projektmanagerin**
+  2008-2019 in verschiedenen Planungsbüros
+  Auszug der bearbeiteten Projekte:
 
 ## Projekte im Pharmasektor
 #### Carpus+Partner AG, Aachen (2014-2019)
@@ -76,3 +86,8 @@ Nachfolgende Projekte sollen einen Überlick über die Erfahrungen geben, die Sy
   [Kloster Brandenburg](https://de.wikipedia.org/wiki/Kloster_Brandenburg_(Sief)) aus dem 15. Jahrhundert, Aachen Sief.<br>
   Planung Sanierung und Innenarchitektur: Kochsplan
   
+- **Studium der Architektur**<br>
+  an der Fachhochschule Aachen und der Universiti Sains Malaysia (Stipendium des Deutschen Akademischen Austauschdienstes, DAAD)
+  
+- **Abitur in Haan (Rhld.)**<br>
+
