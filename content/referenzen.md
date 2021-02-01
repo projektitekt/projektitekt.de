@@ -1,3 +1,7 @@
+---
+title: Referenzen
+---
+
 - **Prozessoptimierung, Qualitätsmanagement, Wissensmanagement**<br>
   [BOB efficiency design AG](http://www.bob-ag.de), Aachen.
   
@@ -26,4 +30,4 @@
   Architekturbüro Kochsplan, Aachen.
  
   
-Einen Überblick über die beruftliche Tätigkeit der Gründerin finden Sie hier.
+Einen Überblick über die beruftliche Tätigkeit der Gründerin finden Sie [hier](/vita).

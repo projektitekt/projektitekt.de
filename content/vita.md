@@ -1,4 +1,8 @@
-## CV Sylvia C. Schuster
+---
+title: Vita
+---
+
+## Vita Sylvia C. Schuster
 
 - **Dozentin Fachhochschule Aachen** <br>
   seit 09.2020 Lehrauftrag für Baumanagement<br>
@@ -91,7 +95,7 @@
   [Kloster Brandenburg](https://de.wikipedia.org/wiki/Kloster_Brandenburg_(Sief)) aus dem 15. Jahrhundert, Aachen Sief.<br>
   Planung Sanierung und Innenarchitektur: Kochsplan
   
-  ## Ausbildung
+## Ausbildung
   
 - **Studium der Architektur**<br>
   an der Fachhochschule Aachen und der Universiti Sains Malaysia (Penang, Malaysia).<br>

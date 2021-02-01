@@ -1,7 +1,7 @@
 import Route from '@ember/routing/route';
 
 export default class extends Route {
-  beforeModel() {
-    return this.replaceWith('referenzen');
+  model() {
+    return this.store.findRecord('content', 'vita');
   }
 }
