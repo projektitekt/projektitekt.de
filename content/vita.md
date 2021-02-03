@@ -11,7 +11,8 @@ title: Vita
 
 - **Inhaberin Projektitekt** <br>
   seit 05.2019 <br>
-  erfolgreiche Teilnahme an verschiedenen Gründungswettbewerben (u.a. 3. Preis AC² 2020)
+  erfolgreiche Teilnahme an verschiedenen Gründungswettbewerben
+  (u.a. 3. Preis AC² 2020)
   
 - **Geschäftsführerin & Segelfluglehrerin** <br>
   seit 04.2018 im Luftsportverein Aachen e.V.
