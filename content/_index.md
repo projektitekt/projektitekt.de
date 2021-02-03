@@ -2,9 +2,6 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-Ein kleiner Eindruck von Projektitekt:
-<p><iframe width="270" height="158" src="https://www.youtube.com/embed/fAIEvRlivSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
 Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit
 * umfangreichem Bau-Knowhow
 * hoher methodischer Kompetenz im Projektmanagement
@@ -20,6 +17,9 @@ Gerne führe ich mit Ihnen ein unverbindliches Gespräch um herauszufinden, welc
 
 Sie möchten lesen, was die Medien über Projektitekt schreiben?<br>
 Hier geht es zum [Pressespiegel](/presse).
+
+Ein kleiner Eindruck von Projektitekt (Nominierungsvideo vom Gründungswettbewerb AC²):
+<p><iframe width="270" height="158" src="https://www.youtube.com/embed/fAIEvRlivSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Rufen Sie mich an unter +49 (177) 63 101 89 oder schreiben Sie mir eine
 [E-Mail](mailto:sylvia.schuster@projektitekt.de). Sie finden mich außerdem in
