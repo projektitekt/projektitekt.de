@@ -2,10 +2,6 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-Projektitekt gewinnt den mit 5.000 Euro dotierten 3. Preis beim Gründungswettbewerb AC². Hier sehen Sie das Nominierungsvideo (Youtube):
-
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/fAIEvRlivSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
 Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit
 * umfangreichem Bau-Knowhow
 * hoher methodischer Kompetenz im Projektmanagement
