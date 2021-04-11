@@ -27,11 +27,11 @@ module.exports = function(defaults) {
     prember: {
       urls: [
         '/',
+        '/bingo',
         '/imprint',
         '/news',
         '/presse',
         '/privacy',
-        '/bingo',
         '/referenzen',
         '/unternehmen',
         '/vita',
