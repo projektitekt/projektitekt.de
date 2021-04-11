@@ -34,6 +34,7 @@ module.exports = function(defaults) {
         '/bingo',
         '/referenzen',
         '/unternehmen',
+        '/vita',
       ],
       emptyFile: '404.html',
     },
