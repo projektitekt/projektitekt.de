@@ -4,11 +4,11 @@ title: Pressespiegel
 
 Ein paar kleine Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 
--**Prämierung: AC² - Der Gründungswettbewerb 2019/20**<br>
+- **Prämierung: AC² - Der Gründungswettbewerb 2019/20**<br>
  [GründerRegion Aachen](https://www.gruenderregion.de/wettbewerbe/ac2-der-gruendungswettbewerb/praemierung.html), November 2020
 
 - **« Ausgezeichnete FH Alumni: Sylvia Schuster und Shirin Hadji-Abbassi beim AC²-Gründungswettbewerb geehrt »**<br>
-  Presse/Aktuelles [fh-aachen.de](https://www.fh-aachen.de/pressestelle/presseaktuelles/aktuelles-details/?tx_ttnews%5Btt_news%5D=19174&cHash=60cc800a03ca53c86defe51f7c85910e), 17.11.2020.
+  News Dezernat Innovationstrasfer [fh-aachen.de](https://www.fh-aachen.de/hochschule/zentralverwaltung/dezernat-v-innovationstransfer/start-up/news), 17.11.2020.
 
 - **« Gründerwettbewerb NUK: Aachener Architektin gewinnt Publikumspreis »**<br>
   Wirtschaftliche Nachrichten der IHK Aachen 07/2020 (Seite 62) vom 01.07.2020
