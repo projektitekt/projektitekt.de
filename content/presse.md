@@ -8,7 +8,7 @@ Ein paar kleine Eindrücke von Projektitekt gibt es auch bei [Instagram](https:/
  [GründerRegion Aachen](https://www.gruenderregion.de/wettbewerbe/ac2-der-gruendungswettbewerb/praemierung.html), November 2020
 
 - **« Ausgezeichnete FH Alumni: Sylvia Schuster und Shirin Hadji-Abbassi beim AC²-Gründungswettbewerb geehrt »**<br>
-  News Dezernat Innovationstrasfer [fh-aachen.de](https://www.fh-aachen.de/hochschule/zentralverwaltung/dezernat-v-innovationstransfer/start-up/news), 17.11.2020.
+  News Dezernat V - Innovationstransfer [fh-aachen.de](https://www.fh-aachen.de/hochschule/zentralverwaltung/dezernat-v-innovationstransfer/start-up/news), 17.11.2020.
 
 - **« Gründerwettbewerb NUK: Aachener Architektin gewinnt Publikumspreis »**<br>
   Wirtschaftliche Nachrichten der IHK Aachen 07/2020 (Seite 62) vom 01.07.2020
