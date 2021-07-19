@@ -2,6 +2,8 @@
 title: Wiederaufbau
 ---
 
+Diese Seite befindet sich noch im Aufbau. Anregungen zum Fragebogen für Helfer und zu den Inhalten dieser Seite gerne an [wiederaufbau@projektitekt.de](mailto:wiederaufbau@projektitekt.de).
+
 **Initiative zur Unterstützung des Wiederaufbaus**<br>
 nach dem Hochwasser im Juli 2021 in der Städteregion Aachen<br>
 
