@@ -1,5 +1,5 @@
 ---
-title: Wiederaufbau [in Arbeit]
+title: Wiederaufbau
 ---
 
 **Initiative zur Unterstützung des Wiederaufbaus**<br>
