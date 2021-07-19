@@ -20,7 +20,7 @@ Wir möchten dieses Bau-Fachwissen, aber auch Handwerksleistungen, andere Dienst
 Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochwasser betroffen und benötigst Unterstützung beim Wiederaufbau? Fülle [dieses Formular](https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link) aus und teile uns mit, was du brauchst! (kein Google Account notwendig). Deine Kontaktdaten werden von uns dann an potentielle Helfer vermittelt. Im besten Falle finden wir für dich einen Paten, der dich in den nächsten Wochen und Monaten begleitet und mit seinem Netzwerk unterstützt.
 
 *Du möchtest helfen?*
-Über [dieses Formular](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link) kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär Baufirmen, Planer und Handwerker an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
+Über [dieses Formular](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link) kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
 
 
 **HILFE bekommen**
@@ -36,3 +36,5 @@ Stand 19. Juli 2021
 - STOLBERG: Stadtarchiv sucht Helfer zur Sicherung der Unterlagen - Altes Rathaus, Stolberg, Infos auf [Facebook](https://www.facebook.com/groups/327562312335571/?multi_permalinks=330194005405735%2C330147155410420%2C329544528804016%2C329489355476200%2C330161778742291&notif_id=1626503523262315&notif_t=group_activity&ref=notif)
 - SACHSPENDEN werden derzeit in der Region vielerorts nicht mehr angenommen, da die Lagerkapazitäten erschöpft sind.
 
+
+Hinweis in eigener Sache: Diese Seite soll dem Austausch von Informationen dienen und auf kurzem Wege die Koordination von (ehrenamtlichen) Unterstützungsleistungen im Rahmen der Hochwasserfolgen Mitte Juli 2021 in der Städteregion Aachen fördern. Es wird keine Haftung für die vermittelten Informationen oder Arbeiten übernommen und es kann leider ebensowenig garantiert werden, dass für jedes Hilfsgesuch auch das passende Angebot gefunden wird. Die Unterstützung von Projektitekt erfolgt ehrenamtlich und unentgeltlich.
