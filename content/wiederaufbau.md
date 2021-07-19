@@ -6,13 +6,13 @@ title: Wiederaufbau [in Arbeit]
 nach dem Hochwasser im Juli 2021 in der Städteregion Aachen<br>
 
 **Ziel**
-Wir möchten Menschen in Stolberg, Eschweiler und der Region Nordeifel/Aachen dabei unterstützen, ihre Häuser möglichst bald wieder bewohnbar zu machen. 
+Wir möchten Menschen in Aachen, Eschweiler, Stolberg und der Region Nordeifel dabei unterstützen, ihre Häuser möglichst bald wieder bewohnbar zu machen. 
 ![Unterstützung](/contents/hochwasser_patenschaft.png)
 
 **Aktuelle Situation**
-Viele Menschen im Zentrum von Aachen Kornelimünster, Stolberg, Eschweiler und weiteren Orten können jede helfende Hand gebrauchen, während in umliegenden Dörfern und Städten viele Menschen und Unternehmen helfen möchten, aber nicht wissen, wo sie gebraucht werden. Die verschiedenen Hilfsorganisationen sind ausgelastet mit der Koordination der eigenen Leute, sodass immer wieder Hilfswillige "weggeschickt" werden. Nicht jeder kann oder möchte körperliche Arbeit Leisten oder Geld spenden. Gerade in der Region Aachen gibt es viele Baufachleute, Handwerker, Architekten und Fachplaner mit einem riesigen und vielseitigem Fachwissen.
+Viele Menschen im Zentrum von Aachen Kornelimünster, Stolberg, Eschweiler und weiteren Orten können jede helfende Hand gebrauchen, während in umliegenden Dörfern und Städten viele Menschen und Unternehmen helfen möchten, aber nicht wissen, wo sie gebraucht werden. Die verschiedenen Hilfsorganisationen sind ausgelastet mit der Koordination der eigenen Leute, sodass immer wieder Hilfswillige "weggeschickt" werden. Nicht jeder kann oder möchte körperliche Arbeit Leisten oder Geld spenden. Gerade in der Region Aachen gibt es viele Baufachleute, Handwerker, Architekten und Fachplaner mit einem riesigen und vielseitigem Fachwissen. 
 
-Wir möchten dieses Bau-Fachwissen, aber auch Handwerksleistungen, andere Dienstleistungen und Geräte auf kurzem Wege zur Verfügung stellen.
+Wir, Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und andere aus der Region möchten beim Wiederaufbau unterstützen! Mit Fachwissen, Koordination, unserem Netzwerk, Dienstleistungen, Geräten und allem, was gerade fehlt. Jeder entscheidet selbst, was er leisten kann und in welchem Umfang er oder sie ehrenamtlich tätig sein möcht oder kann. 
 
 **Du möchtest helfen?**<br>
 Über [dieses Formular](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link) kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
