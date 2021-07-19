@@ -9,7 +9,8 @@ nach dem Hochwasser im Juli 2021 in der Städteregion Aachen<br>
 Wir möchten Menschen in Stolberg, Eschweiler und der Region Nordeifel/Aachen dabei unterstützen, ihre Häuser möglichst bald wieder bewohnbar zu machen. 
 
 **Aktuelle Situation**
-Viele Menschen im Zentrum von Stolberg, Zweifall, Eschweiler und weiteren Orten können jede helfende Hand gebrauchen, während in umliegenden Dörfern und Städten viele Menschen und Unternehmen helfen möchten, aber nicht wissen, wo sie gebraucht werden. Die verschiedenen Hilfsorganisationen sind ausgelastet mit der Koordination der eigenen Leute, sodass immer wieder Hilfswillige "weggeschickt" werden. Nicht jeder kann oder möchte körperliche Arbeit Leisten oder Geld spenden. Gerade in der Region Aachen gibt es viele Baufachleute, Handwerker, Architekten und Fachplaner mit einem riesigen und vielseitigem Fachwissen.
+
+Viele Menschen im Zentrum von Aachen Kornelimünster, Stolberg, Eschweiler und weiteren Orten können jede helfende Hand gebrauchen, während in umliegenden Dörfern und Städten viele Menschen und Unternehmen helfen möchten, aber nicht wissen, wo sie gebraucht werden. Die verschiedenen Hilfsorganisationen sind ausgelastet mit der Koordination der eigenen Leute, sodass immer wieder Hilfswillige "weggeschickt" werden. Nicht jeder kann oder möchte körperliche Arbeit Leisten oder Geld spenden. Gerade in der Region Aachen gibt es viele Baufachleute, Handwerker, Architekten und Fachplaner mit einem riesigen und vielseitigem Fachwissen.
 
 Wir möchten dieses Bau-Fachwissen, aber auch Handwerksleistungen, andere Dienstleistungen und Geräte auf kurzem Wege zur Verfügung stellen.
 
