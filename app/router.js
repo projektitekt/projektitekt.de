@@ -15,4 +15,5 @@ Router.map(function() {
   this.route('bingo');
   this.route('imprint');
   this.route('privacy');
+  this.route('wiederaufbau');
 });
