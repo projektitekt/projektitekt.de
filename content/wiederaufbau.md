@@ -13,6 +13,8 @@ Viele Menschen im Zentrum von Stolberg, Zweifall, Eschweiler und weiteren Orten 
 
 Wir möchten dieses Bau-Fachwissen, aber auch Handwerksleistungen, andere Dienstleistungen und Geräte auf kurzem Wege zur Verfügung stellen.
 
+![Unterstützung](/contents/hochwasser_patenschaft.png)
+
 Betroffene der Überschwemmungen aus der Städteregion Aachen und der näheren Umgebung können über [dieses Formular](https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link) ihre Bedarfe anmelden (kein Google Account notwendig). Die Daten werden von uns dann an potentielle Helfer vermittelt.
 
 Wer unterstützen möchte, kann über [dieses Formular](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link) mitteilen, in welchen Bereichen und in welchem Umfang sie unterstützen können und möchten.
