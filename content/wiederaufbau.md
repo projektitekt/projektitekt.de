@@ -7,14 +7,12 @@ nach dem Hochwasser im Juli 2021 in der Städteregion Aachen<br>
 
 **Ziel**
 Wir möchten Menschen in Stolberg, Eschweiler und der Region Nordeifel/Aachen dabei unterstützen, ihre Häuser möglichst bald wieder bewohnbar zu machen. 
+![Unterstützung](/contents/hochwasser_patenschaft.png)
 
 **Aktuelle Situation**
-
 Viele Menschen im Zentrum von Aachen Kornelimünster, Stolberg, Eschweiler und weiteren Orten können jede helfende Hand gebrauchen, während in umliegenden Dörfern und Städten viele Menschen und Unternehmen helfen möchten, aber nicht wissen, wo sie gebraucht werden. Die verschiedenen Hilfsorganisationen sind ausgelastet mit der Koordination der eigenen Leute, sodass immer wieder Hilfswillige "weggeschickt" werden. Nicht jeder kann oder möchte körperliche Arbeit Leisten oder Geld spenden. Gerade in der Region Aachen gibt es viele Baufachleute, Handwerker, Architekten und Fachplaner mit einem riesigen und vielseitigem Fachwissen.
 
 Wir möchten dieses Bau-Fachwissen, aber auch Handwerksleistungen, andere Dienstleistungen und Geräte auf kurzem Wege zur Verfügung stellen.
-
-![Unterstützung](/contents/hochwasser_patenschaft.png)
 
 *Du bist selbst betroffen?*
 Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochwasser betroffen und benötigst Unterstützung beim Wiederaufbau? Fülle [dieses Formular](https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link) aus und teile uns mit, was du brauchst! (kein Google Account notwendig). Deine Kontaktdaten werden von uns dann an potentielle Helfer vermittelt. Im besten Falle finden wir für dich einen Paten, der dich in den nächsten Wochen und Monaten begleitet und mit seinem Netzwerk unterstützt.
