@@ -2,6 +2,10 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
+Sie möchten die Betroffenen des Hochwassers in der Städteregion Aachen/ Nordeifel unterstützen? Hier geht es weiter zu unserer [Initiative Wiederaufbau](/wiederaufbau).
+
+![Initiative Wiederaufbau](/contents/hochwasser_patenschaft.png)
+
 Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit
 * umfangreichem Bau-Knowhow
 * hoher methodischer Kompetenz im Projektmanagement
