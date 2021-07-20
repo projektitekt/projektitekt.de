@@ -1,20 +1,22 @@
 ---
-title: Wiederaufbau
+title: Wiederaufbau Städteregion Aachen & Nordeifel
 ---
-
-Diese Seite befindet sich noch im Aufbau. Anregungen zu den Inhalten dieser Seite und Rückfragen gerne an [wiederaufbau@projektitekt.de](mailto:wiederaufbau@projektitekt.de).
 
 **Initiative zur Unterstützung des Wiederaufbaus**<br>
 nach dem Hochwasser im Juli 2021 in der Städteregion Aachen<br>
 
+**Wir vermitteln freiwilligen Helfer, Baufachleuten, Planern und ausführende Unternehmen, die beim Wiederaufbau von Gebäuden unterstützen möchten.**<br>
+Anregungen und Rückfragen gerne an [wiederaufbau@projektitekt.de](mailto:wiederaufbau@projektitekt.de).
+
 **Ziel**
-Wir möchten Menschen in Aachen, Eschweiler, Stolberg und der Region Nordeifel dabei unterstützen, ihre Häuser möglichst bald wieder bewohnbar zu machen. 
+Wir möchten Menschen in Aachen, Eschweiler, Stolberg und der Region Nordeifel dabei unterstützen, ihre Häuser möglichst bald wieder bewohnbar zu machen. Unsere Initiative dient der Koordination und Vermittlung zwischen Betroffenen und Helfern der Planungs- und Baubranche.
 ![Unterstützung](/contents/hochwasser_patenschaft.png)
 
 **Aktuelle Situation**
-Viele Menschen im Zentrum von Aachen Kornelimünster, Stolberg, Eschweiler und weiteren Orten können jede helfende Hand gebrauchen, während in umliegenden Dörfern und Städten viele Menschen und Unternehmen helfen möchten, aber nicht wissen, wo sie gebraucht werden. Die verschiedenen Hilfsorganisationen sind ausgelastet mit der Koordination der eigenen Leute, sodass immer wieder Hilfswillige "weggeschickt" werden. Nicht jeder kann oder möchte körperliche Arbeit Leisten oder Geld spenden. Gerade in der Region Aachen gibt es viele Baufachleute, Handwerker, Architekten und Fachplaner mit einem riesigen und vielseitigem Fachwissen. 
+Viele Menschen im Zentrum von Aachen Kornelimünster, Stolberg, Eschweiler und weiteren Orten können jede helfende Hand gebrauchen, während in umliegenden Dörfern und Städten viele Menschen und Unternehmen helfen möchten, aber nicht wissen, wo sie gebraucht werden. Die verschiedenen Hilfsorganisationen sind ausgelastet mit der Koordination der eigenen Leute, sodass immer wieder Hilfswillige "weggeschickt" werden. Nicht jeder kann oder möchte körperliche Arbeit Leisten oder Geld spenden. Gerade in der Region Aachen gibt es viele Baufachleute, Handwerker, Architekten und Fachplaner mit einem riesigen und vielseitigen Fachwissen. Aufgrund der ohnehin schon hohen Auslastung der Branche möchten wir bei der Vermittlung freier Kapazitäten unterstützen.
 
-Wir, Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und andere aus der Region möchten beim Wiederaufbau unterstützen! Mit Fachwissen, Koordination, unserem Netzwerk, Dienstleistungen, Geräten und allem, was gerade fehlt. Jeder entscheidet selbst, was er leisten kann und in welchem Umfang er oder sie tätig sein möcht oder kann. 
+**Wer wird gebraucht?**<br>
+Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und Privatpersnen aus der Region möchten beim Wiederaufbau unterstützen! Mit Fachwissen, Koordination, unserem Netzwerk, Dienstleistungen, Geräten und allem, was gerade fehlt. Jeder entscheidet selbst, was er leisten kann und in welchem Umfang er oder sie tätig sein möchte. Diese Seite dient ausschließlich der Vermittlung zwischen Betroffenen, ehrenamtlichen Helfern und auch Dienstleistern der Planungs- und Baubranche. Die Betreiberin dieser Seite ist ehrenamtlich tätig und übernimmt keine Haftung für die vermittelten Leistungen. 
 
 **Du möchtest helfen?**<br>
 Über [dieses Formular](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link) kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
@@ -43,5 +45,12 @@ Stand 20. Juli 2021
 - STOLBERG: Stadtarchiv sucht Helfer zur Sicherung der Unterlagen - Altes Rathaus, Stolberg, Infos auf [Facebook](https://www.facebook.com/groups/327562312335571/?multi_permalinks=330194005405735%2C330147155410420%2C329544528804016%2C329489355476200%2C330161778742291&notif_id=1626503523262315&notif_t=group_activity&ref=notif)
 - SACHSPENDEN werden derzeit in der Region vielerorts nicht mehr angenommen, da die Lagerkapazitäten erschöpft sind.
 
+**Wie geht es weiter, wenn ich ein Formular ausgefüllt habe?**
+Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen passenden Ansprechpartner zu finden. Unser Ziel ist es, die passenden Helfer, Fachleute oder Dienstleister schnellstmöglich zu aktivieren und direkt mit dir in Verbindung zu bringen. Wir versuchen für dich einen zentralen Ansprechpartner zu finden, der dann mit dir eure individuelle Situation und das weitere Vorgehen bespricht. Themen können bspw. sein
+- Das Wasser ist aus dem Haus raus - wie geht es weiter? Wo bekomme ich Bautrockner? Muss der Putz entfernt werden?
+- Ist die Heizung defekt? Wie und wann kann Ersatz beschafft werden?
+- Ist ein Statiker erforderlich, um die Standsicherheit des Hauses zu überprüfen?
+- Was muss geschehen, damit die Stromversorgung wieder hergestellt werden kann?
+- Sind für den Wiederaufbau Genehmigungen einzuholen?
 
 Hinweis in eigener Sache: Diese Seite soll dem Austausch von Informationen dienen und auf kurzem Wege die Koordination von (ehrenamtlichen) Unterstützungsleistungen im Rahmen der Hochwasserfolgen Mitte Juli 2021 in der Städteregion Aachen fördern. Es wird keine Haftung für die vermittelten Informationen oder Arbeiten übernommen und es kann leider ebensowenig garantiert werden, dass für jedes Hilfsgesuch auch das passende Angebot gefunden wird. Die Unterstützung von Projektitekt erfolgt ehrenamtlich und unentgeltlich.
