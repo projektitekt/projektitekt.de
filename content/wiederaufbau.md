@@ -26,9 +26,9 @@ Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und Privatperson
 **Du bist selbst betroffen?**<br>
 Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochwasser betroffen und benötigst Unterstützung beim Wiederaufbau? Fülle das<br>**[Formular für Betroffene](https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link)** aus und teile uns mit, was du brauchst! (kein Google Account notwendig). Deine Kontaktdaten werden von uns dann an potentielle Helfer vermittelt. Im besten Falle finden wir für dich einen Paten, der dich in den nächsten Wochen und Monaten begleitet und mit seinem/diesem Netzwerk unterstützt.
 <br><br>
-[![Formular Betroffene][1]][2]
-[1]: /contents/form_betroffene.png
-[2]: https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link
+[![Formular Betroffene][3]][4]
+[3]: /contents/form_betroffene.png
+[4]: https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link
 
 **Wie geht es weiter, wenn ich ein Formular ausgefüllt habe?**
 Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen passenden Ansprechpartner zu finden. Unser Ziel ist es, die passenden Helfer, Fachleute oder Dienstleister schnellstmöglich zu aktivieren und direkt mit dir in Verbindung zu bringen. Wir versuchen für dich einen zentralen Ansprechpartner zu finden, der dann mit dir eure individuelle Situation und das weitere Vorgehen bespricht. Themen können bspw. sein
