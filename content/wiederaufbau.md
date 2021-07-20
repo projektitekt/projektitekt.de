@@ -19,12 +19,12 @@ Wir, Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und andere 
 **Du möchtest helfen?**<br>
 Über [dieses Formular](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link) kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
 
-![Unterstützung](/contents/form_helfer.png)
+![Formular Helfer](/contents/form_helfer.png)
 
 **Du bist selbst betroffen?**<br>
 Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochwasser betroffen und benötigst Unterstützung beim Wiederaufbau? Fülle [dieses Formular](https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link) aus und teile uns mit, was du brauchst! (kein Google Account notwendig). Deine Kontaktdaten werden von uns dann an potentielle Helfer vermittelt. Im besten Falle finden wir für dich einen Paten, der dich in den nächsten Wochen und Monaten begleitet und mit seinem/diesem Netzwerk unterstützt.
 
-![Unterstützung](/contents/form_betroffene.png)
+![Formular Betroffene](/contents/form_betroffene.png)
 
 ...einige Infos und Links von anderen Organisationen, Hilfsangeboten etc:
 
