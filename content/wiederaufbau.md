@@ -20,14 +20,15 @@ Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und Privatperson
 Über das **[Formular für Unterstützer](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link)** kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
 <br>
 [![Formular Helfer][1]][2]
-
 [1]: /contents/form_helfer.png
 [2]: https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link
 
 **Du bist selbst betroffen?**<br>
 Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochwasser betroffen und benötigst Unterstützung beim Wiederaufbau? Fülle das<br>**[Formular für Betroffene](https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link)** aus und teile uns mit, was du brauchst! (kein Google Account notwendig). Deine Kontaktdaten werden von uns dann an potentielle Helfer vermittelt. Im besten Falle finden wir für dich einen Paten, der dich in den nächsten Wochen und Monaten begleitet und mit seinem/diesem Netzwerk unterstützt.
 <br>
-![Formular Betroffene](/contents/form_betroffene.png)
+[![Formular Betroffene][1]][2]
+[1]: /contents/form_betroffene.png
+[2]: https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link
 
 **Wie geht es weiter, wenn ich ein Formular ausgefüllt habe?**
 Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen passenden Ansprechpartner zu finden. Unser Ziel ist es, die passenden Helfer, Fachleute oder Dienstleister schnellstmöglich zu aktivieren und direkt mit dir in Verbindung zu bringen. Wir versuchen für dich einen zentralen Ansprechpartner zu finden, der dann mit dir eure individuelle Situation und das weitere Vorgehen bespricht. Themen können bspw. sein
