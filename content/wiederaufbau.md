@@ -42,13 +42,14 @@ Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen pa
 
 **HILFE bekommen**
 Diese Seite bündelt keine Spendenaufrufe oder Spendenangebote! 
-Hierfür stehen andere Organisationen und Hilfsangeboten unter folgenden Links zur Verfügung:
+Hierfür stehen andere Organisationen und Hilfsangeboten zur Verfügung. Anbei einige externe Links:
 
 Stand 20. Juli 2021
+- [Infos STAEDTEREGION AACHEN](https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles/pressemitteilungen/starkregen-unwetterlage)
+- [Infos Stadt ESCHWEILER](https://www.eschweiler.de/aktuelles/news/live-blog-hochwasser/)
+- [Infos Stadt STOLBERG](https://www.stolberg.de/Informationen-zur-aktuellen-Hochwasserlage.html?waid=697&modul_id=33)
 - BAUSTOFFE: Bobbie, digitaler Baustoffhändler aus Aachen, bietet Baustoffe zum Selbstkostenpreis an - weitere Infos gibt es [hier] (https://www.bobbie.de/fluthilfe).
 - WÜRSELEN: Das Bauhaus gibt 20 % Preisnachlass für Betroffene. Nähere Infos [hier](https://www.bauhaus.info/wir-wollen-helfen?icid=Int20210716Ger0001).
-- ESCHWEILER: Essensausgabe für Betroffene und Helfer: Marienstraße Bereich P&C, Weisweiler Parkplatz Auf dem Driesch, Realschule Patternhof vor der Aula, Schwimmhalle Jahnstraße
-- STOLBERG: Sachspenden können hier abgeholt werden: Jugendheim Münsterbusch
 - AACHEN: Betreuung: Kinder und Jugendliche von 14-18 Jahre (mit Handicap bis 25 Jahre) aus den betroffenen Regionen können noch evtl. noch einen Platz beim [Integrativen Jugendcamp](https://jugendcampaachen.wordpress.com/anmeldung/) in Aachen Merzbrück bekommen (schnell anmelden!).
 
 **mitHELFEN**
