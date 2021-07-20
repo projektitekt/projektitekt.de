@@ -2,10 +2,8 @@
 title: Wiederaufbau Städteregion Aachen & Nordeifel
 ---
 
-**Initiative zur Unterstützung des Wiederaufbaus**<br>
-nach dem Hochwasser im Juli 2021 in der Städteregion Aachen<br>
-
-**Wir vermitteln freiwilligen Helfer, Baufachleuten, Planern und ausführende Unternehmen, die beim Wiederaufbau von Gebäuden unterstützen möchten.**<br>
+**Initiative zur Unterstützung des Wiederaufbaus nach dem Hochwasser im Juli 2021 in der Städteregion Aachen**<br>
+Wir vermitteln freiwillige Helfer, Baufachleuten, Planern und ausführende Unternehmen, die beim Wiederaufbau von Gebäuden unterstützen möchten.<br>
 Diese Seite befindet sich noch im Aufbau! Anregungen und Rückfragen gerne an [wiederaufbau@projektitekt.de](mailto:wiederaufbau@projektitekt.de).
 
 **Ziel**
