@@ -60,6 +60,5 @@ Stand 20. Juli 2021
 - SACHSPENDEN werden derzeit in der Region vielerorts nicht mehr angenommen, da die Lagerkapazitäten erschöpft sind.
 
 Danke an die Menschen und Unternehmen, die sich schon bereit erklärt haben zu unterstützen. Wer ist noch dabei? Meldet euch!
-![Unsere Unterstützer](/contents/unterstuetzer.png)
 
 Hinweis in eigener Sache: Diese Seite soll dem Austausch von Informationen dienen und auf kurzem Wege die Koordination von (ehrenamtlichen) Unterstützungsleistungen im Rahmen der Hochwasserfolgen Mitte Juli 2021 in der Städteregion Aachen fördern. Es wird keine Haftung für die vermittelten Informationen oder Arbeiten übernommen und es kann leider ebensowenig garantiert werden, dass für jedes Hilfsgesuch auch das passende Angebot gefunden wird. Die Unterstützung von Projektitekt erfolgt ehrenamtlich und unentgeltlich.
