@@ -19,7 +19,7 @@ Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und Privatperson
 **Du möchtest helfen?**<br>
 Über das **[Formular für Unterstützer](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link)** kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
 <br>
-![Formular Helfer][1][2]
+[![Formular Helfer][1]][2]
 
 [1]: /contents/form_helfer.png
 [2]: https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link
