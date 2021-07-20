@@ -17,12 +17,12 @@ Viele Menschen im Zentrum von Aachen Kornelimünster, Stolberg, Eschweiler und w
 Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und Privatpersnen aus der Region möchten beim Wiederaufbau unterstützen! Mit Fachwissen, Koordination, unserem Netzwerk, Dienstleistungen, Geräten und allem, was gerade fehlt. Jeder entscheidet selbst, was er leisten kann und in welchem Umfang er oder sie tätig sein möchte. Diese Seite dient ausschließlich der Vermittlung zwischen Betroffenen, ehrenamtlichen Helfern und auch Dienstleistern der Planungs- und Baubranche. Die Betreiberin dieser Seite ist ehrenamtlich tätig und übernimmt keine Haftung für die vermittelten Leistungen. 
 
 **Du möchtest helfen?**<br>
-Über das [Helferformular](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link) kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
+Über das **[Formular für unterstützer](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link)** kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
 
 ![Formular Helfer](/contents/form_helfer.png)
 
 **Du bist selbst betroffen?**<br>
-Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochwasser betroffen und benötigst Unterstützung beim Wiederaufbau? Fülle das [Formular für Betroffene](https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link) aus und teile uns mit, was du brauchst! (kein Google Account notwendig). Deine Kontaktdaten werden von uns dann an potentielle Helfer vermittelt. Im besten Falle finden wir für dich einen Paten, der dich in den nächsten Wochen und Monaten begleitet und mit seinem/diesem Netzwerk unterstützt.
+Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochwasser betroffen und benötigst Unterstützung beim Wiederaufbau? Fülle das<br>**[Formular für Betroffene](https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link)** aus und teile uns mit, was du brauchst! (kein Google Account notwendig). Deine Kontaktdaten werden von uns dann an potentielle Helfer vermittelt. Im besten Falle finden wir für dich einen Paten, der dich in den nächsten Wochen und Monaten begleitet und mit seinem/diesem Netzwerk unterstützt.
 
 ![Formular Betroffene](/contents/form_betroffene.png)
 
