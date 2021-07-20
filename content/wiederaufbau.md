@@ -26,6 +26,7 @@ Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochw
 
 **HILFE bekommen**
 Stand 19. Juli 2021
+- BAUSTOFFE: Bobbie, digitaler Baustoffhändler aus Aachen, bietet Baustoffe zum Selbstkostenpreis an - weitere Infos gibt es [hier] (https://www.bobbie.de/fluthilfe).
 - WÜRSELEN: Das Bauhaus gibt 20 % Preisnachlass für Betroffene. Nähere Infos [hier](https://www.bauhaus.info/wir-wollen-helfen?icid=Int20210716Ger0001).
 - ESCHWEILER: Essensausgabe für Betroffene und Helfer: Marienstraße Bereich P&C, Weisweiler Parkplatz Auf dem Driesch, Realschule Patternhof vor der Aula, Schwimmhalle Jahnstraße
 - STOLBERG: Sachspenden können hier abgeholt werden: Jugendheim Münsterbusch
