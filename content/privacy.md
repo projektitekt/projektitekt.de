@@ -14,8 +14,8 @@ wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 ## Verantwortlicher
 
 **Sylvia C. Schuster Projektitekt**<br>
-Thomashofstraße 15<br>
-52070 Aachen<br>
+Kasinostr. 44<br>
+52066 Aachen<br>
 Deutschland<br>
 <br>
 sylvia.schuster@projektitekt.de<br>
