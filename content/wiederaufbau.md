@@ -14,16 +14,16 @@ Wir möchten Menschen in Aachen, Eschweiler, Stolberg und der Region Nordeifel d
 Viele Menschen im Zentrum von Aachen Kornelimünster, Stolberg, Eschweiler und weiteren Orten können jede helfende Hand gebrauchen, während in umliegenden Dörfern und Städten viele Menschen und Unternehmen helfen möchten, aber nicht wissen, wo sie gebraucht werden. Die verschiedenen Hilfsorganisationen sind ausgelastet mit der Koordination der eigenen Leute, sodass immer wieder Hilfswillige "weggeschickt" werden. Nicht jeder kann oder möchte körperliche Arbeit Leisten oder Geld spenden. Gerade in der Region Aachen gibt es viele Baufachleute, Handwerker, Architekten und Fachplaner mit einem riesigen und vielseitigen Fachwissen. Aufgrund der ohnehin schon hohen Auslastung der Branche möchten wir bei der Vermittlung freier Kapazitäten unterstützen.
 
 **Wer wird gebraucht?**<br>
-Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und Privatpersnen aus der Region möchten beim Wiederaufbau unterstützen! Mit Fachwissen, Koordination, unserem Netzwerk, Dienstleistungen, Geräten und allem, was gerade fehlt. Jeder entscheidet selbst, was er leisten kann und in welchem Umfang er oder sie tätig sein möchte. Diese Seite dient ausschließlich der Vermittlung zwischen Betroffenen, ehrenamtlichen Helfern und auch Dienstleistern der Planungs- und Baubranche. Die Betreiberin dieser Seite ist ehrenamtlich tätig und übernimmt keine Haftung für die vermittelten Leistungen. 
+Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und Privatpersonen aus der Region möchten beim Wiederaufbau unterstützen! Mit Fachwissen, Koordination, unserem Netzwerk, Dienstleistungen, Geräten und allem, was gerade fehlt. Jeder entscheidet selbst, was er leisten kann und in welchem Umfang er oder sie tätig sein möchte. Diese Seite dient ausschließlich der Vermittlung zwischen Betroffenen, ehrenamtlichen Helfern und auch Dienstleistern der Planungs- und Baubranche. Die Betreiberin dieser Seite ist ehrenamtlich tätig und übernimmt keine Haftung für die vermittelten Leistungen. 
 
 **Du möchtest helfen?**<br>
 Über das **[Formular für Unterstützer](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link)** kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
-
+<br>
 ![Formular Helfer](/contents/form_helfer.png)
 
 **Du bist selbst betroffen?**<br>
 Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochwasser betroffen und benötigst Unterstützung beim Wiederaufbau? Fülle das<br>**[Formular für Betroffene](https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link)** aus und teile uns mit, was du brauchst! (kein Google Account notwendig). Deine Kontaktdaten werden von uns dann an potentielle Helfer vermittelt. Im besten Falle finden wir für dich einen Paten, der dich in den nächsten Wochen und Monaten begleitet und mit seinem/diesem Netzwerk unterstützt.
-
+<br>
 ![Formular Betroffene](/contents/form_betroffene.png)
 
 **Wie geht es weiter, wenn ich ein Formular ausgefüllt habe?**
@@ -37,6 +37,9 @@ Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen pa
 ...einige Infos und Links von anderen Organisationen, Hilfsangeboten etc:
 
 **HILFE bekommen**
+Diese Seite bündelt keine Spendenaufrufe oder Spendenangebote! 
+Hierfür stehen andere Organisationen und Hilfsangeboten unter folgenden Links zur Verfügung:
+
 Stand 20. Juli 2021
 - BAUSTOFFE: Bobbie, digitaler Baustoffhändler aus Aachen, bietet Baustoffe zum Selbstkostenpreis an - weitere Infos gibt es [hier] (https://www.bobbie.de/fluthilfe).
 - WÜRSELEN: Das Bauhaus gibt 20 % Preisnachlass für Betroffene. Nähere Infos [hier](https://www.bauhaus.info/wir-wollen-helfen?icid=Int20210716Ger0001).
