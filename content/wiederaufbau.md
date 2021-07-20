@@ -31,7 +31,7 @@ Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochw
 
 **Wie geht es weiter, wenn ich ein Formular ausgefüllt habe?**
 Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen passenden Ansprechpartner zu finden. Unser Ziel ist es, die passenden Helfer, Fachleute oder Dienstleister schnellstmöglich zu aktivieren und direkt mit dir in Verbindung zu bringen. Wir versuchen für dich einen zentralen Ansprechpartner zu finden, der dann mit dir eure individuelle Situation und das weitere Vorgehen bespricht. Themen können bspw. sein
-- Das Wasser ist aus dem Haus raus - wie geht es weiter? Wo bekomme ich Bautrockner? Muss der Putz entfernt werden?
+- Das Wasser ist aus dem Haus raus - wie geht es weiter? Wo bekomme ich einen Bautrockner her? Muss der Putz entfernt werden?
 - Ist die Heizung defekt? Wie und wann kann Ersatz beschafft werden?
 - Ist ein Statiker erforderlich, um die Standsicherheit des Hauses zu überprüfen?
 - Was muss geschehen, damit die Stromversorgung wieder hergestellt werden kann?
