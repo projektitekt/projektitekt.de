@@ -26,6 +26,14 @@ Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochw
 
 ![Formular Betroffene](/contents/form_betroffene.png)
 
+**Wie geht es weiter, wenn ich ein Formular ausgefüllt habe?**
+Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen passenden Ansprechpartner zu finden. Unser Ziel ist es, die passenden Helfer, Fachleute oder Dienstleister schnellstmöglich zu aktivieren und direkt mit dir in Verbindung zu bringen. Wir versuchen für dich einen zentralen Ansprechpartner zu finden, der dann mit dir eure individuelle Situation und das weitere Vorgehen bespricht. Themen können bspw. sein
+- Das Wasser ist aus dem Haus raus - wie geht es weiter? Wo bekomme ich Bautrockner? Muss der Putz entfernt werden?
+- Ist die Heizung defekt? Wie und wann kann Ersatz beschafft werden?
+- Ist ein Statiker erforderlich, um die Standsicherheit des Hauses zu überprüfen?
+- Was muss geschehen, damit die Stromversorgung wieder hergestellt werden kann?
+- Sind für den Wiederaufbau Genehmigungen einzuholen?
+
 ...einige Infos und Links von anderen Organisationen, Hilfsangeboten etc:
 
 **HILFE bekommen**
@@ -42,13 +50,5 @@ Stand 20. Juli 2021
 - DLRG sucht Helfer für Trinkwasserausgabe (an Sonntag 19 Uhr, 12-Stunden Schichten in 10er-Gruppen): Herr Naegeler, 0241-413 685 176
 - STOLBERG: Stadtarchiv sucht Helfer zur Sicherung der Unterlagen - Altes Rathaus, Stolberg, Infos auf [Facebook](https://www.facebook.com/groups/327562312335571/?multi_permalinks=330194005405735%2C330147155410420%2C329544528804016%2C329489355476200%2C330161778742291&notif_id=1626503523262315&notif_t=group_activity&ref=notif)
 - SACHSPENDEN werden derzeit in der Region vielerorts nicht mehr angenommen, da die Lagerkapazitäten erschöpft sind.
-
-**Wie geht es weiter, wenn ich ein Formular ausgefüllt habe?**
-Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen passenden Ansprechpartner zu finden. Unser Ziel ist es, die passenden Helfer, Fachleute oder Dienstleister schnellstmöglich zu aktivieren und direkt mit dir in Verbindung zu bringen. Wir versuchen für dich einen zentralen Ansprechpartner zu finden, der dann mit dir eure individuelle Situation und das weitere Vorgehen bespricht. Themen können bspw. sein
-- Das Wasser ist aus dem Haus raus - wie geht es weiter? Wo bekomme ich Bautrockner? Muss der Putz entfernt werden?
-- Ist die Heizung defekt? Wie und wann kann Ersatz beschafft werden?
-- Ist ein Statiker erforderlich, um die Standsicherheit des Hauses zu überprüfen?
-- Was muss geschehen, damit die Stromversorgung wieder hergestellt werden kann?
-- Sind für den Wiederaufbau Genehmigungen einzuholen?
 
 Hinweis in eigener Sache: Diese Seite soll dem Austausch von Informationen dienen und auf kurzem Wege die Koordination von (ehrenamtlichen) Unterstützungsleistungen im Rahmen der Hochwasserfolgen Mitte Juli 2021 in der Städteregion Aachen fördern. Es wird keine Haftung für die vermittelten Informationen oder Arbeiten übernommen und es kann leider ebensowenig garantiert werden, dass für jedes Hilfsgesuch auch das passende Angebot gefunden wird. Die Unterstützung von Projektitekt erfolgt ehrenamtlich und unentgeltlich.
