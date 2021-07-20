@@ -1,5 +1,5 @@
 ---
-title: Wiederaufbau Städteregion Aachen<br> und Nordeifel
+title: Wiederaufbau Städteregion Aachen & Nordeifel
 ---
 
 **Initiative zur Unterstützung des Wiederaufbaus nach dem Hochwasser im Juli 2021 in der Städteregion Aachen**<br>
