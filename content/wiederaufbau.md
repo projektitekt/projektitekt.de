@@ -17,7 +17,7 @@ Viele Menschen im Zentrum von Aachen Kornelimünster, Stolberg, Eschweiler und w
 Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und Privatpersnen aus der Region möchten beim Wiederaufbau unterstützen! Mit Fachwissen, Koordination, unserem Netzwerk, Dienstleistungen, Geräten und allem, was gerade fehlt. Jeder entscheidet selbst, was er leisten kann und in welchem Umfang er oder sie tätig sein möchte. Diese Seite dient ausschließlich der Vermittlung zwischen Betroffenen, ehrenamtlichen Helfern und auch Dienstleistern der Planungs- und Baubranche. Die Betreiberin dieser Seite ist ehrenamtlich tätig und übernimmt keine Haftung für die vermittelten Leistungen. 
 
 **Du möchtest helfen?**<br>
-Über das **[Formular für unterstützer](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link)** kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
+Über das **[Formular für Unterstützer](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link)** kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
 
 ![Formular Helfer](/contents/form_helfer.png)
 
