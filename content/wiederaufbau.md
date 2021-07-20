@@ -58,4 +58,7 @@ Stand 20. Juli 2021
 - STOLBERG: Stadtarchiv sucht Helfer zur Sicherung der Unterlagen - Altes Rathaus, Stolberg, Infos auf [Facebook](https://www.facebook.com/groups/327562312335571/?multi_permalinks=330194005405735%2C330147155410420%2C329544528804016%2C329489355476200%2C330161778742291&notif_id=1626503523262315&notif_t=group_activity&ref=notif)
 - SACHSPENDEN werden derzeit in der Region vielerorts nicht mehr angenommen, da die Lagerkapazitäten erschöpft sind.
 
+Danke an die Menschen und Unternehmen, die sich schon bereit erklärt haben zu unterstützen. Wer ist noch dabei? Meldet euch!
+![Unsere Unterstützer](/contents/unterstuetzer.png)
+
 Hinweis in eigener Sache: Diese Seite soll dem Austausch von Informationen dienen und auf kurzem Wege die Koordination von (ehrenamtlichen) Unterstützungsleistungen im Rahmen der Hochwasserfolgen Mitte Juli 2021 in der Städteregion Aachen fördern. Es wird keine Haftung für die vermittelten Informationen oder Arbeiten übernommen und es kann leider ebensowenig garantiert werden, dass für jedes Hilfsgesuch auch das passende Angebot gefunden wird. Die Unterstützung von Projektitekt erfolgt ehrenamtlich und unentgeltlich.
