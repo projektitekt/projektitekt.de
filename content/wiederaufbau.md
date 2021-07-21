@@ -44,7 +44,7 @@ Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen pa
 Diese Seite bündelt keine Spendenaufrufe oder Spendenangebote! 
 Hierfür stehen andere Organisationen und Hilfsangeboten zur Verfügung. Anbei einige externe Links:
 
-Stand 20. Juli 2021
+- Übersicht Spendenkonten und Förderprogramme für die Region auf der Seite der [AGIT](https://www.agit.de/hochwasserhilfen)
 - [Infos STAEDTEREGION AACHEN](https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles/pressemitteilungen/starkregen-unwetterlage)
 - [Infos Stadt ESCHWEILER](https://www.eschweiler.de/aktuelles/news/live-blog-hochwasser/)
 - [Infos Stadt STOLBERG](https://www.stolberg.de/Informationen-zur-aktuellen-Hochwasserlage.html?waid=697&modul_id=33)
