@@ -2,9 +2,9 @@
 title: Wiederaufbau Städteregion Aachen & Nordeifel
 ---
 
-**Initiative zur Unterstützung des Wiederaufbaus nach dem Hochwasser im Juli 2021 in der Städteregion Aachen**<br>
-Wir vermitteln freiwillige Helfer, Baufachleuten, Planern und ausführende Unternehmen, die beim Wiederaufbau von Gebäuden unterstützen möchten.<br><br>
-*Diese Seite befindet sich noch im Aufbau! Anregungen und Rückfragen gerne an [wiederaufbau@projektitekt.de](mailto:wiederaufbau@projektitekt.de).*
+**Initiative zur Unterstützung des Wiederaufbaus nach dem Hochwasser am 14./15. Juli 2021 in der Städteregion Aachen**<br>
+Wir vermitteln Baufachleute, Planer und ausführende Unternehmen, die beim Wiederaufbau von Gebäuden unterstützen möchten.<br><br>
+*Anregungen und Rückfragen gerne an [wiederaufbau@projektitekt.de](mailto:wiederaufbau@projektitekt.de).*
 
 **Ziel**
 Wir möchten Menschen in Aachen, Eschweiler, Stolberg und der Region Nordeifel dabei unterstützen, ihre Häuser möglichst bald wieder bewohnbar zu machen. Unsere Initiative dient der Koordination und Vermittlung zwischen Betroffenen und Helfern der Planungs- und Baubranche.
@@ -32,7 +32,7 @@ Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochw
 
 **Wie geht es weiter, wenn ich ein Formular ausgefüllt habe?**
 Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen passenden Ansprechpartner zu finden. Unser Ziel ist es, die passenden Helfer, Fachleute oder Dienstleister schnellstmöglich zu aktivieren und direkt mit dir in Verbindung zu bringen. Wir versuchen für dich einen zentralen Ansprechpartner zu finden, der dann mit dir eure individuelle Situation und das weitere Vorgehen bespricht. Themen können bspw. sein
-- Das Wasser ist aus dem Haus raus - wie geht es weiter? Wo bekomme ich einen Bautrockner her? Muss der Putz entfernt werden?
+- Wasser und Schlamm sind aus dem Haus, der Keller ist leer - wie geht es weiter?
 - Ist die Heizung defekt? Wie und wann kann Ersatz beschafft werden?
 - Ist ein Statiker erforderlich, um die Standsicherheit des Hauses zu überprüfen?
 - Was muss geschehen, damit die Stromversorgung wieder hergestellt werden kann?
@@ -44,6 +44,7 @@ Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen pa
 Diese Seite bündelt keine Spendenaufrufe oder Spendenangebote! 
 Hierfür stehen andere Organisationen und Hilfsangeboten zur Verfügung. Anbei einige externe Links:
 
+- Der BDB (Bund Deutscher Baumeister) organisiert Erstbegehungen kleiner interdisziplinärer Fachteams - momentan sind die Kapazitäten erschöpft. Wir sind in Austausch und informieren hier, wenn es erneut Kapazitäten für Betroffene gibt. Ehrenamtliche Unterstützer (Architekten, Statiker, Sachverständige etc.) gerne bei mir melden!
 - Übersicht Spendenkonten und Förderprogramme für die Region auf der Seite der [AGIT](https://www.agit.de/hochwasserhilfen)
 - [Infos STAEDTEREGION AACHEN](https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles/pressemitteilungen/starkregen-unwetterlage)
 - [Infos Stadt ESCHWEILER](https://www.eschweiler.de/aktuelles/news/live-blog-hochwasser/)
@@ -53,11 +54,7 @@ Hierfür stehen andere Organisationen und Hilfsangeboten zur Verfügung. Anbei e
 - AACHEN: Betreuung: Kinder und Jugendliche von 14-18 Jahre (mit Handicap bis 25 Jahre) aus den betroffenen Regionen können noch evtl. noch einen Platz beim [Integrativen Jugendcamp](https://jugendcampaachen.wordpress.com/anmeldung/) in Aachen Merzbrück bekommen (schnell anmelden!).
 
 **mitHELFEN**
-Stand 20. Juli 2021
-- ESCHWEILER: Berufskolleg Eschweiler, August-Thyssen-Str. 15 (gerne mitbringen: Besen, Abzieher, Aufnehmer, Eimer, Schubkarren, Einkaufskörbe, Klappkisten...)
-- DLRG sucht Helfer für Trinkwasserausgabe (an Sonntag 19 Uhr, 12-Stunden Schichten in 10er-Gruppen): Herr Naegeler, 0241-413 685 176
-- STOLBERG: Stadtarchiv sucht Helfer zur Sicherung der Unterlagen - Altes Rathaus, Stolberg, Infos auf [Facebook](https://www.facebook.com/groups/327562312335571/?multi_permalinks=330194005405735%2C330147155410420%2C329544528804016%2C329489355476200%2C330161778742291&notif_id=1626503523262315&notif_t=group_activity&ref=notif)
-- SACHSPENDEN werden derzeit in der Region vielerorts nicht mehr angenommen, da die Lagerkapazitäten erschöpft sind.
+Wer noch anpacken oder (die richtigen) Sachspenden beisteuern möchte, informiert sich am besten in diversen Social Media Gruppen, da sich die Bedarfe quasi täglich ändern.
 
 Danke an die Menschen und Unternehmen, die sich schon bereit erklärt haben zu unterstützen. Wer ist noch dabei? Meldet euch!
 
