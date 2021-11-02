@@ -2,7 +2,8 @@
 title: Pressespiegel
 ---
 
-Ein paar kleine Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
+Neuigkeiten zum Thema "Initiative Wiederaufbau" finden Sie [hier](/wiederaufbau).
+Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 
 - **Prämierung: AC² - Der Gründungswettbewerb 2019/20**<br>
  [GründerRegion Aachen](https://www.gruenderregion.de/wettbewerbe/ac2-der-gruendungswettbewerb/praemierung.html), November 2020
