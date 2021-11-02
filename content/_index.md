@@ -2,7 +2,7 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-Sie möchten die Betroffenen des Hochwassers in der Städteregion Aachen/ Nordeifel unterstützen? Hier geht es weiter zu unserer [Initiative Wiederaufbau](/wiederaufbau).
+Aktuelle Infos zu unserer [Initiative Wiederaufbau](/wiederaufbau) für die Region Nordeifel/Städtegegion Aachen finden Sie [hier](/wiederaufbau).
 
 **Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit**
 * umfangreichem Bau-Knowhow
