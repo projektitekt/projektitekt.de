@@ -2,11 +2,6 @@
 title: Projektitekt macht Planungsbüros effizient
 ---
 
-Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit
-* umfangreichem Bau-Knowhow
-* einer hohen methodischen Kompetenz im Projektmanagement
-* unter Einsatz branchenspezifischer digitaler Werkzeuge.
-
 ![Sylvia C. Schuster](/contents/projektitekt_bauhelm.jpg)
 
 Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Unternehmen.
@@ -16,22 +11,27 @@ Wenn eine der folgenden Fragen für Sie relevant ist, sollten wir ins Gespräch 
     Gefühl, dass beim immer schneller fortschreitenden Wachstum die Büroorganisation auf der Strecke
     bleibt?
 
-  * Sie möchten die Abläufe innerhalb der Projekte stärker standardisieren und die Zufriedenheit
+  * Sie möchten mehr Klarheit in die Abläufe Ihrer Projekte bringen und so die Zufriedenheit
     Ihrer Bauherren und Kunden steigern?
 
-  * Sie haben das Gefühl, viel Zeit in nicht wertschöpfende Tätigkeiten zu stecken, die Sie künftig vermeiden möchten? Es passieren oft die gleichen Fehler in der Planungsphase oder Sie benötigen ein effizientes Vorgehen bei der Dokumentation der Bauphase?
+  * Sie haben das Gefühl, viel Zeit in unnütze Tätigkeiten zu stecken, die Ihre Projekte nicht wirklich voranbringen? Es passieren oft die gleichen Fehler in der Planungsphase oder während der Bauausführung?
 
   * Die Auftragslage ist momentan besser denn je, aber Sie wünschen sich mehr
     Überblick über die laufenden Projekte? Sie erwarten bspw. von Ihren Projektleitern
     ein besseres Verständnis für Kosten, Termine und Qualitäten, brauchen aber Unterstützung,
     dieses Wissen im Unternehmen zu vermitteln?
+
+Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit
+* umfangreichem Bau-Knowhow
+* einer hohen methodischen Kompetenz im Projektmanagement
+* unter Einsatz branchenspezifischer digitaler Werkzeuge.
     
 Gerne führe ich mit Ihnen ein unverbindliches Gespräch über die Bedürfnisse und
 Potentiale in Ihrem Unternehmen. Rufen Sie mich an unter +49 177 63 101 89 oder
-schreiben Sie mir eine [E-Mail](mailto:sylvia.schuster@projektitekt.de).
+schreiben Sie mir eine [E-Mail](mailto:mail@projektitekt.de).
 
 
-***Wie es zur Gründung von Projektitekt kam...***
+***Wir wissen, wie die Baubranche funktioniert.***
 
 Als Architektin, Bauleiterin und Projektmanagerin in unterschiedlich großen
 Planungsbüros habe ich in den letzten zehn Jahren viele **Facetten des Planungs- und Bauprozesses** kennengelernt.
