@@ -8,7 +8,7 @@ Einen Überblick über die Vita der Gründerin finden Sie [hier](/vita).
   [BOB efficiency design AG](https://www.bob-ag.de), Aachen.
 
 - **Projektmanagement Wiederaufbau einer Holzbausiedlung, Ahrweiler**<br>
-  [Raulf Architekten](https://www.raulfarchitekten.de/
+  [Raulf Architekten](https://www.raulfarchitekten.de/)
   
 - **Organisationsberatung, Prozessoptimierung, Qualitätsmanagement**<br>
   [VALERES Industriebau GmbH](https://www.valeres.de), Würselen.
