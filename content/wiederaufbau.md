@@ -12,7 +12,7 @@ Durch eine Bauphysikerin im BDB-Netzwerk kommt noch eine neue Idee auf: eine "Fe
 Wir sind im engen Austausch mit dem [BDB](https://nrw.baumeister-online.de/home/) (Bund Deutscher Baumeister, Architekten und Ingenieure e.V.), der einen sehr ähnlichen Ansatz zur Unterstützung der Hochwasser-Betroffenen hat wie wir. Unter dem Titel "Initialfachberatung für vom Hochwasser betroffenen Gebäudeeigentümer" werden durch erfahrene Fachleute (Statiker, Bauphysiker, Architekten etc.) betroffene Gebäude begangen und das Schadensbild und erste Handlungsempfehlungen dokumentiert. Durch die "Initiative Wiederaufbau" können wir eine Vielzahl von Kontakten herstellen und fachliche Fragen von Betroffenen auf kurzem Wege klären. Die Stadt Stolberg kristallisiert sich als Zentrum unserer ehrenamtlichen Arbeit heraus.
 
 **Update Juli 2021**<br>
-Nach mehreren Tagen Unterstützung in einer Notunterkunft, Ausräumen diverser Keller und eimerweise Schlamm schippen wird klar: "Das macht der Körper auf Dauer nicht mit - ich muss anders helfen!" Einige Tage nach dem Hochwasser entsteht die "Initiative Wiederaufbau" mit dme Ziel, Betroffene und Fachplaner/Fachfirmen aus der Baubranche zusammen zu bringen (siehe unten).
+Nach mehreren Tagen Unterstützung in einer Notunterkunft, Ausräumen diverser Keller und eimerweise Schlamm schippen wird klar: "Das macht der Körper auf Dauer nicht mit - ich muss anders helfen!" Einige Tage nach dem Hochwasser entsteht die "Initiative Wiederaufbau" mit dem Ziel, Betroffene und Fachplaner/Fachfirmen aus der Baubranche zusammen zu bringen (siehe unten).
 <br>
 
 **Initiative zur Unterstützung des Wiederaufbaus nach dem Hochwasser am 14./15. Juli 2021 in der Städteregion Aachen**<br>
