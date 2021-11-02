@@ -1,14 +1,27 @@
 ---
 title: Wiederaufbau Städteregion Aachen & Nordeifel
 ---
+**Update Oktober 2021**
+Es geht voran: Die Kommunikation mit dem Willy Stolberg, dem BDB, den beteiligten Fachplanern und Ingenieuren und nun auch den Studierenden der FH Aachen nimmt "an Fahrt auf: Die Feuchtemessoffensive ist gestartet, wir haben erste Testmessungen durchgeführt und protokolliert. Die Studierenden des 5. Semester Architektur begleiten im Rahmen ihrer Semesteraufgabe im Fach "Baumanagement" gruppenweise hochwassergeschädigte Objekte in Stolberg (insgesamt acht Objekte). Details folgen.
+
+**Update September 2021**
+Die Verbindung nach Stolberg festigt sich: Wir sind im engen Austausch mit dem ["Willy Stolberg"](https://willy-stolberg.de/), einem selbstorganisierten Versorgungszelt, und haben regelmäßig Austausch mit dem [Asta der Katho Aachen](https://katho-nrw.de/studium/campusleben/aachen/studierendenvertretungen). Die Idee, auch die Studierenden der Fachhochschule Aachen (Fachbereich Architektur) in die Erstellung von Wiederaufbau-Konzepten einzubinden entsteht und wird Woche für Woche konkreter. Der BDB hat mittlerweile über 50 Begehungen durchgeführt, auch über Projektitekt und das aufgebaute Netzwerk wurde eine zweistellige Anzahl an Gebäuden begangen und Unterstützung für die ersten Schritte geboten.
+Durch eine Bauphysikerin im BDB-Netzwerk kommt noch eine neue Idee auf: eine "Feuchtemessoffensive" - es sollen Messgeräte angeschafft werden, mit deren Hilfe Laien selber erste Feuchtemessungen durchführen können. So kann die Trocknung der Bauteile verfolgt werden, ohne dass für jeden Zwischenschritt ein Fachmann auf die Baustelle kommen muss. Der genaue Ablauf muss noch konkretisiert werden, der BDB bestellt die erforderlichen Messgeräte.
+
+**Update August 2021**
+Wir sind im engen Austausch mit dem [BDB](https://nrw.baumeister-online.de/home/)(Bund Deutscher Baumeister, Architekten und Ingenieure e.V.), der einen sehr ähnlichen Ansatz zur Unterstützung der Hochwasser-Betroffenen hat wie wir. Unter dem Titel "Initialfachberatung für vom Hochwasser betroffenen Gebäudeeigentümer" werden durch erfahrene Fachleute (Statiker, Bauphysiker, Architekten etc.) betroffene Gebäude begangen und das Schadensbild und erste Handlungsempfehlungen dokumentiert. Durch die "Initiative Wiederaufbau" können wir eine Vielzahl von Kontakten herstellen und fachliche Fragen von Betroffenen auf kurzem Wege klären. Die Stadt Stolberg kristallisiert sich als Zentrum unserer ehrenamtlichen Arbeit heraus.
+
+**Update Juli 2021**
+Nach mehreren Tagen Unterstützung in einer Notunterkunft, Ausräumen diverser Keller und eimerweise Schlamm schippen wird klar: "Das macht der Körper auf Dauer nicht mit - ich muss anders helfen!" Einige Tage nach dem Hochwasser entsteht die "Initiative Wiederaufbau" mit dme Ziel, Betroffene und Fachplaner/Fachfirmen aus der Baubranche zusammen zu bringen (siehe unten).
+
 
 **Initiative zur Unterstützung des Wiederaufbaus nach dem Hochwasser am 14./15. Juli 2021 in der Städteregion Aachen**<br>
 Wir vermitteln Baufachleute, Planer und ausführende Unternehmen, die beim Wiederaufbau von Gebäuden unterstützen möchten.<br><br>
 *Anregungen und Rückfragen gerne an [wiederaufbau@projektitekt.de](mailto:wiederaufbau@projektitekt.de).*
+![Unterstützung](/contents/hochwasser_patenschaft.png)
 
 **Ziel**
 Wir möchten Menschen in Aachen, Eschweiler, Stolberg und der Region Nordeifel dabei unterstützen, ihre Häuser möglichst bald wieder bewohnbar zu machen. Unsere Initiative dient der Koordination und Vermittlung zwischen Betroffenen und Helfern der Planungs- und Baubranche.
-![Unterstützung](/contents/hochwasser_patenschaft.png)
 
 **Aktuelle Situation**
 Viele Menschen im Zentrum von Aachen Kornelimünster, Stolberg, Eschweiler und weiteren Orten können jede helfende Hand gebrauchen, während in umliegenden Dörfern und Städten viele Menschen und Unternehmen helfen möchten, aber nicht wissen, wo sie gebraucht werden. Die verschiedenen Hilfsorganisationen sind ausgelastet mit der Koordination der eigenen Leute, sodass immer wieder Hilfswillige "weggeschickt" werden. Nicht jeder kann oder möchte körperliche Arbeit Leisten oder Geld spenden. Gerade in der Region Aachen gibt es viele Baufachleute, Handwerker, Architekten und Fachplaner mit einem riesigen und vielseitigen Fachwissen. Aufgrund der ohnehin schon hohen Auslastung der Branche möchten wir bei der Vermittlung freier Kapazitäten unterstützen.
@@ -44,14 +57,10 @@ Für Betroffene: Wir werten deine Daten aus um möglichst am selben Tag einen pa
 Diese Seite bündelt keine Spendenaufrufe oder Spendenangebote! 
 Hierfür stehen andere Organisationen und Hilfsangeboten zur Verfügung. Anbei einige externe Links:
 
-- Der BDB (Bund Deutscher Baumeister) organisiert Erstbegehungen kleiner interdisziplinärer Fachteams - momentan sind die Kapazitäten erschöpft. Wir sind in Austausch und informieren hier, wenn es erneut Kapazitäten für Betroffene gibt. Ehrenamtliche Unterstützer (Architekten, Statiker, Sachverständige etc.) gerne bei mir melden!
 - Übersicht Spendenkonten und Förderprogramme für die Region auf der Seite der [AGIT](https://www.agit.de/hochwasserhilfen)
 - [Infos STAEDTEREGION AACHEN](https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles/pressemitteilungen/starkregen-unwetterlage)
 - [Infos Stadt ESCHWEILER](https://www.eschweiler.de/aktuelles/news/live-blog-hochwasser/)
 - [Infos Stadt STOLBERG](https://www.stolberg.de/Informationen-zur-aktuellen-Hochwasserlage.html?waid=697&modul_id=33)
-- BAUSTOFFE: Bobbie, digitaler Baustoffhändler aus Aachen, bietet Baustoffe zum Selbstkostenpreis an - weitere Infos gibt es [hier] (https://www.bobbie.de/fluthilfe).
-- WÜRSELEN: Das Bauhaus gibt 20 % Preisnachlass für Betroffene. Nähere Infos [hier](https://www.bauhaus.info/wir-wollen-helfen?icid=Int20210716Ger0001).
-- AACHEN: Betreuung: Kinder und Jugendliche von 14-18 Jahre (mit Handicap bis 25 Jahre) aus den betroffenen Regionen können noch evtl. noch einen Platz beim [Integrativen Jugendcamp](https://jugendcampaachen.wordpress.com/anmeldung/) in Aachen Merzbrück bekommen (schnell anmelden!).
 
 **mitHELFEN**
 Wer noch anpacken oder (die richtigen) Sachspenden beisteuern möchte, informiert sich am besten in diversen Social Media Gruppen, da sich die Bedarfe quasi täglich ändern.
