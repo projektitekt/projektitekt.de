@@ -26,3 +26,4 @@ Rufen Sie mich an unter +49 (177) 63 101 89 oder schreiben Sie mir eine
 Sie finden mich außerdem in den sozialen Netzwerken auf
 [Xing](https://www.xing.com/profile/SylviaC_Schuster) und
 [LinkedIn](https://www.linkedin.com/in/sylvia-c-schuster/).
+
