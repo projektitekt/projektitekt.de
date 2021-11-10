@@ -6,7 +6,7 @@ Neuigkeiten zum Thema "Initiative Wiederaufbau" finden Sie [hier](/wiederaufbau)
 Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 
 - **Interview: « Baubranche = Männerbranche? »**<br>
-   Interview und Video bei [ALLPLAN](https://info.allplan.com/de/frauen-in-der-baubranche-sylvia-schuster.html), November 2021
+   Interview und Video bei [ALLPLAN](https://info.allplan.com/de/frauen-in-der-baubranche-sylvia-schuster.html), November 2021<br>
    Direkt zum [Video](https://www.youtube.com/watch?v=RealncV2sLU).
 
 - **Prämierung: AC² - Der Gründungswettbewerb 2019/20**<br>
