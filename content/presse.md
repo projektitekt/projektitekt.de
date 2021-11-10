@@ -10,6 +10,9 @@ Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https
 
 - **Prämierung: AC² - Der Gründungswettbewerb 2019/20**<br>
  [GründerRegion Aachen](https://www.gruenderregion.de/wettbewerbe/ac2-der-gruendungswettbewerb/praemierung.html), November 2020
+ 
+ Nominierungsvideo vom Gründungswettbewerb AC²:
+<p><iframe width="324" height="190" src="https://www.youtube.com/embed/fAIEvRlivSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 - **« Ausgezeichnete FH Alumni: Sylvia Schuster und Shirin Hadji-Abbassi beim AC²-Gründungswettbewerb geehrt »**<br>
   News Dezernat V - Innovationstransfer [fh-aachen.de](https://www.fh-aachen.de/hochschule/zentralverwaltung/dezernat-v-innovationstransfer/start-up/news), 17.11.2020.
