@@ -32,6 +32,6 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
-          GIT_CONFIG_NAME: Projektitekt
-          GIT_CONFIG_EMAIL: bot@projektitekt.de
+          git-config-name: Projektitekt
+          git-config-email: bot@projektitekt.de
           single-commit: true
