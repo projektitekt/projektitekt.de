@@ -28,17 +28,10 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: pnpm build
 
-      - uses: webfactory/ssh-agent@v0.4.1
+      - uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
-          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
-
-      - uses: JamesIves/github-pages-deploy-action@releases/v3
-        with:
-          BASE_BRANCH: master
-          BRANCH: gh-pages
-          CLEAN: true
-          FOLDER: dist
+          branch: gh-pages
+          folder: dist
           GIT_CONFIG_NAME: Projektitekt
           GIT_CONFIG_EMAIL: bot@projektitekt.de
-          SINGLE_COMMIT: true
-          SSH: true
+          single-commit: true
