@@ -5,6 +5,9 @@ title: Pressespiegel
 Neuigkeiten zum Thema "Initiative Wiederaufbau" finden Sie [hier](/wiederaufbau).
 Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 
+- **« Team Wiederaufbau - Ein gemeinsames Projekt von FH Aachen, BDB.NRW und Projektitekt »**<br>
+  Artikel im Magazin des [Bund Deutscher Baumeister](/contents/2021-12_BDB_Projekt_Stolberg.pdf) (PDF 0,2 MB), Dezember 2021.
+
 - **Interview: « Baubranche = Männerbranche? »**<br>
    Interview und Video bei [ALLPLAN](https://info.allplan.com/de/frauen-in-der-baubranche-sylvia-schuster.html), November 2021<br>
    Direkt zum [Video](https://www.youtube.com/watch?v=RealncV2sLU).
