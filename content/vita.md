@@ -15,9 +15,9 @@ title: Vita
   (3. Preis [ACquadrat](https://www.ac-quadrat.de/) 2020)
   
 - **Ehrenamtliche Tätigkeit Luftsportverein Aachen e.V.** <br>
-  seit 2021 Vorsitzende
-  seit 2019 Segelfluglehrerin
-  2018-2021 Geschäftsführerin
+  seit 2021 Vorsitzende <br>
+  seit 2019 Segelfluglehrerin <br>
+  2018-2021 Geschäftsführerin <br>
   
 - **Angestellte Planerin, Bauleiterin und Projektmanagerin** <br>
   2008-2019 in verschiedenen Planungsbüros <br>
