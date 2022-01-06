@@ -7,6 +7,9 @@ Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https
 
 - **« Team Wiederaufbau - Ein gemeinsames Projekt von FH Aachen, BDB.NRW und Projektitekt »**<br>
   Artikel im Magazin des [Bund Deutscher Baumeister](/contents/2021-12_BDB_Projekt_Stolberg.pdf) (PDF 0,2 MB), Dezember 2021.
+  
+Interview ALLPLAN:
+<p><iframe width="324" height="190" src="https://www.youtube.com/embed/RealncV2sLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 - **Interview: « Baubranche = Männerbranche? »**<br>
    Interview und Video bei [ALLPLAN](https://info.allplan.com/de/frauen-in-der-baubranche-sylvia-schuster.html), November 2021<br>
