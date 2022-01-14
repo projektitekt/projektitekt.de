@@ -1,6 +1,18 @@
 ---
 title: Wiederaufbau Städteregion Aachen & Nordeifel
 ---
+
+**Update Januar 2022**<br>
+Wir schreiben den 14. Januar 2022. Das Hochwasser in Nordrhein-Westfalen und Rheinlandpfalz ist nun schon sechs Monate her und möglicherweise aus vielen Köpfen außerhalb der betroffenen Regionen schon fast verschwunden. Viele von uns werden aber auch täglich oder zumindest regelmäßig an die Ereignisse erinnert und müssen einen Weg finden, mit den Folgen umzugehen. <br> Zum Anfang des neuen Jahres gibt es tolle Neuigkeiten: Der Hersteller eines Lehmputzes bietet uns an, in einem der Objekte in Stolberg einen Lehmputz-Workshop durchzuführen – inkl. Stellung des erforderlichen Materials. Das tolle: Lehmputz transportiert Feuchtigkeit sehr gut und kann daher schon zeitnah auf die noch feuchten Wände aufgebracht, bevor der Trocknungsprozess komplett abgeschlossen ist – trotzdem wird Schimmelbildung vorgebeugt. Das Objekt in der Stolberger Altstadt, in dem der Workshop stattfinden soll, wurde 1910 errichtet und stand heute vor sechs Monaten im Kellergeschoss komplett und im Erdgeschoss bis zu einer Höhe von ca. 1,50 Metern voll mit Wasser. Die Eigentümer freuen sich riesig über die Neuigkeiten, da sie mit regelmäßigen Absagen von den vollkommen ausgelasteten Handwerkern zu kämpfen haben.
+
+**Update Dezember 2021**<br>
+Heute mal in großer Runde ein Vor-Ort-Termin in der Zweifaller-Straße in Stolberg: neben mehreren Studierenden des Fachbereich Architektur (5. Semester, Fach Baumanagement) ist heute auch Dr. Friederike Maus vom BDB (Bund Deutscher Baumeister e.V.) und Dipl.-Ing. Frank Hainke vor Ort – beide unterstützen die Initiative Wiederaufbau mit Rat und Tat (und der BDB durch Sponsoring der Geräte, siehe Update Sept./Okt./Nov.). Im BDB-Mitgliedermagazin erscheint ein Artikel über unsere Arbeit, den ich [hier](/presse] verlinkt habe. <br>
+An der FH Aachen stehen vor Jahresabschluss noch Zwischenprüfungen im Fach Baumanagement an, bei der die Studierenden ihren aktuellen Arbeitsstand vorstellen. „Wir sind total begeistert. 😍 Das ein oder andere Konzept hat uns sogar nochmal zum Umdenken animiert. Unser Sohn war auch hin und weg.“ schreibt die Eigentümerin von zwei Erdgeschosswohnungen in Stolberg Mühle.
+
+**Update November 2021**<br>
+Thema Feuchtemessoffensive in Stolberg: Wir haben eine anschauliche Erklärung mit Fotos und Grafiken erstellt sowie eine Vorlage für ein Messprotokoll, die nun im Versorgungszelt (Container) am Willy-Brandt-Platz in Stolberg zusammen mit den beiden Feuchtemessgeräten ausgeliehen werden können (Öffnungszeiten siehe ["Willy Stolberg"](https://willy-stolberg.de/)). Ein Gerät ist für die Messung auf Mauerwerks- und Putzoberflächen geeignet, das andere für Holz. Betroffene können so regelmäßig den Fortschritt der Bautrocknung verfolgen, bevor eine finale Messung vom Fachmann das „Go“ für weitere Arbeiten wie das Verputzen der Wände gibt. <br>
+Der BDB hat für uns einige Sicherheitswesten mit dem Aufdruck „Team Wiederaufbau“ drucken lassen – die Architektur-Studierenden und andere Freiwillige können diese Westen ebenfalls im Versorgungscontainer ausleihen, wenn sie in Stolberg für den Wiederaufbau unterwegs sind.
+
 **Update Oktober 2021**<br>
 Es geht voran: Die Kommunikation mit dem Willy Stolberg, dem BDB, den beteiligten Fachplanern und Ingenieuren und nun auch den Studierenden der FH Aachen nimmt an Fahrt auf: Die Feuchtemessoffensive ist gestartet, wir haben erste Testmessungen durchgeführt und protokolliert. Die Studierenden des 5. Semester Architektur begleiten im Rahmen ihrer Semesteraufgabe im Fach "Baumanagement" gruppenweise hochwassergeschädigte Objekte in Stolberg (insgesamt acht Objekte). Details folgen.
 
