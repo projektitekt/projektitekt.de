@@ -19,6 +19,7 @@ Thema Feuchtemessoffensive in Stolberg: Wir haben eine anschauliche Erklärung m
 Der BDB hat für uns einige Sicherheitswesten mit dem Aufdruck „Team Wiederaufbau“ drucken lassen – die Architektur-Studierenden und andere Freiwillige können diese Westen ebenfalls im Versorgungscontainer ausleihen, wenn sie in Stolberg für den Wiederaufbau unterwegs sind.
 
 ![Wiederaufbau in Stolberg: der Putz ist im unteren Bereich der Wand des Erdgeschosses vollständig abgeschlagen](/contents/wiederaufbau01.png)
+Foto: Oliver Stöber
 
 **Update Oktober 2021**<br>
 Es geht voran: Die Kommunikation mit dem Willy Stolberg, dem BDB, den beteiligten Fachplanern und Ingenieuren und nun auch den Studierenden der FH Aachen nimmt an Fahrt auf: Die Feuchtemessoffensive ist gestartet, wir haben erste Testmessungen durchgeführt und protokolliert. Die Studierenden des 5. Semester Architektur begleiten im Rahmen ihrer Semesteraufgabe im Fach "Baumanagement" gruppenweise hochwassergeschädigte Objekte in Stolberg (insgesamt acht Objekte). Details folgen.
