@@ -14,12 +14,13 @@ wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 ## Verantwortlicher
 
 **Sylvia C. Schuster Projektitekt**<br>
+Sylvia Carola Schuster<br|
 Kasinostr. 44<br>
 52066 Aachen<br>
 Deutschland<br>
 <br>
-sylvia.schuster@projektitekt.de<br>
-+49 (177) 63 101 89<br>
+mail@projektitekt.de<br>
++49 (151) 651 52 999<br>
 [www.projektitekt.de/imprint](/imprint)
 
 ## Arten der verarbeiteten Daten
