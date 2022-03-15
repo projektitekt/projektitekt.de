@@ -5,16 +5,18 @@ title: Pressespiegel
 Neuigkeiten zum Thema "Initiative Wiederaufbau" finden Sie [hier](/wiederaufbau).
 Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 
-- **« Team Wiederaufbau - Ein gemeinsames Projekt von FH Aachen, BDB.NRW und Projektitekt »**<br>
-  Artikel im Magazin des [Bund Deutscher Baumeister](/contents/2021-12_BDB_Projekt_Stolberg.pdf) (PDF 0,2 MB), Dezember 2021.
-  Online-Artikel auf der Website des Vereins [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/blog/2022/03/10/team-wiederaufbau-ein-gemeinsames-projekt-von-fh-aachen-bdb-nrw-und-projektitekt/), erschienen in den ABE News vom 11.03.2022
-  
-Interview ALLPLAN:
-<p><iframe width="324" height="190" src="https://www.youtube.com/embed/RealncV2sLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+- **« Team Wiederaufbau »**<br>
+ Online-Artikel auf der Website des Vereins [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/blog/2022/03/10/team-wiederaufbau-ein-gemeinsames-projekt-von-fh-aachen-bdb-nrw-und-projektitekt/), erschienen in den ABE News vom 11.03.2022
 
+- **« Team Wiederaufbau - Ein gemeinsames Projekt von FH Aachen, BDB.NRW und Projektitekt »**<br>
+  Artikel im Magazin des [Bund Deutscher Baumeister](/contents/2021-12_BDB_Projekt_Stolberg.pdf) (PDF 0,2 MB), Dezember 2021
+  
 - **Interview: « Baubranche = Männerbranche? »**<br>
    Interview und Video bei [ALLPLAN](https://info.allplan.com/de/frauen-in-der-baubranche-sylvia-schuster.html), November 2021<br>
    Direkt zum [Video](https://www.youtube.com/watch?v=RealncV2sLU).
+
+Interview ALLPLAN:
+<p><iframe width="324" height="190" src="https://www.youtube.com/embed/RealncV2sLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 - **Prämierung: AC² - Der Gründungswettbewerb 2019/20**<br>
  [GründerRegion Aachen](https://www.gruenderregion.de/wettbewerbe/ac2-der-gruendungswettbewerb/praemierung.html), November 2020
