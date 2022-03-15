@@ -25,11 +25,6 @@ Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschne
 * umfangreichem Bau-Knowhow
 * einer hohen methodischen Kompetenz im Projektmanagement
 * unter Einsatz branchenspezifischer digitaler Werkzeuge.
-    
-Gerne führe ich mit Ihnen ein unverbindliches Gespräch über die Bedürfnisse und
-Potentiale in Ihrem Unternehmen. Rufen Sie mich an unter +49 177 63 101 89 oder
-schreiben Sie mir eine [E-Mail](mailto:mail@projektitekt.de).
-
 
 ***Wir wissen, wie die Baubranche funktioniert.***
 
@@ -56,7 +51,10 @@ Ich bin davon überzeugt, dass in vielen kleinen und mittelständischen Büros d
 der internen Organisation nicht nur der Inhaber entlastet wird, sondern auch insgesamt die **Effizienz** 
 des Unternehmens gesteigert werden kann. Um diese **Potentiale** zu **erkennen**, ist ein Blick "von außen" oft sehr hilfreich.
 
+Gerne führe ich mit Ihnen ein unverbindliches Gespräch über die Bedürfnisse und
+Potentiale in Ihrem Unternehmen. Rufen Sie mich an unter +49 (151) 651 52 999 oder
+schreiben Sie mir eine [E-Mail](mailto:mail@projektitekt.de).
+
 **Sylvia Carola Schuster**<br>
 (Gründerin Projektitekt)
-
 
