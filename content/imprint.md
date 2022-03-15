@@ -8,7 +8,7 @@ Kasinostr. 44<br>
 52066 Aachen<br>
 Deutschland<br>
 [sylvia.schuster@projektitekt.de](mailto:sylvia.schuster@projektitekt.de)<br>
-+49 (177) 63 101 89
++49 (151) 651 52 999
 
 **USt-ID:** DE322898651
 
