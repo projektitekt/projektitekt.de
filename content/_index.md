@@ -13,17 +13,14 @@ Ziel ist die Optimierung Ihrer Büro- und Projektabläufe. Wir stärken Ihre Kom
   
 ![USP Projektitekt](/contents/USP_Projektitekt.PNG)
 
-Gerne führe ich mit Ihnen ein unverbindliches Gespräch um herauszufinden, welche Potentiale in Ihrem Planungsbüro stecken und wie wir die Zufriedenheit Ihrer Mitarbeiter, Projektbeteiligten und Ihrer Bauherren nachhaltig verbessern können.
+Gerne führen wir mit Ihnen ein unverbindliches Gespräch um herauszufinden, welche Potentiale in Ihrem Planungsbüro stecken und wie wir die Zufriedenheit Ihrer Mitarbeiter, Projektbeteiligten und Ihrer Bauherren nachhaltig verbessern können.
 
 Sie möchten lesen was die [Medien über Projektitekt](/presse) berichten?<br>
 
-Ein kleiner Eindruck von Projektitekt (Nominierungsvideo vom Gründungswettbewerb AC²):
-<p><iframe width="324" height="190" src="https://www.youtube.com/embed/fAIEvRlivSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+Rufen Sie uns an unter +49 (151) 651 52 999 oder schreiben Sie uns eine
+[E-Mail](mailto:mail@projektitekt.de). Gerne vereinbaren wir mit Ihnen ein unverbindliches Erstgespräch - persönlich oder per Videokonferenz. 
 
-Rufen Sie mich an unter +49 (177) 63 101 89 oder schreiben Sie mir eine
-[E-Mail](mailto:mail@projektitekt.de). Gerne vereinbare ich mit Ihnen ein unverbindliches Erstgespräch - persönlich oder per Videokonferenz. 
-
-Sie finden mich außerdem in den sozialen Netzwerken auf
-[Xing](https://www.xing.com/profile/SylviaC_Schuster) und
-[LinkedIn](https://www.linkedin.com/in/sylvia-c-schuster/).
+Sie finden uns außerdem in den sozialen Netzwerken:
+[Projektitekt auf LinkedIn](https://www.linkedin.com/company/projektitekt)
+[Sylvia C. Schuster auf Xing](https://www.xing.com/profile/SylviaC_Schuster) und auf [LinkedIn](https://www.linkedin.com/in/sylvia-c-schuster/).
 
