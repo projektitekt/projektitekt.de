@@ -21,6 +21,6 @@ Rufen Sie uns an unter +49 (151) 651 52 999 oder schreiben Sie uns eine
 [E-Mail](mailto:mail@projektitekt.de). Gerne vereinbaren wir mit Ihnen ein unverbindliches Erstgespräch - persönlich oder per Videokonferenz. 
 
 Sie finden uns außerdem in den sozialen Netzwerken:
-[Projektitekt auf LinkedIn](https://www.linkedin.com/company/projektitekt)
+[Projektitekt auf LinkedIn](https://www.linkedin.com/company/projektitekt)<br>
 [Sylvia C. Schuster auf Xing](https://www.xing.com/profile/SylviaC_Schuster) und auf [LinkedIn](https://www.linkedin.com/in/sylvia-c-schuster/).
 
