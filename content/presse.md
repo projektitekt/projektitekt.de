@@ -7,6 +7,7 @@ Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https
 
 - **« Team Wiederaufbau - Ein gemeinsames Projekt von FH Aachen, BDB.NRW und Projektitekt »**<br>
   Artikel im Magazin des [Bund Deutscher Baumeister](/contents/2021-12_BDB_Projekt_Stolberg.pdf) (PDF 0,2 MB), Dezember 2021.
+  Online-Artikel auf der Website des Vereins [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/blog/2022/03/10/team-wiederaufbau-ein-gemeinsames-projekt-von-fh-aachen-bdb-nrw-und-projektitekt/), erschienen in den ABE News vom 11.03.2022
   
 Interview ALLPLAN:
 <p><iframe width="324" height="190" src="https://www.youtube.com/embed/RealncV2sLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
