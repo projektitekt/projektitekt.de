@@ -5,6 +5,9 @@ title: Pressespiegel
 Neuigkeiten zum Thema "Initiative Wiederaufbau" finden Sie [hier](/wiederaufbau).
 Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 
+- **« Nach der Jahrhundertflut: Wie Studenten bis heute helfen »**<br>
+  Frankfurter Allgemeine Zeitung vom 02.04.2022 und Onlineartikel auf [FAZ.net](https://www.faz.net/aktuell/karriere-hochschule/stolberg-wie-studenten-nach-flutkatastrophe-bis-heute-helfen-17925938.html)
+  
 - **« Team Wiederaufbau »**<br>
  Online-Artikel auf der Website des Vereins [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/blog/2022/03/10/team-wiederaufbau-ein-gemeinsames-projekt-von-fh-aachen-bdb-nrw-und-projektitekt/), erschienen in den ABE News vom 11.03.2022
 
