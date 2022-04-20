@@ -2,7 +2,7 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-Acht Monate nach dem Hochwasser > Hier geht's zu den aktuelle Infos zu unserer [Initiative Wiederaufbau](/wiederaufbau) (letztes Update am 15.03.2022).
+Acht Monate nach dem Hochwasser > Hier geht's zu den aktuelle Infos zu unserer [Initiative Wiederaufbau](/wiederaufbau) (letztes Update am 20.04.2022).
 
 **Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit**
 * umfangreichem Bau-Knowhow
