@@ -5,6 +5,9 @@ title: Pressespiegel
 Neuigkeiten zum Thema "Initiative Wiederaufbau" finden Sie [hier](/wiederaufbau).
 Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 
+- **« Wiederaufbauhilfe geht weiter - Bedarf immer noch groß »**<br>
+  Artikel im Magazin des [Bund Deutscher Baumeister](/contents/2022-04_BDB_Projekt_Stolberg.pdf) (PDF 0,2 MB), April 2022
+
 - **« Nach der Jahrhundertflut: Wie Studenten bis heute helfen »**<br>
   Frankfurter Allgemeine Zeitung vom 02.04.2022 und Onlineartikel auf [FAZ.net (paywall)](https://www.faz.net/aktuell/karriere-hochschule/stolberg-wie-studenten-nach-flutkatastrophe-bis-heute-helfen-17925938.html)
   
