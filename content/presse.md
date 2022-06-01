@@ -6,7 +6,7 @@ Neuigkeiten zum Thema "Initiative Wiederaufbau" finden Sie [hier](/wiederaufbau)
 Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 
 - **« Studenten verputzen hochwassergeschädigtes Gebäude »**<br>
-  Beitrag in der Lokalzeit Aachen, WDR Fernsehen am, 2. Mai 2022
+  Beitrag in der Lokalzeit Aachen, WDR Fernsehen, 2. Mai 2022
 
 - **« Wiederaufbauhilfe geht weiter - Bedarf immer noch groß »**<br>
   Artikel im Magazin des [Bund Deutscher Baumeister](/contents/2022-04_BDB_Projekt_Stolberg.pdf) (PDF 0,2 MB), April 2022
