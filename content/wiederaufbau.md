@@ -12,7 +12,8 @@ Das Endergebnis nach zwei Tagen Workshop<br><br>
 **Update Mai 2022**<br>
 Noch ist Ende April, aber wir schauen heute schon mal einige Tage in die Zukunft: Am Montag und Dienstag, 2. und 3. Mai wird es für die Studierenden im Fach Baumanagement sehr praktisch. Nächste Woche geht es nicht mehr um Management, sondern um Ausführung. Das Erdgeschoss des bereits mehrfach erwähnten Mehrfamilienhauses in der Zweifaller Straße wird von uns verputzt! Das komplette Material (Lehmputz für einen Teil der Wände, Kalkputz für die noch nasseren Wände) wird von zwei Herstellern gestellt. Die Arbeitsleistung kommt von rund 15 Studierenden, die ihr theoretisches Wissen um ein wenig Praxis erweitern möchten. Details und Fotos folgen...
 ![Abstimmung mit dem Bauherrn](/contents/stolberg01.png)
-Im Gespräch mit einem der Bauherren und Erläuterung der Arbeit der Studierenden<br><br>
+Im Gespräch mit einem der Bauherren und Erläuterung der Arbeit der Studierenden<br>
+Foto: FH Aachen | Arnd Gottschalk<br>
 
 **Update April 2022**<br>
 Seit wenigen Wochen läuft an der Fachhochschule Aachen das Sommersemester - vollständig in Präsenz. Nicht nur die Lehre und das Lernen finden wieder "praktischer" und mit mehr persönlichem Austausch statt, auch unser Projekt in Stolberg geht praxisnah weiter. Von den acht Objekten des letzten Semesters wurden drei ausgewählt, die nun weiter bearbeitet werden. So werden die Kapazitäten gebündelt und der fachliche Input an den Stellen eingesetzt, an denen er am meisten gebraucht wird.<br>
