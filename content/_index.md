@@ -2,7 +2,7 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-Fast ein Jahr nach dem Hochwasser > hier geht's zu den aktuelle Infos zu unserer [Initiative Wiederaufbau](/wiederaufbau) (letztes Update am 22. Juni 22).
+Ein Jahr nach der Flut - Wiederaufbau als Uniprojekt > aktueller WDR-Beitrag online abrufbar bis 18.07.2022 in der [WDR Mediathek](/https://www1.wdr.de/fernsehen/lokalzeit/aachen/videos/video-ein-jahr-nach-der-flut-wiederaufbau-als-uniprojekt-100.html) und hier geht's zu den aktuelle Infos zu unserer [Initiative Wiederaufbau](/wiederaufbau) (letztes Update Juni 22).
 
 **Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit**
 * umfangreichem Bau-Knowhow
