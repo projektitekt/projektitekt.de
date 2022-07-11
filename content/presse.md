@@ -5,6 +5,9 @@ title: Pressespiegel
 Neuigkeiten zum Thema "Initiative Wiederaufbau" finden Sie [hier](/wiederaufbau).
 Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 
+- **« Wiederaufbau Stolberg... »**<br>
+  Beitrag in der Lokalzeit Aachen, WDR Fernsehen, 11. Juli 2022
+
 - **« Studenten verputzen hochwassergeschädigtes Gebäude »**<br>
   Beitrag in der Lokalzeit Aachen, WDR Fernsehen, 2. Mai 2022
 
