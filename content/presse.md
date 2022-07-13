@@ -7,7 +7,7 @@ Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https
 
 - **« Ein Jahr nach der Flut: Wiederaufbau als Uniprojekt »**<br>
   Beitrag in der Lokalzeit Aachen, WDR Fernsehen, 11. Juli 2022<br>
-  online abrufbar bis 18.07.2022 in der [WDR Mediathek](/https://www1.wdr.de/fernsehen/lokalzeit/aachen/videos/video-ein-jahr-nach-der-flut-wiederaufbau-als-uniprojekt-100.html)
+  online abrufbar bis 18.07.2022 in der [WDR Mediathek](https://www1.wdr.de/fernsehen/lokalzeit/aachen/videos/video-ein-jahr-nach-der-flut-wiederaufbau-als-uniprojekt-100.html)
 
 - **« Studenten verputzen hochwassergeschädigtes Gebäude »**<br>
   Beitrag in der Lokalzeit Aachen, WDR Fernsehen, 2. Mai 2022
