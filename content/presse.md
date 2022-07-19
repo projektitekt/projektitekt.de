@@ -5,9 +5,12 @@ title: Pressespiegel
 Neuigkeiten zum Thema "Initiative Wiederaufbau" finden Sie [hier](/wiederaufbau).
 Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 
+- - **« Wiederaufbauhilfe als Uniprojekt »**<br>
+  Videobeitrag auf tagesschau.de, 15. Juli 2022<br>
+  online abrufbar auf [tagesschau.de]([https://www1.wdr.de/fernsehen/lokalzeit/aachen/videos/video-ein-jahr-nach-der-flut-wiederaufbau-als-uniprojekt-100.html](https://www.tagesschau.de/regional/nordrheinwestfalen/wdr-story-49131.html)
+
 - **« Ein Jahr nach der Flut: Wiederaufbau als Uniprojekt »**<br>
   Beitrag in der Lokalzeit Aachen, WDR Fernsehen, 11. Juli 2022<br>
-  online abrufbar bis 18.07.2022 in der [WDR Mediathek](https://www1.wdr.de/fernsehen/lokalzeit/aachen/videos/video-ein-jahr-nach-der-flut-wiederaufbau-als-uniprojekt-100.html)
 
 - **« Studenten verputzen hochwassergeschädigtes Gebäude »**<br>
   Beitrag in der Lokalzeit Aachen, WDR Fernsehen, 2. Mai 2022
