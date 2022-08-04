@@ -7,7 +7,7 @@ Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https
 
 - **« Eine große Hilfestellung für Flutopfer »**<br>
   Hochschulmagazin "DIMENSIONEN" der FH Aachen, Ausgabe 01/2022 (Seite 16-19)<br>
-  online abrufbar auf [fh-aachen.de]([https://www.tagesschau.de/regional/nordrheinwestfalen/wdr-story-49131.html](https://www.fh-aachen.de/fileadmin/org/org_poem/publikationen/dateien/dimensionen_FH_2022-01.pdf)
+  online abrufbar auf [fh-aachen.de](https://www.fh-aachen.de/fileadmin/org/org_poem/publikationen/dateien/dimensionen_FH_2022-01.pdf)
 
 - **« Wiederaufbauhilfe als Uniprojekt »**<br>
   Videobeitrag auf tagesschau.de, 15. Juli 2022<br>
