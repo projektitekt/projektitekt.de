@@ -2,9 +2,7 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-Ein Jahr nach der Flut - Wiederaufbau als Uniprojekt > aktueller Beitrag auf [tagesschau.de](https://www.tagesschau.de/regional/nordrheinwestfalen/wdr-externalvideo-22949.html) und hier geht's zu den aktuelle Infos zu unserer [Initiative Wiederaufbau](/wiederaufbau).
-
-**Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschneiderte Beratung mit**
+**Projektitekt unterstützt Architektur-, Ingenieur- und Planungsbüros durch eine maßgeschneiderte Beratung mit**
 * umfangreichem Bau-Knowhow
 * hoher methodischer Kompetenz im Projektmanagement
 * unter Einsatz digitaler Methoden.
