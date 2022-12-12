@@ -14,8 +14,8 @@ wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 ## Verantwortlicher
 
 **Sylvia C. Schuster Projektitekt**<br>
-Sylvia Carola Schuster<br|
-Kasinostr. 44<br>
+Sylvia Carola Schuster<br>
+Turpinstr. 19<br>
 52066 Aachen<br>
 Deutschland<br>
 <br>
