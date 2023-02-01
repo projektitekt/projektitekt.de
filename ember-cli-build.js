@@ -27,6 +27,7 @@ module.exports = function(defaults) {
     prember: {
       urls: [
         '/',
+        '/akademie',
         '/bingo',
         '/imprint',
         '/news',

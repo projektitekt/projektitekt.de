@@ -78,5 +78,8 @@
     "paths": [
       "lib/content-generator"
     ]
+  },
+  "volta": {
+    "node": "14.21.2"
   }
 }

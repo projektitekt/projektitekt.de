@@ -16,4 +16,5 @@ Router.map(function() {
   this.route('imprint');
   this.route('privacy');
   this.route('wiederaufbau');
+  this.route('akademie');
 });
