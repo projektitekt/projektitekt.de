@@ -7,7 +7,7 @@ M.A. Architektin (AKNW Mitgliedsnummer 105383)<br>
 Turpinstr. 19<br>
 52066 Aachen<br>
 Deutschland<br>
-[sylvia.schuster@projektitekt.de](mailto:sylvia.schuster@projektitekt.de)<br>
+[mail@projektitekt.de](mailto:mail@projektitekt.de)<br>
 +49 (151) 651 52 999
 
 **USt-ID:** DE322898651
