@@ -1,5 +1,5 @@
 ---
-title: Projektitekt macht Planungsbüros effizient
+title: Operative Prozessberatung für Planungsbüros
 ---
 
 ![Sylvia C. Schuster](/contents/projektitekt_bauhelm.jpg)
@@ -26,7 +26,7 @@ Projektitekt unterstützt Architektur- und Planungsbüros durch eine maßgeschne
 * einer hohen methodischen Kompetenz im Projektmanagement
 * unter Einsatz branchenspezifischer digitaler Werkzeuge.
 
-***Wir wissen, wie die Baubranche funktioniert.***
+***Wir wissen, wie die Planungs- und Bauprozesse funktionieren.***
 
 Als Architektin, Bauleiterin und Projektmanagerin in unterschiedlich großen
 Planungsbüros habe ich in den letzten zehn Jahren viele **Facetten des Planungs- und Bauprozesses** kennengelernt.
