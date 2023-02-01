@@ -8,8 +8,7 @@ title: Akademie / Schulungen
 **Zielgruppe**
 ![Zielgruppe der Schulungsreihe](/contents/zielgruppe_schulung.png)
 <br><br>
-
-**Inhalt**<br>
+Beschreibung folgt<br|
 
 **Modul 1: Einstieg in die Projektleitung: Von der Zieldefinition zum Projekterfolg**
 - Grundlagen Projektleitung in Bauprojekten
