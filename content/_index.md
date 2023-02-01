@@ -2,7 +2,7 @@
 title: Organisationsberatung für Planungsbüros
 ---
 
-**Projektitekt unterstützt Architektur-, Ingenieur- und Planungsbüros durch eine maßgeschneiderte Beratung mit**
+**Projektitekt unterstützt Architektur-, Ingenieur- und Planungsbüros durch Schulungsangebote und maßgeschneiderte Beratung mit**
 * umfangreichem Bau-Knowhow
 * hoher methodischer Kompetenz im Projektmanagement
 * unter Einsatz digitaler Methoden.
