@@ -6,9 +6,8 @@ title: Akademie / Schulungen
 *6 Module ab 28. April 2023*
 
 **Zielgruppe**
-![Zielgruppe der Schulungsreihe](/contents/zielgruppe_schulung.png)
-<br><br>
-Beschreibung folgt<br|
+
+![Zielgruppe der Schulungsreihe](/zielgruppe_schulung.png)
 
 **Modul 1: Einstieg in die Projektleitung: Von der Zieldefinition zum Projekterfolg**
 - Grundlagen Projektleitung in Bauprojekten
@@ -81,4 +80,4 @@ Beschreibung folgt<br|
 - 3200,- EUR je Teilnehmer/in zzgl. USt
 
 **Rückfragen, Termine und Anmeldung**
-Wir werden die finalen Termine, Anmeldeunterlagen etc. in Kürze (Anfang-Mitte Februar) hier zur Verfügung stellen. Bei Rückfragen melden Sie sich gerne bei Sylvia Schuster und Petra Kirschgens unter akademie@projektitekt.de. Sie können alternativ eine 30-minütige Videokonferenz über [Calendly](/https://calendly.com/projektitekt) buchen.
+Wir werden die finalen Termine, Anmeldeunterlagen etc. in Kürze (Anfang-Mitte Februar) hier zur Verfügung stellen. Bei Rückfragen melden Sie sich gerne bei Sylvia Schuster und Petra Kirschgens unter [akademie@projektitekt.de](mailto:akademie@projektitekt.de). Sie können alternativ eine 30-minütige Videokonferenz über [Calendly](https://calendly.com/projektitekt) buchen.
