@@ -17,4 +17,5 @@ Router.map(function() {
   this.route('privacy');
   this.route('wiederaufbau');
   this.route('akademie');
+  this.route('beratung');
 });
