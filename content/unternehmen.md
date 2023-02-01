@@ -55,6 +55,6 @@ Gerne führe ich mit Ihnen ein unverbindliches Gespräch über die Bedürfnisse 
 Potentiale in Ihrem Unternehmen. Rufen Sie mich an unter +49 (151) 651 52 999 oder
 schreiben Sie mir eine [E-Mail](mailto:mail@projektitekt.de).
 
-**Sylvia Carola Schuster**<br>
-(Gründerin Projektitekt)
+**Sylvia C. Schuster**<br>
+(Inhaberin Projektitekt)
 
