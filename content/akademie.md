@@ -6,13 +6,13 @@ title: Projektleitung für Bauprojekte
 
 **Status Quo**
 
-Die Planung und Ausführung von Bauprojekten wird immer komplexer – ob wir kreative Räume gestalten oder bautechnische Details lösen: Als Planende, Ingenieure und Architekten müssen wir unseren eigenen Bereich planerisch abdecken, ständig neue Normen und Gesetze berücksichtigen, mit der digitalen Entwicklung Schritt halten und möchten dabei möglichst keine Ressourcen verschwenden.
+**Die Planung und Ausführung von Bauprojekten wird immer komplexer** – ob wir kreative Räume gestalten oder bautechnische Details lösen: Als Planende, Ingenieure und Architekten müssen wir unseren eigenen Bereich planerisch abdecken, ständig neue Normen und Gesetze berücksichtigen, mit der digitalen Entwicklung Schritt halten und möchten dabei möglichst keine Ressourcen verschwenden.
 Ein fachliches Studium und einige Jahre Berufserfahrung helfen bei der Bewältigung dieser anspruchsvollen Aufgaben. Wer bereits seine Fachkompetenz in der Planung unter Beweis gestellt hat, wird gerne mit der Rolle des Projektleiters betraut. Für einen frisch gebackenen Projektleiter ergibt sich ein neuer Verantwortungsbereich, der zusätzliche Kompetenzen erfordert. Fachliches, persönliches und methodisches Knowhow wird oft stillschweigend vorausgesetzt und nicht aktiv vermittelt. So glänzen viele Projekte durch eine hochwertige Planung, gleichzeitig werden wichtige Themen wie Wirtschaftlichkeit und Zeitmanagement aus den Augen verloren.
 
 **Ablauf & Ziel der Schulung**
 
-Eine gute Projektleitung schuldet den ganzheitlichen Projekterfolg, der neben einer guten Planung auch das Einhalten der vereinbarten Kosten- und Terminziele bedeutet. Sie verantwortet diese Themen unabhängig von Projektgröße, Umfang des Planungsbereiches oder Größe des Teams. Projektleiter/in wird man nicht über Nacht – es bedarf eines Lernprozesses, in dem Wissen erworben wird, Erfahrungen gesammelt, aber auch Fehler gemacht werden.
-Die Fortbildungsreihe „Projektleitung für Bauprojekte“ bietet das inhaltliche Fundament und den Rahmen für diesen Prozess an: In einer heterogenen Gruppe von maximal zwölf Planern aus unterschiedlichen Büros werden in sechs aufeinander aufbauenden Modulen Kompetenzen, Tools und Methoden vermittelt – für gut organisierte Projekte mit einer klaren Kommunikation.
+**Eine gute Projektleitung schuldet den ganzheitlichen Projekterfolg**, der neben einer guten Planung auch das Einhalten der vereinbarten Kosten- und Terminziele bedeutet. Sie verantwortet diese Themen unabhängig von Projektgröße, Umfang des Planungsbereiches oder Größe des Teams. Projektleiter/in wird man nicht über Nacht – es bedarf eines Lernprozesses, in dem Wissen erworben wird, Erfahrungen gesammelt, aber auch Fehler gemacht werden.<br>
+**Die Fortbildungsreihe „Projektleitung für Bauprojekte“ bietet das inhaltliche Fundament und den Rahmen für diesen Prozess**: In einer heterogenen Gruppe von maximal zwölf Planern aus unterschiedlichen Büros werden in sechs aufeinander aufbauenden Modulen Kompetenzen, Tools und Methoden vermittelt – für gut organisierte Projekte mit einer klaren Kommunikation.
 Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erlernte unmittelbar im Büro- und Projektalltag angewendet werden kann. Zwischen den ganztätigen Modulen gibt es Möglichkeiten zum Austausch und für Rückfragen an die Referenten. Ein abschließendes Follow Up mit Raum für Erfahrungsaustausch rundet den gemeinsamen Prozess ab.
 
 
@@ -88,5 +88,5 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 **Kosten**
 - 3200,- EUR je Teilnehmer/in zzgl. USt
 
-**Rückfragen, Termine und Anmeldung**
+**Rückfragen, Termine und Anmeldung**<br>
 Wir werden die finalen Termine, Anmeldeunterlagen etc. in Kürze (Anfang-Mitte Februar) hier zur Verfügung stellen. Bei Rückfragen melden Sie sich gerne bei Sylvia Schuster und Petra Kirschgens unter [akademie@projektitekt.de](mailto:akademie@projektitekt.de). Sie können alternativ eine 30-minütige Videokonferenz über [Calendly](https://calendly.com/projektitekt) buchen.
