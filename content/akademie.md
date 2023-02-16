@@ -9,6 +9,8 @@ title: Projektleitung für Bauprojekte
 **Die Planung und Ausführung von Bauprojekten wird immer komplexer** – ob wir kreative Räume gestalten oder bautechnische Details lösen: Als Planende, Ingenieure und Architekten müssen wir unseren eigenen Bereich planerisch abdecken, ständig neue Normen und Gesetze berücksichtigen, mit der digitalen Entwicklung Schritt halten und möchten dabei möglichst keine Ressourcen verschwenden.
 Ein fachliches Studium und einige Jahre Berufserfahrung helfen bei der Bewältigung dieser anspruchsvollen Aufgaben. Wer bereits seine Fachkompetenz in der Planung unter Beweis gestellt hat, wird gerne mit der Rolle des Projektleiters betraut. Für einen frisch gebackenen Projektleiter ergibt sich ein neuer Verantwortungsbereich, der zusätzliche Kompetenzen erfordert. Fachliches, persönliches und methodisches Knowhow wird oft stillschweigend vorausgesetzt und nicht aktiv vermittelt. So glänzen viele Projekte durch eine hochwertige Planung, gleichzeitig werden wichtige Themen wie Wirtschaftlichkeit und Zeitmanagement aus den Augen verloren.
 
+<br>![Moderation S. Schuster](/contents/projektitekt_workshop.jpg)<br>
+
 **Ablauf & Ziel der Schulung**
 
 **Eine gute Projektleitung schuldet den ganzheitlichen Projekterfolg**, der neben einer guten Planung auch das Einhalten der vereinbarten Kosten- und Terminziele bedeutet. Sie verantwortet diese Themen unabhängig von Projektgröße, Umfang des Planungsbereiches oder Größe des Teams. Projektleiter/in wird man nicht über Nacht – es bedarf eines Lernprozesses, in dem Wissen erworben wird, Erfahrungen gesammelt, aber auch Fehler gemacht werden.<br>
@@ -68,8 +70,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Welche Tools konnte ich für meine Arbeit (weiter)entwickeln? 
 - Welche Erfahrungen möchte ich mit der Gruppe teilen?
 
-![Moderation S. Schuster](/contents/projektitekt_workshop.jpg)
-<br><br>
+<br>
 
 **Leistungen**<br>
 - sechs aufeinander aufbauende ganztägige Module im Zeitraum April bis Oktober 2023
