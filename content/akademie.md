@@ -4,9 +4,7 @@ title: Projektleitung für Bauprojekte
 
 *Fortbildungsreihe mit sechs Modulen ab 28. April 2023*
 
-**Status Quo**
-
-**Die Planung und Ausführung von Bauprojekten wird immer komplexer** – ob wir kreative Räume gestalten oder bautechnische Details lösen: Als Planende, Ingenieure und Architekten müssen wir unseren eigenen Bereich planerisch abdecken, ständig neue Normen und Gesetze berücksichtigen, mit der digitalen Entwicklung Schritt halten und möchten dabei möglichst keine Ressourcen verschwenden.
+**Status Quo: Die Planung und Ausführung von Bauprojekten wird immer komplexer** – ob wir kreative Räume gestalten oder bautechnische Details lösen: Als Planende, Ingenieure und Architekten müssen wir unseren eigenen Bereich planerisch abdecken, ständig neue Normen und Gesetze berücksichtigen, mit der digitalen Entwicklung Schritt halten und möchten dabei möglichst keine Ressourcen verschwenden.
 Ein fachliches Studium und einige Jahre Berufserfahrung helfen bei der Bewältigung dieser anspruchsvollen Aufgaben. Wer bereits seine Fachkompetenz in der Planung unter Beweis gestellt hat, wird gerne mit der Rolle des Projektleiters betraut. Für einen frisch gebackenen Projektleiter ergibt sich ein neuer Verantwortungsbereich, der zusätzliche Kompetenzen erfordert. Fachliches, persönliches und methodisches Knowhow wird oft stillschweigend vorausgesetzt und nicht aktiv vermittelt. So glänzen viele Projekte durch eine hochwertige Planung, gleichzeitig werden wichtige Themen wie Wirtschaftlichkeit und Zeitmanagement aus den Augen verloren.
 
 <br>![Moderation S. Schuster](/contents/projektitekt_workshop.jpg)<br>
