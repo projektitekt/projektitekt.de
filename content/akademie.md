@@ -28,15 +28,15 @@ Wir bilden Planende aus, die ihre (neue) Rolle als Projektleitende wahrnehmen un
 **Die Fortbildungsreihe „Projektleitung für Bauprojekte“ bietet das inhaltliche Fundament und den Rahmen für diesen Prozess**: In einer heterogenen Gruppe von maximal zwölf Planern aus unterschiedlichen Büros werden in sechs aufeinander aufbauenden Modulen Kompetenzen, Tools und Methoden vermittelt – für gut organisierte Projekte mit einer klaren Kommunikation.
 Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erlernte unmittelbar im Büro- und Projektalltag angewendet werden kann. Zwischen den ganztätigen Modulen gibt es Möglichkeiten zum Austausch und für Rückfragen an die Referenten. Ein abschließendes Follow Up mit Raum für Erfahrungsaustausch rundet den gemeinsamen Prozess ab.
 
-![Grafik Modul 1](/contents/akademie/fortbildung_gesamtablauf.png)<br>
-![Grafik Modul 1](/contents/akademie/modul1.png)<br>
+[Gesamtablauf der Schulung](/contents/akademie/fortbildung_gesamtablauf.png)<br><br>
+![Grafik Modul 1](/contents/akademie/modul1_titel.png)<br>
 **Modul 1: Einstieg in die Projektleitung: Von der Zieldefinition zum Projekterfolg**
 - Grundlagen Projektleitung in Bauprojekten
 - Verschiedene Rollen im Büro- und Projektalltag
 - Faktor Mensch und Zusammenspiel im Team: Fähigkeiten, Persönlichkeiten, Verhalten
 - Zieldefinition, Zwischenziele, Projekterfolg
 
-![Grafik Modul 2](/contents/akademie/modul2.png)<br>
+![Grafik Modul 2](/contents/akademie/modul2_titel.png)<br>
 **Modul 2: Verständnis von Projektaufbau, Projektablauf und Organisation von Bauprojekten**
 - verschiedene Leistungsbilder gemäß HOAI
 - Rollen und Schnittstellen innerhalb interdisziplinärer Planungsteams
@@ -47,7 +47,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Planspiel: Terminplanerstellung / Planung der Planung
 
 
-![Grafik Modul 3](/contents/akademie/modul3.png)<br>
+![Grafik Modul 3](/contents/akademie/modul3_titel.png)<br>
 **Modul 3: Verantwortung übernehmen für den Projekterfolg**
 - Grundlagen Kosten, Grundlagen Honorarermittlung
 - Zusammenhang Baukosten und Honorare
@@ -57,7 +57,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Erledigen, Delegieren oder Koordinieren?
 
 
-![Grafik Modul 4](/contents/akademie/modul4.png)<br>
+![Grafik Modul 4](/contents/akademie/modul4_titel.png)<br>
 **Modul 4: Den wirtschaftlichen Projekterfolg planen und steuern**
 - Lösungsorientierung statt Fokus auf Probleme am Beispiel der Ausführungsvorbereitung
 - Maßnahmen zur Vermeidung von Planungsänderungen, Fehlern und Wiederholungsleistungen
@@ -66,7 +66,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Verschiedene Führungs- und Abhängigkeitsebenen, Führungsstile
 
 
-![Grafik Modul 5](/contents/akademie/modul5.png)<br>
+![Grafik Modul 5](/contents/akademie/modul5_titel.png)<br>
 **Modul 5: Umgang mit Zielkonflikten, Störungen im Bauablauf, Änderungsmanagement**
 - Organisation und Prozesse während der Bauausführung
 - Abhängigkeit von Kosten, Terminen und Qualitäten
@@ -75,16 +75,14 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Ausschreibung, Bauvertrag, Nachträge
 
 
-![Grafik Modul 6](/contents/akademie/modul6.png)<br>
+![Grafik Modul 6](/contents/akademie/modul6_titel.png)<br>
 **Modul 6: Vertrag, Projektabschluss, Überprüfen der Ziele & Lessons Learned**
 - Zusammenführen der Erkenntnisse aus Modul 1-5 als Grundlage künftiger Projekte
 - Der Vertrag als Fundament aller Planungsleistungen
 - Fehlerkultur / Umgang mit Fehlern, Lessons Learned
 - Überprüfen der persönlichen Zielerreichung & Ausblick
 
-
-![Grafik Modul 2](/contents/akademie/modul7_followup.png)<br>
-**Follow-Up**
+<br>**Follow-Up**
 - Was konnte ich bisher in meinen laufenden Projekten anwenden?
 - Habe ich meine für das letzte halbe Jahr gesteckten Ziele erreicht?
 - Haben sich Lücken ergeben? Gibt es Rückfragen?
