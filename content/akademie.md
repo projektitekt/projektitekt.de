@@ -29,14 +29,14 @@ Wir bilden Planende aus, die ihre (neue) Rolle als Projektleitende wahrnehmen un
 Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erlernte unmittelbar im Büro- und Projektalltag angewendet werden kann. Zwischen den ganztätigen Modulen gibt es Möglichkeiten zum Austausch und für Rückfragen an die Referenten. Ein abschließendes Follow Up mit Raum für Erfahrungsaustausch rundet den gemeinsamen Prozess ab.
 
 
-![Grafik Modul 1](/contents/modul1.png)<br>
+![Grafik Modul 1](/contents/akademie/modul1_titel.png)<br>
 **Modul 1: Einstieg in die Projektleitung: Von der Zieldefinition zum Projekterfolg**
 - Grundlagen Projektleitung in Bauprojekten
 - Verschiedene Rollen im Büro- und Projektalltag
 - Faktor Mensch und Zusammenspiel im Team: Fähigkeiten, Persönlichkeiten, Verhalten
 - Zieldefinition, Zwischenziele, Projekterfolg
 
-![Grafik Modul 2](/contents/modul2.png)<br>
+![Grafik Modul 2](/contents/akademie/modul2_titel.png)<br>
 **Modul 2: Verständnis von Projektaufbau, Projektablauf und Organisation von Bauprojekten**
 - verschiedene Leistungsbilder gemäß HOAI
 - Rollen und Schnittstellen innerhalb interdisziplinärer Planungsteams
