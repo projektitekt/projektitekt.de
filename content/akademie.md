@@ -4,7 +4,7 @@ title: Projektleitung für Bauprojekte
 
 *Am 28. April 2023 geht es los!*<br>
 ![Flyer Schulung Projektleitung](/contents/projektleitung_sq1.jpg)<br>
-[Download Flyer als PDF-Datei](/contents/akademie/2023_Projektleitung_Programmbeschreibung_Anlage1.pdf)[Anmeldung als PDF-Datei](/contents/akademie/2023_Projektleitung_Anmeldung_Vertrag.pdf)<br>
+[Download Flyer als PDF-Datei](/contents/akademie/2023_Projektleitung_Programmbeschreibung_Anlage1.pdf)  [Anmeldung als PDF-Datei](/contents/akademie/2023_Projektleitung_Anmeldung_Vertrag.pdf)<br>
 
 **Status Quo: Bauprojekten werden immer komplexer**<br>
 Die Planung und Ausführung von Bauprojekten wird immer komplexer – ob wir kreative Räume gestalten oder bautechnische 
@@ -109,4 +109,5 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - 3200,- EUR je Teilnehmer/in zzgl. USt
 
 **Rückfragen, Termine und Anmeldung**<br>
-In diesem Dokument finden Sie noch einmal die Beschreibung unseres Fortbildungsangebotes. Bei Rückfragen melden Sie sich gerne bei Sylvia Schuster und Petra Kirschgens unter [akademie@projektitekt.de](mailto:akademie@projektitekt.de). Sie können alternativ eine 30-minütige Videokonferenz über [Calendly](https://calendly.com/projektitekt) buchen für einen persönlichen Austausch und die persönliche Abstimmung Ihrer Fragen.
+Hier finden Sie noch einmal den [Flyers als PDF-Datei](/contents/akademie/2023_Projektleitung_Programmbeschreibung_Anlage1.pdf) sowie die [Anmeldung als PDF-Datei](/contents/akademie/2023_Projektleitung_Anmeldung_Vertrag.pdf) samt Leistungsbeschreibung und Terminen (Start Freitag, 28. April 2023)!<br>
+Bei Rückfragen melden Sie sich gerne bei Sylvia Schuster und Petra Kirschgens unter [akademie@projektitekt.de](mailto:akademie@projektitekt.de). Sie können alternativ eine bis zu 30-minütige Videokonferenz über [Calendly](https://calendly.com/projektitekt) buchen für einen persönlichen Austausch und die persönliche Abstimmung Ihrer Fragen.
