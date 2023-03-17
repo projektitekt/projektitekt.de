@@ -5,7 +5,7 @@ title: Projektleitung für Bauprojekte
 *Fortbildungsreihe mit sechs Modulen ab 28. April 2023*<br>
 [Download Flyer als PDF-Datei (3,3MB)](/contents/2023_Fortbildung-Projektleitung_V1.pdf)<br>
 
-<br>![Flyer Schulung Projektleitung](/contents/projektleitung_1.png)<br>
+<br>![Flyer Schulung Projektleitung](/contents/projektleitung_sq1.jpg)<br>
 
 **Status Quo: Bauprojekten werden immer komplexer**<br>
 Die Planung und Ausführung von Bauprojekten wird immer komplexer – ob wir kreative Räume gestalten oder bautechnische 
