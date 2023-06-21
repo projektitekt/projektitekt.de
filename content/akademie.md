@@ -2,7 +2,7 @@
 title: Projektleitung für Bauprojekte
 ---
 
-*Am 28. April 2023 geht es los!*<br>
+*Unsere aktuelle Fortbildungsreihe läuft noch bis Ende August! Spätestens im Januar 2024 startet der zweite Durchgang!*<br>
 ![Flyer Schulung Projektleitung](/contents/projektleitung_sq1.jpg)<br>
 [Download Flyer als PDF-Datei](/contents/akademie/2023_Projektleitung_Programmbeschreibung_Anlage1.pdf)  [Anmeldung als PDF-Datei](/contents/akademie/2023_Projektleitung_Anmeldung_Vertrag.pdf)<br>
 
@@ -92,7 +92,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 <br>
 
 **Leistungen**<br>
-- sechs aufeinander aufbauende ganztägige Module im Zeitraum April bis Oktober 2023
+- sechs aufeinander aufbauende ganztägige Module (nächster Start voraussichtlich am 12. Januar 2023)
 - Präsenzveranstaltungen in Aachen & Erkelenz
 - Follow-Up-Termin ca. 6 Wochen nach dem letzten Modul
 - Dokumentation und zusätzliches Material zu jedem Termin
@@ -102,12 +102,12 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 
 **Anerkennung**
 
-- Fortbildungsveranstaltung bei der AKNW derzeit in Beantragung
-- Fortbildungsveranstaltung bei der IKBau derzeit in Beantragung
+- Fortbildungsveranstaltung bei der IKBau: 48 Seminarpunkte
+- (Fortbildungsveranstaltung bei der AKNW derauf Anfrage)
 
 **Kosten**
 - 3200,- EUR je Teilnehmer/in zzgl. USt
 
 **Rückfragen, Termine und Anmeldung**<br>
-Hier finden Sie noch einmal den [Flyers als PDF-Datei](/contents/akademie/2023_Projektleitung_Programmbeschreibung_Anlage1.pdf) sowie die [Anmeldung als PDF-Datei](/contents/akademie/2023_Projektleitung_Anmeldung_Vertrag.pdf) samt Leistungsbeschreibung und Terminen (Start Freitag, 28. April 2023)!<br>
+Hier finden Sie noch einmal den [Flyer als PDF-Datei](/contents/akademie/2023_Projektleitung_Programmbeschreibung_Anlage1.pdf) sowie die [Anmeldung als PDF-Datei](/contents/akademie/2023_Projektleitung_Anmeldung_Vertrag.pdf) samt Leistungsbeschreibung und Terminen (Start Freitag, 28. April 2023)!<br>
 Bei Rückfragen melden Sie sich gerne bei Sylvia Schuster und Petra Kirschgens unter [akademie@projektitekt.de](mailto:akademie@projektitekt.de). Sie können alternativ eine bis zu 30-minütige Videokonferenz über [Calendly](https://calendly.com/projektitekt) buchen für einen persönlichen Austausch und die persönliche Abstimmung Ihrer Fragen.
