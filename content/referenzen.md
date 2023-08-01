@@ -4,10 +4,10 @@ title: Referenzen
 
 Einen Überblick über die Vita der Gründerin finden Sie [hier](/vita).
 
-- **Prozessoptimierung, Digitalisierung**<br>
+- **Prozessoptimierung, Digitalisierung, Schulungen**<br>
   [BOB efficiency design AG](https://www.bob-ag.de), Aachen.
 
-- **Projektmanagement Wiederaufbau einer Holzbausiedlung, Ahrweiler**<br>
+- **Projektmanagement, Tools & Templates**<br>
   [Raulf Architekten](https://www.raulfarchitekten.de/)
   
 - **Organisationsberatung, Prozessoptimierung, Qualitätsmanagement**<br>
@@ -31,6 +31,12 @@ Einen Überblick über die Vita der Gründerin finden Sie [hier](/vita).
 - **Baumanagement, Terminplanung**<br>
   Architekturbüro Kochsplan, Aachen.
   
+- **Mentoring für Architektinnen und Planerinnen (ehrenamtlich)**<br>
+  [planM](https://planm-mentoring.de/), Aachen.  
+
 - **Gründungsberatung/Mentoring (ehrenamtlich)**<br>
   [Gründerregion Aachen](https://www.gruenderregion.de/wettbewerbe/ac2-der-gruendungswettbewerb/ablauf.html), Aachen.
- 
+
+ - **Mentoring Existenzgründung (ehrenamtlich)**<br>
+  [Bürgerstiftung Aachen](https://www.buergerstiftung-aachen.de/projekte/unsere-projekte/existenzgruendung-fuer-menschen-mit-flucht-undoder-migrationshintergrund.html), Aachen.
+
