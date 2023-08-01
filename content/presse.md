@@ -1,9 +1,10 @@
 ---
 title: Pressespiegel
 ---
+<img src="/contents/AZ1.jpg" alt="Aachener Zeitung vom 02.06.2020" style="border: black solid 1px;"> 
 
-Neuigkeiten zum Thema "Initiative Wiederaufbau" finden Sie [hier](/wiederaufbau).
 Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
+Einen detaillierten Blog zum Thema "Initiative Wiederaufbau" (Juli 2021 bis Juli 2022) finden Sie [hier](/wiederaufbau).
 
 - **« Eine große Hilfestellung für Flutopfer »**<br>
   Hochschulmagazin "DIMENSIONEN" der FH Aachen, Ausgabe 01/2022 (Seite 16-19)<br>
@@ -53,9 +54,7 @@ Interview ALLPLAN:
 - **« Start-up Projektitekt: Bauen ohne Kostenexplosion »**<br>
   Aachener Zeitung (Seite 1 & 6, Wirtschaft) vom 02.06.2020 <br>
   Online-Artikel [Aachener Zeitung (paywall)](https://www.aachener-zeitung.de/wirtschaft/bauen-ohne-kostenexplosion_aid-51371629), 01.06.2020.
-  
-<img src="/contents/AZ1.jpg" alt="Aachener Zeitung vom 02.06.2020" style="border: black solid 1px;"> 
-  
+   
   - **« Ideen im Rampenlicht: Nominierte Gründer und Unternehmen der AC²-Wettbewerbe stehen fest »**<br>
   Wirtschaftliche Nachrichten der IHK Aachen 06/2020 (Seite 12-14) vom 01.06.2020
 
