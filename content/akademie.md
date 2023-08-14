@@ -2,7 +2,7 @@
 title: Projektleitung für Bauprojekte
 ---
 
-*Unsere aktuelle Fortbildungsreihe läuft noch bis Ende August! Spätestens im Januar 2024 startet der zweite Durchgang!*<br>
+*Unsere aktuelle Fortbildungsreihe läuft noch bis Ende August! Am 12. Januar 2024 startet unsere neue Fortbildungsreihe (aktualisierter Flyer und Anmeldeunterlagen folgen)!*<br>
 ![Flyer Schulung Projektleitung](/contents/projektleitung_sq1.jpg)<br>
 [Download Flyer als PDF-Datei](/contents/akademie/2023_Projektleitung_Programmbeschreibung_Anlage1.pdf)  [Anmeldung als PDF-Datei](/contents/akademie/2023_Projektleitung_Anmeldung_Vertrag.pdf)<br>
 
@@ -82,19 +82,11 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Fehlerkultur / Umgang mit Fehlern, Lessons Learned
 - Überprüfen der persönlichen Zielerreichung & Ausblick
 
-<br><br><br>**Follow-Up**<br>
-- Was konnte ich bisher in meinen laufenden Projekten anwenden?
-- Habe ich meine für das letzte halbe Jahr gesteckten Ziele erreicht?
-- Haben sich Lücken ergeben? Gibt es Rückfragen?
-- Welche Tools konnte ich für meine Arbeit (weiter)entwickeln? 
-- Welche Erfahrungen möchte ich mit der Gruppe teilen?
-
 <br>
 
 **Leistungen**<br>
-- sechs aufeinander aufbauende ganztägige Module (nächster Start voraussichtlich am 12. Januar 2023)
-- Präsenzveranstaltungen in Aachen & Erkelenz
-- Follow-Up-Termin ca. 6 Wochen nach dem letzten Modul
+- sechs aufeinander aufbauende ganztägige Module (nächster Start voraussichtlich am 12. Januar 2024)
+- Präsenzveranstaltungen in Erkelenz (verkehrsgünstig gelegen zwischen Düsseldorf, Köln und Aachen)
 - Dokumentation und zusätzliches Material zu jedem Termin
 - zwischen den Modulen „Online-Sprechstunde“ mit Rückfragemöglichkeiten
 - Getränke, Kafeepausen, Mittagssnack
@@ -103,11 +95,11 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 **Anerkennung**
 
 - Fortbildungsveranstaltung bei der IKBau: 48 Seminarpunkte
-- (Fortbildungsveranstaltung bei der AKNW derauf Anfrage)
+- (Fortbildungsveranstaltung bei der AKNW auf Anfrage)
 
 **Kosten**
 - 3200,- EUR je Teilnehmer/in zzgl. USt
 
 **Rückfragen, Termine und Anmeldung**<br>
-Hier finden Sie noch einmal den [Flyer als PDF-Datei](/contents/akademie/2023_Projektleitung_Programmbeschreibung_Anlage1.pdf) sowie die [Anmeldung als PDF-Datei](/contents/akademie/2023_Projektleitung_Anmeldung_Vertrag.pdf) samt Leistungsbeschreibung und Terminen (Start Freitag, 28. April 2023)!<br>
+Hier finden Sie noch einmal den [Flyer als PDF-Datei](/contents/akademie/2023_Projektleitung_Programmbeschreibung_Anlage1.pdf) sowie die [Anmeldung als PDF-Datei](/contents/akademie/2023_Projektleitung_Anmeldung_Vertrag.pdf) samt Leistungsbeschreibung und Terminen (Version 2023, Aktualisierung folgt im Spätsommer 2023)!<br>
 Bei Rückfragen melden Sie sich gerne bei Sylvia Schuster und Petra Kirschgens unter [akademie@projektitekt.de](mailto:akademie@projektitekt.de). Sie können alternativ eine bis zu 30-minütige Videokonferenz über [Calendly](https://calendly.com/projektitekt) buchen für einen persönlichen Austausch und die persönliche Abstimmung Ihrer Fragen.
