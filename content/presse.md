@@ -7,7 +7,7 @@ Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https
 Einen detaillierten Blog zum Thema "Initiative Wiederaufbau" (Juli 2021 bis Juli 2022) finden Sie [hier](/wiederaufbau).
 
 - **« Frauen in IP" - Innovation und Kreativität sind weiblich »**<br>
-  Artikel des Deutschen Patent- und Markenamtes (DPMA), 27. September 2023
+  Artikel des Deutschen Patent- und Markenamtes (DPMA), 27. September 2023<br>
   online abrufbar auf [dpma.de](https://www.dpma.de/dpma/veroeffentlichungen/patentefrauen/womeninip_aachen/index.html)
 
 - **« Eine große Hilfestellung für Flutopfer »**<br>
