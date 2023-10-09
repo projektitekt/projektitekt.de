@@ -6,6 +6,10 @@ title: Pressespiegel
 Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 Einen detaillierten Blog zum Thema "Initiative Wiederaufbau" (Juli 2021 bis Juli 2022) finden Sie [hier](/wiederaufbau).
 
+- **« Frauen in IP" - Innovation und Kreativität sind weiblich »**<br>
+  Artikel des Deutschen Patent- und Markenamtes (DPMA), 27. September 2023
+  online abrufbar auf [dpma.de](https://www.dpma.de/dpma/veroeffentlichungen/patentefrauen/womeninip_aachen/index.html)
+
 - **« Eine große Hilfestellung für Flutopfer »**<br>
   Hochschulmagazin "DIMENSIONEN" der FH Aachen, Ausgabe 01/2022 (Seite 16-19)<br>
   online abrufbar auf [fh-aachen.de](https://www.fh-aachen.de/fileadmin/org/org_poem/publikationen/dateien/dimensionen_FH_2022-01.pdf)
