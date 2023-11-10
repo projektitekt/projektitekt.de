@@ -6,6 +6,10 @@ title: Pressespiegel
 Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 Einen detaillierten Blog zum Thema "Initiative Wiederaufbau" (Juli 2021 bis Juli 2022) finden Sie [hier](/wiederaufbau).
 
+- **« Eine außergewöhnliche Praxiserfahrung für Studierende der Architektur – auch im Sinne der Bildung für nachhaltige Entwicklung (BNE) »**<br>
+  Blog-Beitrag des Zentrum Hochschuldidaktik & Qualitätsentwicklung der FH Aachen (ZHQ), 10. November 2023<br>
+  online abrufbar auf [zhq-blog.fh.aachen.de](https://zhq-blog.fh-aachen.de/kompetenzen-studierende/eine-aussergewoehnliche-praxiserfahrung-fuer-studierende-der-architektur-auch-im-sinne-der-bildung-fuer-nachhaltige-entwicklung-bne/)
+
 - **« Frauen in IP" - Innovation und Kreativität sind weiblich »**<br>
   Artikel des Deutschen Patent- und Markenamtes (DPMA), 27. September 2023<br>
   online abrufbar auf [dpma.de](https://www.dpma.de/dpma/veroeffentlichungen/patentefrauen/womeninip_aachen/index.html)
