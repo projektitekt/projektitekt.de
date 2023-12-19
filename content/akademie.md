@@ -1,6 +1,7 @@
 ---
-title: Schulungen für Planer, Architekten & Ingenieure
+title: Schulungen für Architekten & Ingenieure
 ---
+**Wir vermitteln fachliche, methodische und persönliche Kompetenzen für Projektleiter!**<br> 
 
 **Status Quo: Bauprojekten werden immer komplexer**<br>
 Die Planung und Ausführung von Bauprojekten wird immer komplexer – ob wir kreative Räume gestalten oder bautechnische 
