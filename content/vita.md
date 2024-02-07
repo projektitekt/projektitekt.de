@@ -4,20 +4,23 @@ title: Vita
 
 ## Vita Sylvia C. Schuster
 
+- **Inhaberin Projektitekt** <br>
+  seit 07.2023 Systemischer Coach <br>
+  Organisationsberatung, Prozessberatung, Fortbildungen im Bereich Projektmanagement<br>
+  3. Preis [ACquadrat 2020](https://www.ac-quadrat.de/)
+  Unternehmensgründung 05.2019 <br>
+
 - **Dozentin Fachhochschule Aachen** <br>
-  seit 09.2020 Lehrauftrag für Baumanagement<br>
+  2020-2024 Lehrauftrag für Baumanagement<br>
   Studiengang Architektur, Bachelor 5. und 6. Semester<br>
   Studiengang Smart Building Engineering, Bachelor 4. Semester
 
-- **Inhaberin Projektitekt** <br>
-  seit 05.2019 <br>
-  erfolgreiche Teilnahme an verschiedenen Gründungswettbewerben<br>
-  (3. Preis [ACquadrat](https://www.ac-quadrat.de/) 2020)
-  
-- **Ehrenamtliche Tätigkeit Luftsportverein Aachen e.V.** <br>
-  seit 2021 Vorsitzende <br>
-  seit 2019 Segelfluglehrerin <br>
-  2018-2021 Geschäftsführerin <br>
+  - **Ehrenamtliche Tätigkeiten** <br>
+  seit 2023 Sprecherin der Fokusgruppe "Planen und Bauen - Digitale Prozesse" - Kooperation von [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/) und [digitalHub e.V.](https://aachen.digital/)
+  seit 2022 Auswahlkommission für Stipendien Architektur weltweit beim [DAAD](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57504328)
+  seit 2020 Mentorin für verschiedene Initiativen [ACquadrat 2020](https://www.ac-quadrat.de/), [planM](http://www.planm-mentoring.de/), Bürgerstiftung Aachen<br>
+  seit 2018 Geschäftsführerin / seit 2021 Vorsitzende Luftsportverein Aachen e.V. <br>
+  seit 2019 Segelfluglehrerin  Luftsportverein Aachen e.V.<br>
   
 - **Angestellte Planerin, Bauleiterin und Projektmanagerin** <br>
   2008-2019 in verschiedenen Planungsbüros <br>
