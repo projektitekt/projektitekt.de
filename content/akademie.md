@@ -34,7 +34,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Faktor Mensch und Zusammenspiel im Team: Fähigkeiten, Persönlichkeiten, Verhalten
 - Zieldefinition, Zwischenziele, Projekterfolg
 
-<br><br>
+<br>
 **Modul 2: Verständnis von Projektaufbau, Projektablauf und Organisation von Bauprojekten**
 - verschiedene Leistungsbilder gemäß HOAI
 - Rollen und Schnittstellen innerhalb interdisziplinärer Planungsteams
@@ -44,8 +44,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Wie steuere ich aktiv den zeitlichen Projektablauf?
 - Planspiel: Terminplanerstellung / Planung der Planung
 
-
-<br><br>
+<br>
 **Modul 3: Verantwortung übernehmen für den Projekterfolg**
 - Grundlagen Kosten, Grundlagen Honorarermittlung
 - Zusammenhang Baukosten und Honorare
@@ -54,17 +53,14 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Abgrenzen der eigenen Rolle:
 - Erledigen, Delegieren oder Koordinieren?
 
-
-<br><br>
+<br>
 **Modul 4: Den wirtschaftlichen Projekterfolg planen und steuern**
 - Lösungsorientierung statt Fokus auf Probleme am Beispiel der Ausführungsvorbereitung
 - Maßnahmen zur Vermeidung von Planungsänderungen, Fehlern und Wiederholungsleistungen
 - Wirtschaftlichkeit des Projektes – Kapazitätsplanung am Beispiel der Ausführungsphase
 - Einsatzplanung, Aufwand, Leistungsstand
 - Verschiedene Führungs- und Abhängigkeitsebenen, Führungsstile
-
-
-<br><br><br>![Grafik Modul 5](/contents/akademie/modul5_titel.png)<br>
+<br>
 **Modul 5: Umgang mit Zielkonflikten, Störungen im Bauablauf, Änderungsmanagement**
 - Organisation und Prozesse während der Bauausführung
 - Abhängigkeit von Kosten, Terminen und Qualitäten
@@ -72,16 +68,13 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Reduktion und Umgang mit Störungen im Bauablauf
 - Ausschreibung, Bauvertrag, Nachträge
 
-
-<br><br>
+<br>
 **Modul 6: Vertrag, Projektabschluss, Überprüfen der Ziele & Lessons Learned**
 - Zusammenführen der Erkenntnisse aus Modul 1-5 als Grundlage künftiger Projekte
 - Der Vertrag als Fundament aller Planungsleistungen
 - Fehlerkultur / Umgang mit Fehlern, Lessons Learned
 - Überprüfen der persönlichen Zielerreichung & Ausblick
-
 <br>
-
 **Leistungen**<br>
 - sechs aufeinander aufbauende ganztägige Module (Termine für 2024 in Planung)
 - Präsenzveranstaltungen in Erkelenz (verkehrsgünstig gelegen zwischen Düsseldorf, Köln und Aachen)
