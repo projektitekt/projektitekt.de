@@ -7,7 +7,7 @@ title: Vita
 - **Inhaberin Projektitekt** <br>
   seit 07.2023 Systemischer Coach <br>
   Organisationsberatung, Prozessberatung, Fortbildungen im Bereich Projektmanagement<br>
-  3. Preis [ACquadrat 2020](https://www.ac-quadrat.de/)<br>
+  3\. Preis [ACquadrat 2020](https://www.ac-quadrat.de/)<br>
   Unternehmensgründung 05.2019 <br>
 
 - **Dozentin Fachhochschule Aachen** <br>
