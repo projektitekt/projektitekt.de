@@ -60,6 +60,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Wirtschaftlichkeit des Projektes – Kapazitätsplanung am Beispiel der Ausführungsphase
 - Einsatzplanung, Aufwand, Leistungsstand
 - Verschiedene Führungs- und Abhängigkeitsebenen, Führungsstile
+
 <br>
 **Modul 5: Umgang mit Zielkonflikten, Störungen im Bauablauf, Änderungsmanagement**
 - Organisation und Prozesse während der Bauausführung
