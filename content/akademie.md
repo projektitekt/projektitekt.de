@@ -94,5 +94,5 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Individuelle Angebote für mehrere Teilnehmer auf Anfrage
 
 **Rückfragen, Termine und Anmeldung**<br>
-Hier finden Sie den [Flyer unseres Programms 2024 als PDF-Datei](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf).<br> Gerne bieten wir Ihnen das Programm auch als Inhouse-Schulung an oder erstellen für Sie ein indiviiduelles Angebot nach den Bedürfnissen Ihrer Mitarbeiter und Ihres Unternehmens.<br|
+Hier finden Sie den [Flyer unseres Programms 2024 als PDF-Datei](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf).<br> Gerne bieten wir Ihnen das Programm auch als Inhouse-Schulung an oder erstellen für Sie ein indiviiduelles Angebot nach den Bedürfnissen Ihrer Mitarbeiter und Ihres Unternehmens.
 Bei weiteren Fragen melden Sie sich gerne bei Sylvia Schuster und Petra Kirschgens unter [akademie@projektitekt.de](mailto:akademie@projektitekt.de) oder telefonisch unter +49 (151) 65152999.
