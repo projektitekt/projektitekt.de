@@ -3,6 +3,8 @@ title: Schulungen für Architekten & Ingenieure
 ---
 **Wir vermitteln fachliche, methodische und persönliche Kompetenzen für Projektleiter!**<br> 
 
+Neue Schulung: "Den wirtschaftlichen Projekterfolg planen und steuern!" am 11. und 12. November 2024 in Erkelenz. Nähere Informationen siehe Flyer. Hier geht es direkt zum [Anmeldeformular](https://forms.office.com/r/Vr285Y6nKu)
+
 **Status Quo: Bauprojekte werden immer komplexer**<br>
 Die Planung und Ausführung von Bauprojekten wird immer komplexer – ob wir kreative Räume gestalten oder bautechnische 
 Details lösen: Als Planende, Ingenieure und Architekten müssen wir unseren eigenen Bereich planerisch abdecken, ständig 
