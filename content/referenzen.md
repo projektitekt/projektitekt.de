@@ -6,8 +6,16 @@ Einen Überblick über die Vita der Gründerin finden Sie [hier](/vita).
 
 ![Referenzen Projektitekt](/contents/referenzen/referenzen2024.png)
 
+Im Folgenden erfahren Sie mir über unsere Kunden und Kooperationspartner, mit denen wir zusammenarbeiten:
+
+- **Qualitätsmanagement für Planer, Schulungen, Workshops**<br>
+  [Qualitätsverbund Planer am Bau](https://planer-am-bau.de/), remote.
+
 - **Prozessoptimierung, Digitalisierung, Schulungen**<br>
   [BOB efficiency design AG](https://www.bob-ag.de), Aachen.
+
+- **Redaktionelle Unterstützung, Konzipierung von Formaten für Planer am Bau**<br>
+  [PBP Planungsbüro professionell](https://www.iww.de/pbp), Würzburg/remote.
 
 - **Projektmanagement, Tools & Templates**<br>
   [Raulf Architekten](https://www.raulfarchitekten.de/)
