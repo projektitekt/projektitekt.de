@@ -8,7 +8,7 @@ title: Vita
   seit 2023 Qualitätsmanagement in Kooperation mit dem [Qualitätsverbund Planer am Bau](https://planer-am-bau.de/)<br>
   seit 2023 Systemischer Coach <br>
   seit 2019 Organisationsberatung, Prozessberatung, Fortbildungen im Bereich Projektmanagement<br>
-  05.2019 Unternehmensgründung, 3\. Preis [ACquadrat 2020](https://www.ac-quadrat.de/) und Publikumspreis 24. NUK Businessplan-Wettbewerb<br>
+  Mai 2019 Unternehmensgründung Projektitekt, 3\. Preis [ACquadrat 2020](https://www.ac-quadrat.de/) und Publikumspreis 24. NUK Businessplan-Wettbewerb<br>
  <br>
 
 - **Dozentin Fachhochschule Aachen** <br>
