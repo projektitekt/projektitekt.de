@@ -11,7 +11,7 @@ Unser Ziel ist die Steigerung der Effizienz Ihres Planungs- oder Ingenieurbüros
 
 Mit Ihnen gemeinsam decken wir bislang ungenutzte Potenziale auf, verbessern interne Abläufe und schaffen Klarheit – für Unternehmensführung, Mitarbeitende und Kunden. 
 
-Unsere Expertise basiert auf einer [langjährigen Tätigkeit](/vita) in Planung, Bauleitung und Projektmanagement. Wir wissen, wie Planungs- und Bauprojekte laufen und welchen Herausforderungen sich kleine und mittlere Planungsbüros tagtäglich stellen. Aus unserer Erfahrung heraus haben wir einen praxisnahen Schulungs- und Beratungsansatz entwickelt. <br>
+Unsere Expertise basiert auf einer [langjährigen Tätigkeit](/vita) in Planung, Bauleitung und Projektmanagement. Wir wissen, wie Planungs- und Bauprojekte laufen und welchen Herausforderungen sich kleine und mittlere Planungsbüros tagtäglich stellen. Aus unserer Erfahrung heraus haben wir einen praxisnahen Schulungs- und Beratungsansatz entwickelt. <br><br>
 ![USP Projektitekt](/contents/USP_Projektitekt.PNG) <br>
 
 Gerne führen wir mit Ihnen ein unverbindliches und kostenfreies Erstgespräch und finden heraus, wie wir Sie unterstützen können.
