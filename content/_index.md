@@ -2,8 +2,8 @@
 title: Projektitekt macht Planungsbüros effizient
 ---
 
-**Projektitekt unterstützt Architektur-, Ingenieur- und Planungsbüros durch Schulungsangebote und maßgeschneiderte Beratung**
-![USP Projektitekt](/contents/schulung-beratung-coaching.png)
+**Projektitekt unterstützt Architektur-, Ingenieur- und Planungsbüros durch Schulungsangebote und maßgeschneiderte Beratung**<br>
+![Das Angebot von Projektitekt: Schulungen, Beratung und Coaching](/contents/schulung-beratung-coaching.png)<br>
     
 Ziel ist die Optimierung Ihrer Büro- und Projektabläufe. Wir stärken Ihre Kompetenz im Projektmanagement, identifizieren ungenutzte Potentiale und finden die richtigen (digitalen) Lösungen. Durch effiziente Prozesse sparen Sie Zeit im Büro- und Projektalltag. Unsere Expertise fußt auf einer [langjährigen Tätigkeit](/referenzen) in der Planung, Bauleitung und im Projektmanagement von Großbauprojekten.
 
