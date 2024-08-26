@@ -3,7 +3,7 @@ title: Fortbildungen für Planer am Bau
 ---
 **Wir vermitteln fachliche, methodische und persönliche Kompetenzen für Architekten, Ingenieure und Planer!**<br> 
 <br>
-![Themenbeispiele unserer Schulungen](/contents/akademie/schulungsinhalte_beispiele.png)<br>
+![Themenbeispiele unserer Schulungen](/contents/akademie/schulungsinhalte_beispiele1.png)<br>
 **Unsere Schulungsformate**
 - **Projektleitung für Bauprojekte** Fortbildungsreihe mit 6 Modulen (48 Unterrichtseinheiten). Details entnehmen Sie bitte unserem [Flyer im PDF-Format](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf). Für Termine über das beschriebene Angebot hinaus, kontaktieren Sie uns gerne direkt.
 - **Den wirtschaftlichen Projekterfolg planen und steuern** Kompaktschulung am 11.-12. November 2024 in Erkelenz. Details entnehmen Sie bitte dem [Flyer im PDF-Format](/contents/akademie/Seminar_Wirtschaftlicher_Projekterfolg_2024.pdf). Hier geht es direkt zum [Anmeldeformular](https://forms.office.com/r/Vr285Y6nKu)
@@ -11,6 +11,7 @@ title: Fortbildungen für Planer am Bau
 - **Individuelle Inhouse-Schulungen** zu ausgewählten Inhalten nach Ihren Bedürfnissen. Bitte nehmen Sie Kontakt zu uns auf.
 
 Das Thema Lehre und fachliche Schulungen hat bei Projektitekt im Jahr 2020 begonnen, in dem Gründerin Sylvia C. Schuster einen Lehrauftrag im Fach Baumanagement an der Fachhochschule Aachen übernommen hat. Seit 2023 stellt das Thema Fortbildungen einen Schwerpunkt unserer Tätigkeit dar. Aktuell finden die Schulungen und Workshops zu einem hohen Anteil in Präsenz statt, da Planspiele und praktische Übungen ein zentrales Element unserer Methodik sind. Im Folgenden geben wir Ihnen einen Überblick über mögliche Schulungsthemen (Auszug unserer Fortbildungsreihe "Projektleitung für Bauprojekte"): <br>
+![Themenbeispiele unserer Schulungen](/contents/akademie/schulungsinhalte_beispiele2.png)<br>
 
 **Status Quo: Bauprojekte werden immer komplexer**<br>
 Die Planung und Ausführung von Bauprojekten wird immer komplexer – ob wir kreative Räume gestalten oder bautechnische 
