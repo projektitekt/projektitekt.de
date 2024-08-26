@@ -4,10 +4,10 @@ title: Fortbildungen für Planer am Bau
 **Wir vermitteln fachliche, methodische und persönliche Kompetenzen für Architekten, Ingenieure und Planer!**<br> 
 <br>
 **Unsere Schulungsformate**
-- Fortbildungsreihe „Projektleitung für Bauprojekte“ (6 Module, 6 ganze Tage). Details entnehmen Sie bitte unserem [Flyer im PDF-Format](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf). Für Termine über das beschriebene Angebot hinaus, kontaktieren Sie uns gerne direkt.
-- Kompaktschulung „Den wirtschaftlichen Projekterfolg planen und steuern“ (am 11. und 12.11.24 in Erkelenz). Details entnehmen Sie bitte dem [Flyer im PDF-Format](/contents/akademie/Seminar_Wirtschaftlicher_Projekterfolg_2024.pdf). Hier geht es direkt zum [Anmeldeformular](https://forms.office.com/r/Vr285Y6nKu)
-- Qualitätsmanagement für Planungsbüros - Inhouse-Schulungen und Workshops nach dem Qualitätsstandard Planer am Bau in Kooperation mit dem [Qualitätsverbund Planer am Bau](https://planer-am-bau.de).
-- Individuelle Inhouse-Schulungen zu ausgewählten Inhalten nach Ihren Bedürfnissen. Bitte nehmen Sie Kontakt zu uns auf.
+- **Projektleitung für Bauprojekte** Fortbildungsreihe mit 6 Modulen (48 Unterrichtseinheiten). Details entnehmen Sie bitte unserem [Flyer im PDF-Format](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf). Für Termine über das beschriebene Angebot hinaus, kontaktieren Sie uns gerne direkt.
+- **Den wirtschaftlichen Projekterfolg planen und steuern** Kompaktschulung am 11.-12. November 2024 in Erkelenz. Details entnehmen Sie bitte dem [Flyer im PDF-Format](/contents/akademie/Seminar_Wirtschaftlicher_Projekterfolg_2024.pdf). Hier geht es direkt zum [Anmeldeformular](https://forms.office.com/r/Vr285Y6nKu)
+- **Qualitätsmanagement für Planer am Bau** - Inhouse-Schulungen und Workshops nach dem Qualitätsstandard Planer am Bau in Kooperation mit dem [Qualitätsverbund Planer am Bau](https://planer-am-bau.de) (nächster Termin: 28.-29. August 2024, online)
+- **Individuelle Inhouse-Schulungen** zu ausgewählten Inhalten nach Ihren Bedürfnissen. Bitte nehmen Sie Kontakt zu uns auf.
 
 Das Thema Lehre und fachliche Schulungen hat bei Projektitekt im Jahr 2020 begonnen, in dem Gründerin Sylvia C. Schuster einen Lehrauftrag im Fach Baumanagement an der Fachhochschule Aachen übernommen hat. Seit 2023 stellt das Thema Fortbildungen einen Schwerpunkt unserer Tätigkeit dar. Aktuell finden die Schulungen und Workshops zu einem hohen Anteil in Präsenz statt, da Planspiele und praktische Übungen ein zentrales Element unserer Methodik sind. Im Folgenden geben wir Ihnen einen Überblick über mögliche Schulungsthemen (Auszug unserer Fortbildungsreihe "Projektleitung für Bauprojekte"): <br>
 
