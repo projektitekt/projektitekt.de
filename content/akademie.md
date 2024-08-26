@@ -3,6 +3,7 @@ title: Fortbildungen für Planer am Bau
 ---
 **Wir vermitteln fachliche, methodische und persönliche Kompetenzen für Architekten, Ingenieure und Planer!**<br> 
 <br>
+![Themenbeispiele unserer Schulungen](/contents/akademie/schulungsinhalte_beispiele.png)<br>
 **Unsere Schulungsformate**
 - **Projektleitung für Bauprojekte** Fortbildungsreihe mit 6 Modulen (48 Unterrichtseinheiten). Details entnehmen Sie bitte unserem [Flyer im PDF-Format](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf). Für Termine über das beschriebene Angebot hinaus, kontaktieren Sie uns gerne direkt.
 - **Den wirtschaftlichen Projekterfolg planen und steuern** Kompaktschulung am 11.-12. November 2024 in Erkelenz. Details entnehmen Sie bitte dem [Flyer im PDF-Format](/contents/akademie/Seminar_Wirtschaftlicher_Projekterfolg_2024.pdf). Hier geht es direkt zum [Anmeldeformular](https://forms.office.com/r/Vr285Y6nKu)
