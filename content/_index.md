@@ -16,7 +16,7 @@ Unsere Expertise basiert auf einer [langjährigen Tätigkeit](/referenzen) in Pl
 
 Gerne führen wir mit Ihnen ein unverbindliches und kostenfreies Erstgespräch und finden heraus, wie wir Sie unterstützen können.
 Rufen Sie uns an unter +49 (151) 651 52 999 oder schreiben Sie uns eine
-[E-Mail](mailto:mail@projektitekt.de). Gerne vereinbaren wir mit Ihnen ein unverbindliches Erstgespräch - persönlich oder per Videokonferenz. 
+[E-Mail](mailto:mail@projektitekt.de).
 
 Sie finden uns auch in den sozialen Netzwerken:
 [Projektitekt auf LinkedIn](https://www.linkedin.com/company/projektitekt)<br> und auf [Sylvia C. Schuster auf LinkedIn](https://www.linkedin.com/in/sylvia-c-schuster/).
