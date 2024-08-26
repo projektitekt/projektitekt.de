@@ -26,7 +26,7 @@ Wir bilden Planende aus, die ihre (neue) Rolle als Projektleitende wahrnehmen un
 <br><br>
 **Unsere Schulungsformate**
 - Fortbildungsreihe „Projektleitung für Bauprojekte“ (6 Module, 6 ganze Tage). Details entnehmen Sie bitte unserem [Flyer](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf). Für Termine über das beschriebene Angebot hinaus, kontaktieren Sie uns gerne direkt.
-- Kompaktschulung „Den wirtschaftlichen Projekterfolg planen und steuern“ (2 Tage in Erkelenz). Details entnehmen Sie bitte dem Flyer.
+- Kompaktschulung „Den wirtschaftlichen Projekterfolg planen und steuern“ (2 Tage in Erkelenz). Details entnehmen Sie bitte dem [Flyer im PDF-Format](/contents/akademie/Seminar_Wirtschaftlicher_Projekterfolg_2024.pdf).
 - Qualitätsmanagement für Planungsbüros - Inhouse-Schulungen und Workshops nach dem Qualitätsstandard Planer am Bau in Kooperation mit dem [Qualitätsverbund Planer am Bau](https://planer-am-bau.de).
 - Individuelle Inhouse-Schulungen zu ausgewählten Inhalten nach Ihren Bedürfnissen. Bitte nehmen Sie Kontakt zu uns auf.
 
