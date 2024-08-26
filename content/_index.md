@@ -15,7 +15,7 @@ Unsere Expertise basiert auf einer [langjährigen Tätigkeit](/vita) in Planung,
 ![USP Projektitekt](/contents/USP_Projektitekt.PNG) <br>
 
 Gerne führen wir mit Ihnen ein unverbindliches und kostenfreies Erstgespräch und finden heraus, wie wir Sie unterstützen können.
-Rufen Sie uns an unter +49 (151) 651 52 999 oder schreiben Sie uns eine
+<br>Rufen Sie uns an unter +49 (151) 651 52 999 oder schreiben Sie uns eine
 [E-Mail](mailto:mail@projektitekt.de).
 
 Sie finden uns auch in den sozialen Netzwerken:
