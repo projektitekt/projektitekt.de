@@ -1,7 +1,7 @@
 ---
-title: Schulungen für Architekten & Ingenieure
+title: Fortbildungen für Planer am Bau
 ---
-**Wir vermitteln fachliche, methodische und persönliche Kompetenzen für Projektleiter!**<br> 
+**Wir vermitteln fachliche, methodische und persönliche Kompetenzen für Architekten, Ingenieure und Planer!**<br> 
 
 Neue Schulung: "Den wirtschaftlichen Projekterfolg planen und steuern!" am 11. und 12. November 2024 in Erkelenz. Nähere Informationen siehe Flyer. Hier geht es direkt zum [Anmeldeformular](https://forms.office.com/r/Vr285Y6nKu)
 
@@ -20,15 +20,19 @@ Zeitmanagement aus den Augen verloren.
 
 **Ziel**
 
-**Eine gute Projektleitung schuldet den ganzheitlichen Projekterfolg**, der neben einer guten Planung auch das Einhalten der vereinbarten Kosten und Terminziele bedeutet. Es geht darum, Verantwortung für diese 
-Themen zu übernehmen – unabhängig von der Größe des Bauvorhabens oder des Planungsteams. Projektleiter/in wird man nicht über Nacht – es bedarf eines Lernprozesses, in dem Wissen und Erfahrungen gesammelt, aber auch Fehler gemacht werden dürfen.
+**Eine gute Projektleitung schuldet den ganzheitlichen Projekterfolg**, der neben einer guten Planung auch das Einhalten der vereinbarten Kosten und Terminziele bedeutet. Es geht darum, Verantwortung für diese Themen zu übernehmen – unabhängig von der Größe des Bauvorhabens oder des Planungsteams. Projektleiter/in wird man nicht über Nacht – es bedarf eines Lernprozesses, in dem Wissen und Erfahrungen gesammelt, aber auch Fehler gemacht werden dürfen.
 Wir bilden Planende aus, die ihre (neue) Rolle als Projektleitende wahrnehmen und ihren Projektablauf künftig proaktiv planen und steuern möchten.<br>
-**Die Fortbildungsreihe „Projektleitung für Bauprojekte“ bietet das inhaltliche Fundament und den Rahmen für diesen Prozess**: In einer heterogenen Gruppe von maximal zwölf Planern aus unterschiedlichen Büros werden in sechs aufeinander aufbauenden Modulen Kompetenzen, Tools und Methoden vermittelt – für gut organisierte Projekte mit einer klaren Kommunikation.
-Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erlernte unmittelbar im Büro- und Projektalltag angewendet werden kann. Zwischen den ganztätigen Modulen gibt es Möglichkeiten zum Austausch und für Rückfragen an die Referenten.<br>
-**Neu ab 2024:** Wir bieten von nun an auch individuelle Inhouse-Schulungen an. Melden Sie sich gerne bei uns für weitere Informationen!
 
-![Gesamtablauf der Schulung](/contents/akademie/fortbildung_gesamtablauf.png)<br><br>
 <br><br>
+**Unsere Schulungsformate**
+- Fortbildungsreihe „Projektleitung für Bauprojekte“ (6 Module, 6 ganze Tage). Details entnehmen Sie bitte unserem [Flyer](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf). Für Termine über das beschriebene Angebot hinaus, kontaktieren Sie uns gerne direkt.
+- Kompaktschulung „Den wirtschaftlichen Projekterfolg planen und steuern“ (2 Tage in Erkelenz). Details entnehmen Sie bitte dem Flyer.
+- Qualitätsmanagement für Planungsbüros - Inhouse-Schulungen und Workshops nach dem Qualitätsstandard Planer am Bau in Kooperation mit dem [Qualitätsverbund Planer am Bau](https://planer-am-bau.de).
+- Individuelle Inhouse-Schulungen zu ausgewählten Inhalten nach Ihren Bedürfnissen. Bitte nehmen Sie Kontakt zu uns auf.
+
+Im Nachfolgenden geben wir Ihnen einen Überblick über mögliche Schulungsthemen (Auszug der Inhalte unserer Projektleiter-Schulung):
+
+<br>
 **Modul 1: Einstieg in die Projektleitung: Von der Zieldefinition zum Projekterfolg**
 - Grundlagen Projektleitung in Bauprojekten
 - Verschiedene Rollen im Büro- und Projektalltag
@@ -77,24 +81,6 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Fehlerkultur / Umgang mit Fehlern, Lessons Learned
 - Überprüfen der persönlichen Zielerreichung & Ausblick
 <br>
-**Leistungen**<br>
-- sechs aufeinander aufbauende ganztägige Module (Termine für 2024 in Planung)
-- Präsenzveranstaltungen in Erkelenz (verkehrsgünstig gelegen zwischen Düsseldorf, Köln und Aachen)
-- Dokumentation und zusätzliches Material zu jedem Termin
-- zwischen den Modulen „Online-Sprechstunde“ mit Rückfragemöglichkeiten
-- Getränke, Kafeepausen, Mittagssnack
-- maximal 12 Teilnehmer/innen
-
-**Anerkennung**
-
-- Fortbildungsveranstaltung bei der IKBau: 48 Seminarpunkte
-- (Fortbildungsveranstaltung bei der AKNW auf Anfrage)
-
-**Kosten**
-- 3200,- EUR je Teilnehmer/in zzgl. USt early bird
-- 3400,- EUR je Teilnehmer/in zzgl. USt Normalpreis
-- Individuelle Angebote für mehrere Teilnehmer auf Anfrage
 
 **Rückfragen, Termine und Anmeldung**<br>
-Hier finden Sie den [Flyer unseres Programms 2024 als PDF-Datei](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf).<br> Gerne bieten wir Ihnen das Programm auch als Inhouse-Schulung an oder erstellen für Sie ein indiviiduelles Angebot nach den Bedürfnissen Ihrer Mitarbeiter und Ihres Unternehmens.
-Bei weiteren Fragen melden Sie sich gerne bei Sylvia Schuster und Petra Kirschgens unter [akademie@projektitekt.de](mailto:akademie@projektitekt.de) oder telefonisch unter +49 (151) 65152999.
+Bei weiteren Fragen und konkretem Interesse an unseren Schulungen melden Sie sich gerne bei Sylvia Schuster und Petra Kirschgens unter [akademie@projektitekt.de](mailto:akademie@projektitekt.de) oder telefonisch unter +49 (151) 65152999.
