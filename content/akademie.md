@@ -15,7 +15,7 @@ Das Thema Lehre und fachliche Schulungen hat bei Projektitekt im Jahr 2020 begon
 Die Planung und Ausführung von Bauprojekten wird immer komplexer – ob wir kreative Räume gestalten oder bautechnische 
 Details lösen: Als Planende, Ingenieure und Architekten müssen wir unseren eigenen Bereich planerisch abdecken, ständig 
 neue Normen und Gesetze berücksichtigen, mit der digitalen Entwicklung Schritt halten und möchten dabei möglichst wenig 
-Ressourcen verschwenden.
+Ressourcen verschwenden.<br>
 <br>![Moderation S. Schuster](/contents/projektitekt_workshop.jpg)<br>
 Ein fachliches Studium und einige Jahre Berufserfahrung helfen bei der Bewältigung dieser anspruchsvollen Aufgaben. Wer 
 bereits seine Fachkompetenz in der Planung unter Beweis gestellt hat, wird gerne mit der Rolle des (Teil-)Projektleiters betraut. Für 
