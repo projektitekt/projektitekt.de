@@ -2,11 +2,10 @@
 title: Referenzen
 ---
 
-Einen Überblick über die Vita der Gründerin finden Sie [hier](/vita).
-
 ![Referenzen Projektitekt](/contents/referenzen/referenzen2024.png)
 
-Im Folgenden erfahren Sie mir über unsere Kunden und Kooperationspartner, mit denen wir zusammenarbeiten:
+Einen Überblick über die Vita der Gründerin finden Sie [hier](/vita).
+Im Folgenden erfahren Sie mehr über unsere Kunden und Kooperationspartner, mit denen wir zusammenarbeiten:
 
 - **Qualitätsmanagement für Planer, Schulungen, Workshops**<br>
   [Qualitätsverbund Planer am Bau](https://planer-am-bau.de/), remote.
