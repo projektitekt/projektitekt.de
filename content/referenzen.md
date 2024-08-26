@@ -4,7 +4,7 @@ title: Referenzen
 
 Einen Überblick über die Vita der Gründerin finden Sie [hier](/vita).
 
-![Referenzen Projektitekt](/contents/referenzen/referenzen.png)
+![Referenzen Projektitekt](/contents/referenzen/referenzen2024.png)
 
 - **Prozessoptimierung, Digitalisierung, Schulungen**<br>
   [BOB efficiency design AG](https://www.bob-ag.de), Aachen.
