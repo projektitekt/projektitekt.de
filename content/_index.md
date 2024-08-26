@@ -7,9 +7,9 @@ title: Projektitekt macht Planungsbüros effizient
 ![Das Angebot von Projektitekt: Schulungen, Beratung und Coaching](/contents/schulung-beratung-coaching.png)<br>
     
 Unser Ziel ist die Steigerung der Effizienz Ihres Planungs- oder Ingenieurbüros und fußt auf drei Säulen: Wir stärken die Kompetenzen von Planern am Bau im Bereich Projektmanagement, optimieren Büro- und Projektabläufe und unterstützen Einzelpersonen bei individuellen beruflichen Herausforderungen.<br>
-![Klarheit durch geregelte Abläufe](/contents/struktur-prozess_2.png)<br>
+![Klarheit durch geregelte Abläufe](/contents/struktur-prozess_2.png)
 
-Gemeinsam mit Ihnen decken wir bislang nicht genutzte Potenziale auf, verbessern interne Abläufe und schaffen Klarheit – für Unternehmensführung, Mitarbeitende und Kunden. 
+Mit Ihnen gemeinsam decken wir bislang ungenutzte Potenziale auf, verbessern interne Abläufe und schaffen Klarheit – für Unternehmensführung, Mitarbeitende und Kunden. 
 
 Unsere Expertise basiert auf einer [langjährigen Tätigkeit](/vita) in Planung, Bauleitung und Projektmanagement. Wir wissen, wie Planungs- und Bauprojekte laufen und welchen Herausforderungen sich kleine und mittlere Planungsbüros tagtäglich stellen. Aus unserer Erfahrung heraus haben wir einen praxisnahen Schulungs- und Beratungsansatz entwickelt. <br>
 ![USP Projektitekt](/contents/USP_Projektitekt.PNG) <br>
