@@ -5,7 +5,7 @@ title: Fortbildungen für Planer am Bau
 <br>
 ![Themenbeispiele unserer Schulungen](/contents/akademie/schulungsinhalte_beispiele1.png)<br>
 **Unsere Schulungsformate**
-- **Projektmanagement Grundlagen** Schulung am 12. September von 12-16h in Aachen - kostenfrei! Bei Interesse bitten wir im direkte Kontaktaufnahme!
+- **Projektmanagement Grundlagen** Schulung am 12. September von 12-16h in Aachen - kostenfrei! Bei Interesse bitten wir um direkte Kontaktaufnahme!
 - **Projektleitung für Bauprojekte** Fortbildungsreihe mit 6 Modulen (48 Unterrichtseinheiten). Details entnehmen Sie bitte unserem [Flyer im PDF-Format](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf). Für Termine über das beschriebene Angebot hinaus, kontaktieren Sie uns gerne direkt.
 - **Den wirtschaftlichen Projekterfolg planen und steuern** Kompaktschulung am 11.-12. November 2024 in Erkelenz. Details entnehmen Sie bitte dem [Flyer im PDF-Format](/contents/akademie/Seminar_Wirtschaftlicher_Projekterfolg_2024.pdf). Hier geht es direkt zum [Anmeldeformular](https://forms.office.com/r/Vr285Y6nKu)
 - **Qualitätsmanagement für Planer am Bau** - Inhouse-Schulungen und Workshops nach dem Qualitätsstandard Planer am Bau in Kooperation mit dem [Qualitätsverbund Planer am Bau](https://planer-am-bau.de) (nächster Termin: 19.-20. November 2024, online)
