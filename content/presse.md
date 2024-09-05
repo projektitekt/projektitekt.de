@@ -1,5 +1,5 @@
 ---
-title: Pressespiegel
+title: Neuigkeiten & Pressespiegel
 ---
 <img src="/contents/AZ1.jpg" alt="Aachener Zeitung vom 02.06.2020" style="border: black solid 1px;"> 
 
