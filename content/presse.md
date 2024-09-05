@@ -9,7 +9,7 @@ Einige visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https:/
 Unsere Gründerin Sylvia C. Schuster ist für den diesjährigen Unternehmerinnenpreis "VISIONplus 2024" nominiert. Die Jurysitzung und Preisverleihung findet am 1. Oktober 2024 statt. Nähere Infos finden Sie [hier](https://www.gruenderregion.de/ac-und-visionplus/visionplus.html).
 
 - **Projektmanagement Grundlagen am 12. September**<br>
-Eine halbtägige Schulung zu den Themen Projektorganisation, Rollen, Leistungsbilder, Schnittstellen und Planung der Planung findet am 12. September von 12-16 Uhr statt. Zielgruppe: Planende mit wenig oder ohne Projektleitungserfahrung. Es gibt noch wenige (kostenfreie) Plätze, bitte kontaktieren Sie uns!
+Eine halbtägige Schulung zu den Themen Projektorganisation, Rollen, Leistungsbilder, Schnittstellen und Planung der Planung findet am 12. September von 12-16 Uhr in Aachen statt. Zielgruppe: Planende mit wenig oder ohne Projektleitungserfahrung. Es gibt noch wenige (kostenfreie) Plätze, bitte kontaktieren Sie uns!
 
 - **« Eine außergewöhnliche Praxiserfahrung für Studierende der Architektur – auch im Sinne der Bildung für nachhaltige Entwicklung (BNE) »**<br>
   Blog-Beitrag des Zentrum Hochschuldidaktik & Qualitätsentwicklung der FH Aachen (ZHQ), 10. November 2023<br>
