@@ -28,7 +28,6 @@ Einen detaillierten Blog zu unserem Engagement nach dem Hochwasser vom 14. Juli 
 
 - **« Wiederaufbauhilfe als Uniprojekt »**<br>
   Videobeitrag auf tagesschau.de, 15. Juli 2022<br>
-  online abrufbar auf [tagesschau.de](https://www.tagesschau.de/regional/nordrheinwestfalen/wdr-story-49131.html)
 
 - **« Ein Jahr nach der Flut: Wiederaufbau als Uniprojekt »**<br>
   Beitrag in der Lokalzeit Aachen, WDR Fernsehen, 11. Juli 2022<br>
