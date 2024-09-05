@@ -3,8 +3,13 @@ title: Pressespiegel
 ---
 <img src="/contents/AZ1.jpg" alt="Aachener Zeitung vom 02.06.2020" style="border: black solid 1px;"> 
 
-Ein paar visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
-Einen detaillierten Blog zum Thema "Initiative Wiederaufbau" (Juli 2021 bis Juli 2022) finden Sie [hier](/wiederaufbau).
+Einige visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
+
+- **Nominierung Unternehmerinnenpreis**<br>
+Unsere Gründerin Sylvia C. Schuster ist für den diesjährigen Unternehmerinnenpreis "VISIONplus 2024" nominiert. Die Jurysitzung und Preisverleihung findet am 1. Oktober 2024 statt. Nähere Infos finden Sie [https://www.gruenderregion.de/ac-und-visionplus/visionplus.html](hier).
+
+- **Projektmanagement Grundlagen am 12. September**<br>
+Eine halbtägige Schulung zu den Themen Projektorganisation, Rollen, Leistungsbilder, Schnittstellen und Planung der Planung findet am 12. September von 12-16 Uhr statt. Zielgruppe: Planende mit wenig oder ohne Projektleitungserfahrung. Es gibt noch wenige (kostenfreie) Plätze, bitte kontaktieren Sie uns!
 
 - **« Eine außergewöhnliche Praxiserfahrung für Studierende der Architektur – auch im Sinne der Bildung für nachhaltige Entwicklung (BNE) »**<br>
   Blog-Beitrag des Zentrum Hochschuldidaktik & Qualitätsentwicklung der FH Aachen (ZHQ), 10. November 2023<br>
@@ -13,6 +18,9 @@ Einen detaillierten Blog zum Thema "Initiative Wiederaufbau" (Juli 2021 bis Juli
 - **« Frauen in IP" - Innovation und Kreativität sind weiblich »**<br>
   Artikel des Deutschen Patent- und Markenamtes (DPMA), 27. September 2023<br>
   online abrufbar auf [dpma.de](https://www.dpma.de/dpma/veroeffentlichungen/patentefrauen/womeninip_aachen/index.html)
+  
+- **« Initiative Wiederaufbau »**<br>
+Einen detaillierten Blog zu unserem Engagement nach dem Hochwasser vom 14. Juli 2021 in unserer Region finden Sie [hier](/wiederaufbau).
 
 - **« Eine große Hilfestellung für Flutopfer »**<br>
   Hochschulmagazin "DIMENSIONEN" der FH Aachen, Ausgabe 01/2022 (Seite 16-19)<br>
