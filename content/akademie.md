@@ -3,7 +3,7 @@ title: Fortbildungen für Planer am Bau
 ---
 **Wir vermitteln fachliche, methodische und persönliche Kompetenzen für Architekten, Ingenieure und Planer!**<br> 
 <br>
-<p><iframe width="320" height="180" src="https://www.youtube.com/embed/JN1gATa_G5c?si=nsBPEHPFycqjPiAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p align = "center"><iframe width="320" height="180" src="https://www.youtube.com/embed/JN1gATa_G5c?si=nsBPEHPFycqjPiAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 **Unsere Schulungsformate**
 - **Den wirtschaftlichen Projekterfolg planen und steuern** Kompaktschulung am 11.-12. November 2024 in Erkelenz. Nächster Termin voraussichtlich im Febuar 2025 (wird in Kürze bekannt gegeben). Details entnehmen Sie bitte dem [Flyer im PDF-Format](/contents/akademie/Seminar_Wirtschaftlicher_Projekterfolg_2024.pdf). Hier geht es direkt zum [Anmeldeformular](https://forms.office.com/r/Vr285Y6nKu)
