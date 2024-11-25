@@ -18,9 +18,9 @@ title: Vita
   Interimsweise Verantwortliche für das Modul "Baumanagement und Baurecht"
 
   - **Ehrenamtliche Tätigkeiten** <br>
-  seit 2024 Mitglied im erweiterten Vorstand der Bezirksgruppe Aachen des [Bund Deutscher Baumeister e.V.](https://www.baumeister-online.de/landesverband/nordrhein-westfalen/aachen/)
-  seit 2023 Sprecherin der Fokusgruppe "Planen und Bauen - Digitale Prozesse" - Kooperation von [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/) und [digitalHub e.V.](https://aachen.digital/)
-  seit 2022 Auswahlkommission für Stipendien Architektur weltweit beim [DAAD](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57504328)
+  seit 2024 Mitglied im erweiterten Vorstand der Bezirksgruppe Aachen des [Bund Deutscher Baumeister e.V.](https://www.baumeister-online.de/landesverband/nordrhein-westfalen/aachen/)<br>
+  seit 2023 Sprecherin der Fokusgruppe "Planen und Bauen - Digitale Prozesse" - Kooperation von [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/) und [digitalHub e.V.](https://aachen.digital/)<br>
+  seit 2022 Auswahlkommission für Stipendien Architektur weltweit beim [DAAD](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57504328)<br>
   seit 2020 Mentorin für verschiedene Initiativen [ACquadrat 2020](https://www.ac-quadrat.de/), [planM](http://www.planm-mentoring.de/), Bürgerstiftung Aachen<br>
   seit 2018 Geschäftsführerin / seit 2021 Vorsitzende Luftsportverein Aachen e.V. <br>
   seit 2019 Segelfluglehrerin  Luftsportverein Aachen e.V.<br>
