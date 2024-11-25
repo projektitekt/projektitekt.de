@@ -10,13 +10,11 @@ title: Vita
   seit 2019 Organisationsberatung, Prozessberatung, Fortbildungen im Bereich Projektmanagement<br>
   Mai 2019 Unternehmensgründung Projektitekt, 3\. Preis [ACquadrat 2020](https://www.ac-quadrat.de/) und Publikumspreis 24. NUK Businessplan-Wettbewerb<br>
  <br>
-
 - **Dozentin Fachhochschule Aachen** <br>
   2020-2024 Lehrauftrag für Baumanagement<br>
   Studiengang Architektur, Bachelor 5. und 6. Semester<br>
   Studiengang Smart Building Engineering, Bachelor 4. Semester<br>
-  Interimsweise Verantwortliche für das Modul "Baumanagement und Baurecht"
-
+  Interimsweise Verantwortliche für das Modul "Baumanagement und Baurecht"<br>
   - **Ehrenamtliche Tätigkeiten** <br>
   seit 2024 Mitglied im erweiterten Vorstand der Bezirksgruppe Aachen des [Bund Deutscher Baumeister e.V.](https://www.baumeister-online.de/landesverband/nordrhein-westfalen/aachen/)<br>
   seit 2023 Sprecherin der Fokusgruppe "Planen und Bauen - Digitale Prozesse" - Kooperation von [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/) und [digitalHub e.V.](https://aachen.digital/)<br>
