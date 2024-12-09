@@ -5,7 +5,8 @@ title: Vita
 ## Vita Sylvia C. Schuster
 
 - **Inhaberin Projektitekt** <br>
-  seit 2023 Qualitätsmanagement in Kooperation mit dem [Qualitätsverbund Planer am Bau](https://planer-am-bau.de/)<br>
+  Okt. 2024 Finalistin "VISIONplus Unternehmerinnenpreis 2024"
+  seit 2023 QM für Planungsbüros<br>
   seit 2023 Systemischer Coach <br>
   seit 2019 Organisationsberatung, Prozessberatung, Fortbildungen im Bereich Projektmanagement<br>
   Mai 2019 Unternehmensgründung Projektitekt, 3\. Preis [ACquadrat 2020](https://www.ac-quadrat.de/) und Publikumspreis 24. NUK Businessplan-Wettbewerb<br>
