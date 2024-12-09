@@ -6,8 +6,9 @@ title: Fortbildungen für Planer am Bau
 <p align = "center"><iframe width="320" height="180" src="https://www.youtube.com/embed/JN1gATa_G5c?si=nsBPEHPFycqjPiAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 **Unsere Schulungsformate**
-- **Den wirtschaftlichen Projekterfolg planen und steuern** Kompaktschulung am 11.-12. November 2024 in Erkelenz. Nächster Termin voraussichtlich im Febuar 2025 (wird in Kürze bekannt gegeben). Details entnehmen Sie bitte dem [Flyer im PDF-Format](/contents/akademie/Seminar_Wirtschaftlicher_Projekterfolg_2024.pdf). Hier geht es direkt zum [Anmeldeformular](https://forms.office.com/r/Vr285Y6nKu)
-- **Qualitätsmanagement für Planer am Bau** - Inhouse-Schulungen und Workshops nach dem Qualitätsstandard Planer am Bau in Kooperation mit dem [Qualitätsverbund Planer am Bau](https://planer-am-bau.de) (nächster Termin: 19.-20. November 2024, online)
+- **Den wirtschaftlichen Projekterfolg planen und steuern** Kompaktschulung am 12.-13. März 2025 in Aachen. Details und Anmeldeformular auf der Website unseres Kooperationspartners [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/events/seminar-den-wirtschaftlichen-projekterfolg-planen-steuern-2-taegig/)
+- **Den wirtschaftlichen Projekterfolg planen und steuern** Kompaktschulung am 18.-19. Februar 2024 in Erkelenz in Kooperation mit dem Qualitätsverbund Planer am Bau. Anfrage bitte über [akademie@projektitekt.de](mailto:akademie@projektitekt.de).
+- **Qualitätsmanagement für Planer am Bau** - Inhouse-Schulungen und Workshops nach dem Qualitätsstandard Planer am Bau in Kooperation mit dem [Qualitätsverbund Planer am Bau](https://planer-am-bau.de) (nächster Termin: 8.-9. Januar 2025, online)
 - **Projektleitung für Bauprojekte** Fortbildungsreihe mit 6 Modulen (48 Unterrichtseinheiten). Details entnehmen Sie bitte unserem [Flyer im PDF-Format](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf). Für Termine über das beschriebene Angebot hinaus, kontaktieren Sie uns gerne direkt.
 - **Individuelle Inhouse-Schulungen** zu ausgewählten Inhalten nach Ihren Bedürfnissen. Bitte nehmen Sie Kontakt zu uns auf.
 
