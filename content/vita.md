@@ -8,7 +8,8 @@ title: Vita
   Okt. 2024 Finalistin "VISIONplus Unternehmerinnenpreis 2024"
   seit 2023 QM für Planungsbüros<br>
   seit 2023 Systemischer Coach <br>
-  seit 2019 Organisationsberatung, Prozessberatung, Fortbildungen im Bereich Projektmanagement<br>
+  seit 2020 Dozentin Baumanagement <br>
+  seit 2019 Organisationsberatung, Prozessberatung, Fortbildungen im Bereich Projektmanagement, BIM, HOAI u.a.<br>
   Mai 2019 Unternehmensgründung Projektitekt, 3\. Preis [ACquadrat 2020](https://www.ac-quadrat.de/) und Publikumspreis 24. NUK Businessplan-Wettbewerb<br>
  <br>
 - **Dozentin Fachhochschule Aachen** <br>
