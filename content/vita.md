@@ -5,25 +5,27 @@ title: Vita
 ## Vita Sylvia C. Schuster
 
 - **Inhaberin Projektitekt** <br>
-  Okt. 2024 Finalistin "VISIONplus Unternehmerinnenpreis 2024"<br>
+  10.2024 Finalistin "VISIONplus Unternehmerinnenpreis 2024"<br>
   seit 2023 QM für Planungsbüros<br>
-  seit 2023 Systemischer Coach <br>
   seit 2020 Dozentin Baumanagement <br>
   seit 2019 Organisationsberatung, Prozessberatung, Fortbildungen im Bereich Projektmanagement, BIM, HOAI u.a.<br>
-  Mai 2019 Unternehmensgründung Projektitekt, 3\. Preis [ACquadrat 2020](https://www.ac-quadrat.de/) und Publikumspreis 24. NUK Businessplan-Wettbewerb<br>
+  05.2019 Unternehmensgründung Projektitekt<br>
+  3\. Preis [ACquadrat 2020](https://www.ac-quadrat.de/)<br>
+  Publikumspreis 24. NUK Businessplan-Wettbewerb<br>
  <br>
 - **Dozentin Fachhochschule Aachen** <br>
   2020-2024 Lehrauftrag für Baumanagement<br>
   Studiengang Architektur, Bachelor 5. und 6. Semester<br>
   Studiengang Smart Building Engineering, Bachelor 4. Semester<br>
   Interimsweise Verantwortliche für das Modul "Baumanagement und Baurecht"<br><br>
+  
   - **Ehrenamtliche Tätigkeiten** <br>
   seit 2024 Mitglied im erweiterten Vorstand der Bezirksgruppe Aachen des [Bund Deutscher Baumeister e.V.](https://www.baumeister-online.de/landesverband/nordrhein-westfalen/aachen/)<br>
   seit 2023 Sprecherin der Fokusgruppe "Planen und Bauen - Digitale Prozesse" - Kooperation von [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/) und [digitalHub e.V.](https://aachen.digital/)<br>
   seit 2022 Auswahlkommission für Stipendien Architektur weltweit beim [DAAD](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57504328)<br>
   seit 2020 Mentorin für verschiedene Initiativen [Gründungswettbewerb ACquadrat](https://www.ac-quadrat.de/), [planM.Mentoring](http://www.planm-mentoring.de/), Bürgerstiftung Aachen - Existenzgründung für Geflüchtete<br>
   seit 2018 Geschäftsführerin / seit 2021 Vorsitzende Luftsportverein Aachen e.V. <br>
-  seit 2019 Segelfluglehrerin  Luftsportverein Aachen e.V.<br>
+  seit 2019 Segelfluglehrerin  Luftsportverein Aachen e.V.<br><br>
   
 - **Angestellte Planerin, Bauleiterin und Projektmanagerin** <br>
   2008-2019 in verschiedenen Planungsbüros <br>
@@ -104,12 +106,13 @@ title: Vita
   [Kloster Brandenburg](https://de.wikipedia.org/wiki/Kloster_Brandenburg_(Sief)) aus dem 15. Jahrhundert, Aachen Sief.<br>
   Planung Sanierung und Innenarchitektur: Kochsplan
   
-## Ausbildung
-  
+## Ausbildung & Weiterbildungen
+- **Systemischer Coach**<br>
+  am Institut für angewandte Psychologie (IfAP), Köln (2023) 
 - **Studium der Architektur**<br>
   an der Fachhochschule Aachen und der Universiti Sains Malaysia (Penang, Malaysia).<br>
-  (Stipendium des Deutschen Akademischen Austauschdienstes, DAAD)
-  
+  (Stipendium des Deutschen Akademischen Austauschdienstes, DAAD)<br>
+  Abschluss: B.A. und M.A. in Architektur
 - **Abitur in Haan (Rhld.)**<br>
   am städtischen Gymnasium Haan (Rhld.)
 
