@@ -3,7 +3,7 @@ title: Vita
 ---
 
 ## Vita Sylvia C. Schuster
-
+![Sylvia C. Schuster](/contents/scs_erklaert.png)
 - **Inhaberin Projektitekt** <br>
   10.2024 Finalistin "VISIONplus Unternehmerinnenpreis 2024"<br>
   seit 2023 QM für Planungsbüros<br>
