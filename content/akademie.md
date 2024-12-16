@@ -7,7 +7,7 @@ title: Fortbildungen für Planer am Bau
 
 **Unsere Schulungsformate**
 - **Den wirtschaftlichen Projekterfolg planen und steuern** Kompaktschulung am 12.-13. März 2025 in Aachen. Details und Anmeldeformular auf der Website unseres Kooperationspartners [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/events/seminar-den-wirtschaftlichen-projekterfolg-planen-steuern-2-taegig/)
-- **Den wirtschaftlichen Projekterfolg planen und steuern** Kompaktschulung am 18.-19. Februar 2024 in Erkelenz in Kooperation mit dem Qualitätsverbund Planer am Bau. Anfrage bitte über [akademie@projektitekt.de](mailto:akademie@projektitekt.de).
+- **Den wirtschaftlichen Projekterfolg planen und steuern** Kompaktschulung in Erkelenz in Kooperation mit dem Qualitätsverbund Planer am Bau. Neue Termine / Anfrage bitte über [akademie@projektitekt.de](mailto:akademie@projektitekt.de).
 - **Qualitätsmanagement für Planer am Bau** - Inhouse-Schulungen und Workshops nach dem Qualitätsstandard Planer am Bau in Kooperation mit dem [Qualitätsverbund Planer am Bau](https://planer-am-bau.de) (nächster Termin: 8.-9. Januar 2025, online)
 - **Projektleitung für Bauprojekte** Fortbildungsreihe mit 6 Modulen (48 Unterrichtseinheiten). Details entnehmen Sie bitte unserem [Flyer im PDF-Format](/contents/akademie/Projektleiter-Schulung_Flyer2024.pdf). Für Termine über das beschriebene Angebot hinaus, kontaktieren Sie uns gerne direkt.
 - **Individuelle Inhouse-Schulungen** zu ausgewählten Inhalten nach Ihren Bedürfnissen. Bitte nehmen Sie Kontakt zu uns auf.
