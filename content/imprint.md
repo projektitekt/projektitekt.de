@@ -26,4 +26,4 @@ Zollhof 1, 40221 Düsseldorf<br>
 - Hauptsatzung der Architektenkammer NRW
 
 Alle Regelungen sind online abrufbar unter:<br>
-[www.aknw.de/mitglieder/recht-und-gesetze/gesetze-und-verordnungen](https://www.aknw.de/mitglieder/recht-und-gesetze/gesetze-und-verordnungen)
+[www.aknw.de/recht](https://www.aknw.de/recht)
