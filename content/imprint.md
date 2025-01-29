@@ -8,7 +8,7 @@ Turpinstr. 19<br>
 52066 Aachen<br>
 Deutschland<br>
 [mail@projektitekt.de](mailto:mail@projektitekt.de)<br>
-+49 (151) 651 52 999
++49 (151) 651 52 999<br>
 +49 (2402) 90 55 161
 
 **USt-ID:** DE322898651
