@@ -5,9 +5,9 @@ title: Vita
 ## Vita Sylvia C. Schuster
 ![Sylvia C. Schuster](/contents/scs_erklaert.png)
 - **Inhaberin Projektitekt** <br>
-  seit 2023 QM für Planungsbüros<br>
+  seit 2023 Systemischer Coach <br>
   seit 2020 Dozentin Baumanagement <br>
-  seit 2019 Organisationsberatung, Prozessberatung, Fortbildungen im Bereich Projektmanagement, BIM, HOAI u.a.<br>
+  seit 2019 Organisationsberatung, Prozessberatung, QM für Planungsbüros, Fortbildungen im Bereich Projektmanagement, BIM, HOAI u.a.<br><br>
   05.2019 Unternehmensgründung Projektitekt<br>
     2024 Finalistin "VISIONplus Unternehmerinnenpreis 2024"<br>
     2020 3\. Preis [Gründungswettbewerb ACquadrat](https://www.ac-quadrat.de/)<br>
