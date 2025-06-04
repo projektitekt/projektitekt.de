@@ -87,4 +87,4 @@ Wir bilden Planende aus, die ihre (neue) Rolle als Projektleitende wahrnehmen un
 <br>
 
 **Rückfragen, Termine und Anmeldung**<br>
-Bei weiteren Fragen und konkretem Interesse an unseren Schulungen melden Sie sich gerne bei Sylvia Schuster und Petra Kirschgens unter [akademie@projektitekt.de](mailto:akademie@projektitekt.de) oder telefonisch unter +49 (151) 65152999.
+Bei weiteren Fragen und konkretem Interesse an unseren Schulungen melden Sie sich gerne unter [akademie@projektitekt.de](mailto:akademie@projektitekt.de) oder telefonisch unter +49 (151) 65152999.
