@@ -6,9 +6,11 @@ title: Fortbildungen für Planer am Bau
 <p align = "center"><iframe width="320" height="180" src="https://www.youtube.com/embed/JN1gATa_G5c?si=nsBPEHPFycqjPiAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 **Unsere Schulungsformate**
+- **Online-Seminar: Projektmanagement Vertiefung** Webinar als Weiterbildung für Absolventen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/26001035/) am 21. Februar 2026
 - **Lehrgang: Projektleitung im Planungsbüro** zweitägiger Lehrgang in Kooperation mit dem [IWW Institut](https://www.projektleitung-im-planungsbuero.de) am 20. und 21. Januar 2025 in Würzburg
-- - **Online-Seminar: Projektmanagement Vertiefung** Webinar als Weiterbildung für Absolventen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/26001035/) am 21. Februar 2026
 - **Online-Seminar: Projektmanagement Grundlagen** Webinar als Weiterbildung für Absolventen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/26001001/) am 10. Januar 2026
+
+**Vergangene Seminare**
 - **Online-Seminar: Projektmanagement im Planungsbüro** Webinar als Gemeinschaftsveranstaltung der Architektenkammer und der [Ingenieurkammer Sachsen-Anhalt](https://www.ingak-st.de/o.red.r/weiterbildung-436--100-0-25-36-0-1.html) am 12. Dezember 2025
 - **Workshopreihe: Agile Arbeitsorganisation & zielorientierte Führung** vierteilige Workshopreihe in Kooperation mit [Elisa Lublasser](https://www.prozess-facetten.de/) - donnerstags im November 2025 von 18:30 bis 20 Uhr in Aachen (8 Punkte bei der AKNW beantragt). Details im [Flyer im PDF-Format](/contents/akademie/2025_Workshopreihe_work+.pdf) und Anmeldung [hier](https://forms.office.com/pages/responsepage.aspx?id=ODs6SO6Xo0WOJrNthtahK6WhY-PrI0xJjJmlSfkqWidUOFpPTjE3Q1pNQlJRVEZOS0VBOUIxM1RaSy4u&route=shorturl).
 - **HOAI und Planervertrag I-IV** vierteilige Weiterbildung für Absolvent/innen der Architektur und Junior-Architekt/innen im April 2024 - mittwochsabends online. Anmeldung über den [BDB.NRW](https://www.baumeister-online.de/veranstaltung/weiterbildung-hoai-planervertrag-1-4/2025-04-09/)
