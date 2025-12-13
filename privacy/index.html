@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+<meta name="projektitekt/config/environment" content="%7B%22modulePrefix%22%3A%22projektitekt%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22auto%22%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%7D%2C%22fastboot%22%3A%7B%22hostWhitelist%22%3A%5B%22projektitekt.de%22%2C%7B%7D%5D%7D%2C%22sentry%22%3A%7B%22enabled%22%3Atrue%2C%22environment%22%3A%22production%22%2C%22dsn%22%3A%22https%3A%2F%2F45bb93af3b9f4070986722f65d768302%40o379737.ingest.sentry.io%2F5204937%22%2C%22release%22%3A%223b57d3765c%22%7D%2C%22exportApplicationGlobal%22%3Afalse%7D" />
+<!-- EMBER_CLI_FASTBOOT_TITLE -->  <meta name="ember-cli-head-start" content><title>Projektitekt · Datenschutzerklärung</title>
+<meta name="ember-cli-head-end" content>
+
+
+    <link integrity="" rel="stylesheet" href="/assets/vendor-22a5eb1ce3494c394b13611e124369f4.css">
+    <link integrity="" rel="stylesheet" href="/assets/projektitekt-43406a7ab3aff093fa3743ef517ac981.css">
+
+    
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#fff">
+    <meta name="application-name" content="projektitekt">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/apple-touch-icon-167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/apple-touch-icon-1024x1024.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="projektitekt">
+    <link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/apple-touch-startup-image-320x460.png">
+    <link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="/apple-touch-startup-image-640x920.png">
+    <link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/apple-touch-startup-image-640x1096.png">
+    <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/apple-touch-startup-image-750x1294.png">
+    <link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="/apple-touch-startup-image-1182x2208.png">
+    <link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="/apple-touch-startup-image-1242x2148.png">
+    <link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="/apple-touch-startup-image-748x1024.png">
+    <link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="/apple-touch-startup-image-768x1004.png">
+    <link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="/apple-touch-startup-image-1496x2048.png">
+    <link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="/apple-touch-startup-image-1536x2008.png">
+    <link rel="icon" type="image/png" sizes="228x228" href="/coast-228x228.png">
+    <meta name="msapplication-TileColor" content="#fff">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+    <meta name="msapplication-config" content="/browserconfig.xml">
+    <link rel="yandex-tableau-widget" href="/yandex-browser-manifest.json">
+  </head>
+  <body>
+    <script type="x/boundary" id="fastboot-body-start"></script><!---->
+
+<div id="ember109" class="ember-view"></div>
+
+<div class="page-progress">
+  <div class="bar" data-test-id="data-test-page-progress-bar" style>
+  </div>
+</div>
+
+<header class="_header_14ak88">
+  <div class="_content_14ak88">
+    <a href="/" id="ember110" class="ember-view _logo-link_14ak88">
+      <svg width="942" height="228" viewBox="0 0 942 228" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projektitekt" class="_logo_14ak88"><path d="M25.748 190.084c-1.525 0-3.028-.023-4.507-.07a55.39 55.39 0 01-4.16-.277V226H.094V133.23h26.763c4.484 0 8.402.196 11.753.589 3.351.393 6.344.982 8.979 1.768 6.333 1.941 11.21 5.038 14.63 9.291s5.13 9.66 5.13 16.225c0 4.483-.924 8.516-2.773 12.099-1.849 3.582-4.553 6.621-8.112 9.117-3.56 2.497-7.904 4.415-13.035 5.755-5.131 1.34-11.025 2.011-17.681 2.011zm-8.667-14.63c.97.139 2.207.243 3.71.312 1.502.07 3.062.104 4.68.104 4.576 0 8.412-.37 11.51-1.11 3.096-.739 5.593-1.767 7.488-3.085 1.895-1.317 3.259-2.912 4.09-4.784.833-1.872 1.249-3.917 1.249-6.136 0-2.727-.624-5.085-1.872-7.072-1.249-1.988-3.421-3.536-6.518-4.646-1.618-.554-3.617-.959-5.998-1.213-2.38-.254-5.304-.381-8.77-.381H17.08v28.011zm136.939-14.352c0 6.471-1.792 11.96-5.374 16.467-3.582 4.507-9.118 7.846-16.606 10.019v.277L159.636 226H139.25l-25.238-35.916h-11.649V226H85.377V133.23h28.22c4.668 0 9.013.265 13.035.797 4.021.532 7.465 1.329 10.33 2.392 5.455 2.08 9.662 5.166 12.62 9.256 2.958 4.091 4.438 9.234 4.438 15.428zm-43.266 14.768c3.883 0 7.176-.173 9.88-.52 2.704-.346 4.98-.866 6.83-1.56 3.42-1.294 5.79-3.062 7.107-5.304 1.317-2.242 1.976-4.819 1.976-7.731 0-2.496-.52-4.703-1.56-6.622-1.04-1.918-2.808-3.432-5.304-4.541-1.618-.74-3.652-1.283-6.102-1.63-2.45-.346-5.477-.52-9.083-.52h-12.134v28.428h8.39zm132.5 3.744c0-5.639-.692-10.573-2.08-14.803-1.386-4.23-3.304-7.754-5.754-10.574-2.45-2.82-5.362-4.922-8.736-6.31-3.375-1.386-7.073-2.08-11.094-2.08-4.022 0-7.72.694-11.094 2.08-3.374 1.388-6.286 3.49-8.736 6.31-2.45 2.82-4.368 6.345-5.755 10.574-1.387 4.23-2.08 9.164-2.08 14.803 0 5.64.693 10.574 2.08 14.804s3.305 7.742 5.755 10.539c2.45 2.796 5.362 4.9 8.736 6.31 3.374 1.41 7.072 2.114 11.094 2.114 4.021 0 7.72-.705 11.094-2.115 3.374-1.41 6.286-3.513 8.736-6.31 2.45-2.796 4.368-6.309 5.755-10.538 1.387-4.23 2.08-9.164 2.08-14.804zm17.543 0c0 7.073-1.005 13.556-3.016 19.45-2.011 5.893-4.946 10.966-8.806 15.218-3.86 4.253-8.598 7.558-14.214 9.915-5.616 2.358-12.006 3.537-19.171 3.537-7.165 0-13.555-1.18-19.172-3.537-5.616-2.357-10.354-5.662-14.213-9.915-3.86-4.252-6.795-9.325-8.806-15.219-2.01-5.893-3.016-12.376-3.016-19.449 0-7.072 1.005-13.555 3.016-19.448 2.01-5.894 4.946-10.967 8.806-15.22 3.86-4.252 8.597-7.557 14.213-9.915 5.617-2.357 12.007-3.536 19.172-3.536 7.165 0 13.555 1.179 19.171 3.536 5.616 2.358 10.354 5.663 14.214 9.915 3.86 4.253 6.795 9.326 8.806 15.22 2.01 5.893 3.016 12.376 3.016 19.448zm32.518-46.385h16.988v68.573c0 3.05-.22 5.674-.659 7.87-.44 2.195-1.098 4.125-1.976 5.79-1.156 2.218-2.612 4.101-4.368 5.65a23.444 23.444 0 01-5.963 3.813c-2.219.994-4.6 1.71-7.142 2.15-2.542.439-5.177.659-7.904.659-2.82 0-5.558-.232-8.216-.694-2.658-.462-4.888-1.063-6.691-1.803v-14.49a35.625 35.625 0 006.517 1.94c2.312.463 4.6.694 6.865.694 4.39 0 7.58-1.017 9.568-3.05 1.988-2.035 2.981-5.04 2.981-9.014v-68.088zm55.816 78.557h45.623V226h-62.61V133.23h60.114v14.214H349.13v23.99h37.025v14.214h-37.025v26.14zM412.78 226V133.23h16.988v42.225h.277l35.015-42.225h21.078l-38.69 45.97L489.33 226h-21.772l-37.511-41.879h-.277v41.88H412.78zm127.648 0H523.44v-78.557h-29.953v-14.214h76.825v14.214h-29.884V226zm43.057 0V133.23h16.988V226h-16.988zm77.102 0H643.6v-78.557h-29.954v-14.214h76.825v14.214h-29.884V226zm60.045-14.214h45.623V226h-62.61V133.23h60.114v14.214h-43.127v23.99h37.025v14.214h-37.025v26.14zM784.283 226V133.23h16.988v42.225h.277l35.014-42.225h21.079l-38.69 45.97L860.831 226h-21.772l-37.511-41.879h-.277v41.88h-16.988zm127.648 0h-16.988v-78.557H864.99v-14.214h76.824v14.214h-29.883V226zM300 34.19C114.632 34.118 17 85.044 17 116H0C0 80.047 86.884 12.282 300 12.282c213.116 0 300 67.765 300 103.718h-17c0-30.956-97.632-81.882-283-81.811z" fill="#203864"/></svg>
+    </a>
+
+    <ul class="_links_14ak88">
+      <li><a href="/beratung" id="ember111" class="ember-view">Beratung</a></li>
+      <li><a href="/akademie" id="ember112" class="ember-view">Akademie</a></li>
+      <li><a href="/referenzen" id="ember113" class="ember-view">Referenzen</a></li>
+      <li><a href="/presse" id="ember114" class="ember-view">News</a></li>
+    </ul>
+  </div>
+</header>
+<div class="_spacer_14ak88"></div>
+
+
+
+<h1 class="title">Datenschutzerklärung</h1>
+
+<div class="content">
+  <p>Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der
+Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen
+der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und
+der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen
+Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam
+bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten
+Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen
+wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).</p>
+<h2 id="verantwortlicher">Verantwortlicher</h2>
+<p><strong>Sylvia C. Schuster Projektitekt</strong><br>
+Sylvia Carola Schuster<br>
+Turpinstr. 19<br>
+52066 Aachen<br>
+Deutschland<br>
+<br>
+mail@projektitekt.de<br>
++49 (151) 651 52 999<br>
+<a href="/imprint">www.projektitekt.de/imprint</a></p>
+<h2 id="artenderverarbeitetendaten">Arten der verarbeiteten Daten</h2>
+<ul>
+<li>Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).</li>
+<li>Kontaktdaten (z.B., E-Mail, Telefonnummern).</li>
+<li>Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).</li>
+<li>Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).</li>
+<li>Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).</li>
+</ul>
+<h2 id="kategorienbetroffenerpersonen">Kategorien betroffener Personen</h2>
+<p>Besucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die
+betroffenen Personen zusammenfassend auch als „Nutzer“).<br></p>
+<h2 id="zweckderverarbeitungh3">Zweck der Verarbeitung</h3></h2>
+<ul>
+<li>Zurverfügungstellung des Onlineangebotes, seiner Funktionen und  Inhalte.</li>
+<li>Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.</li>
+<li>Sicherheitsmaßnahmen.</li>
+<li>Reichweitenmessung/Marketing</li>
+</ul>
+<h2 id="verwendetebegrifflichkeiten">Verwendete Begrifflichkeiten</h2>
+<p>„Personenbezogene Daten“ sind alle Informationen, die sich auf eine
+identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene
+Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen,
+die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie
+einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung
+(z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert
+werden kann, die Ausdruck der physischen, physiologischen, genetischen,
+psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser
+natürlichen Person sind.</p>
+<p>„Verarbeitung“ ist jeder mit oder ohne Hilfe automatisierter Verfahren
+ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit
+personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden
+Umgang mit Daten.</p>
+<p>„Pseudonymisierung“ die Verarbeitung personenbezogener Daten in einer Weise,
+dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen
+nicht mehr einer spezifischen betroffenen Person zugeordnet werden können,
+sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und
+technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass
+die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren
+natürlichen Person zugewiesen werden.</p>
+<p>„Profiling“ jede Art der automatisierten Verarbeitung personenbezogener Daten,
+die darin besteht, dass diese personenbezogenen Daten verwendet werden, um
+bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu
+bewerten, insbesondere um Aspekte bezüglich Arbeitsleistung, wirtschaftliche
+Lage, Gesundheit, persönliche Vorlieben, Interessen, Zuverlässigkeit, Verhalten,
+Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder
+vorherzusagen.</p>
+<p>Als „Verantwortlicher“ wird die natürliche oder juristische Person, Behörde,
+Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die
+Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet,
+bezeichnet.</p>
+<p>„Auftragsverarbeiter“ eine natürliche oder juristische Person, Behörde,
+Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des
+Verantwortlichen verarbeitet.</p>
+<h2 id="mageblicherechtsgrundlagen">Maßgebliche Rechtsgrundlagen</h2>
+<p>Nach Maßgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer
+Datenverarbeitungen mit.  Für Nutzer aus dem Geltungsbereich der
+Datenschutzgrundverordnung (DSGVO), d.h. der EU und des EWG gilt, sofern die
+Rechtsgrundlage in der Datenschutzerklärung nicht genannt wird, Folgendes:</p>
+<p>Die Rechtsgrundlage für die Einholung von Einwilligungen ist Art. 6 Abs. 1 lit.
+a und Art. 7 DSGVO;</p>
+<p>Die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer Leistungen und
+Durchführung vertraglicher Maßnahmen sowie Beantwortung von Anfragen ist Art. 6
+Abs. 1 lit. b DSGVO;</p>
+<p>Die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer rechtlichen
+Verpflichtungen ist Art. 6 Abs. 1 lit. c DSGVO;</p>
+<p>Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer
+anderen natürlichen Person eine Verarbeitung personenbezogener Daten
+erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO als Rechtsgrundlage.</p>
+<p>Die Rechtsgrundlage für die erforderliche Verarbeitung zur Wahrnehmung einer
+Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher
+Gewalt erfolgt, die dem Verantwortlichen übertragen wurde ist Art. 6 Abs. 1 lit.
+e DSGVO. </p>
+<p>Die Rechtsgrundlage für die Verarbeitung zur Wahrung unserer berechtigten
+Interessen ist Art. 6 Abs. 1 lit. f DSGVO. </p>
+<p>Die Verarbeitung von Daten zu anderen Zwecken als denen, zu denen sie erhoben
+wurden, bestimmt sich nach den Vorgaben des Art 6 Abs. 4 DSGVO. </p>
+<p>Die Verarbeitung von besonderen Kategorien von Daten (entsprechend Art. 9 Abs. 1
+DSGVO) bestimmt sich nach den Vorgaben des Art. 9 Abs. 2 DSGVO. </p>
+<h2 id="sicherheitsmanahmen">Sicherheitsmaßnahmen</h2>
+<p>Wir treffen nach Maßgabe der gesetzlichen Vorgabenunter Berücksichtigung des
+Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der
+Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen
+Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und
+Freiheiten natürlicher Personen, geeignete technische und organisatorische
+Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.</p>
+<p>Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit,
+Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen Zugangs zu
+den Daten, als auch des sie betreffenden Zugriffs, der Eingabe, Weitergabe, der
+Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren
+eingerichtet, die eine Wahrnehmung von Betroffenenrechten, Löschung von Daten
+und Reaktion auf Gefährdung der Daten gewährleisten. Ferner berücksichtigen wir
+den Schutz personenbezogener Daten bereits bei der Entwicklung, bzw. Auswahl von
+Hardware, Software sowie Verfahren, entsprechend dem Prinzip des Datenschutzes
+durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.</p>
+<h2 id="zusammenarbeitmitauftragsverarbeiterngemeinsamverantwortlichenunddritten">Zusammenarbeit mit Auftragsverarbeitern, gemeinsam Verantwortlichen und Dritten</h2>
+<p>Sofern wir im Rahmen unserer Verarbeitung Daten gegenüber anderen Personen und
+Unternehmen (Auftragsverarbeitern, gemeinsam Verantwortlichen oder Dritten)
+offenbaren, sie an diese übermitteln oder ihnen sonst Zugriff auf die Daten
+gewähren, erfolgt dies nur auf Grundlage einer gesetzlichen Erlaubnis (z.B. wenn
+eine Übermittlung der Daten an Dritte, wie an Zahlungsdienstleister, zur
+Vertragserfüllung erforderlich ist), Nutzer eingewilligt haben, eine rechtliche
+Verpflichtung dies vorsieht oder auf Grundlage unserer berechtigten Interessen
+(z.B. beim Einsatz von Beauftragten, Webhostern, etc.).</p>
+<p>Sofern wir Daten anderen Unternehmen unserer Unternehmensgruppe offenbaren,
+übermitteln oder ihnen sonst den Zugriff gewähren, erfolgt dies insbesondere zu
+administrativen Zwecken als berechtigtes Interesse und darüberhinausgehend auf
+einer den gesetzlichen Vorgaben entsprechenden Grundlage.</p>
+<h2 id="bermittlungenindrittlnder">Übermittlungen in Drittländer</h2>
+<p>Sofern wir Daten in einem Drittland (d.h. außerhalb der Europäischen Union (EU),
+des Europäischen Wirtschaftsraums (EWR) oder der Schweizer Eidgenossenschaft)
+verarbeiten oder dies im Rahmen der Inanspruchnahme von Diensten Dritter oder
+Offenlegung, bzw. Übermittlung von Daten an andere Personen oder Unternehmen
+geschieht, erfolgt dies nur, wenn es zur Erfüllung unserer (vor)vertraglichen
+Pflichten, auf Grundlage Ihrer Einwilligung, aufgrund einer rechtlichen
+Verpflichtung oder auf Grundlage unserer berechtigten Interessen geschieht.
+Vorbehaltlich ausdrücklicher Einwilligung oder vertraglich erforderlicher
+Übermittlung, verarbeiten oder lassen wir die Daten nur in Drittländern mit
+einem anerkannten Datenschutzniveau, zu denen die unter dem "Privacy-Shield"
+zertifizierten US-Verarbeiter gehören oder auf Grundlage besonderer Garantien,
+wie z.B. vertraglicher Verpflichtung durch sogenannte Standardschutzklauseln der
+EU-Kommission, dem Vorliegen von Zertifizierungen oder verbindlichen internen
+Datenschutzvorschriften verarbeiten (Art. 44 bis 49 DSGVO,
+<a target="_blank" rel="noopener noreferrer" href="https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu_de">Informationsseite der EU-Kommission</a>).</p>
+<h2 id="rechtederbetroffenenpersonen">Rechte der betroffenen Personen</h2>
+<p>Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten
+verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere
+Informationen und Kopie der Daten entsprechend den gesetzlichen Vorgaben.</p>
+<p>Sie haben entsprechend. den gesetzlichen Vorgaben das Recht, die
+Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie
+betreffenden unrichtigen Daten zu verlangen.</p>
+<p>Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht zu verlangen, dass
+betreffende Daten unverzüglich gelöscht werden, bzw. alternativ nach Maßgabe der
+gesetzlichen Vorgaben eine Einschränkung der Verarbeitung der Daten zu
+verlangen.</p>
+<p>Sie haben das Recht zu verlangen, dass die Sie betreffenden Daten, die Sie uns
+bereitgestellt haben nach Maßgabe der gesetzlichen Vorgaben zu erhalten und
+deren Übermittlung an andere Verantwortliche zu fordern.</p>
+<p>Sie haben ferner nach Maßgabe der gesetzlichen Vorgaben das Recht, eine
+Beschwerde bei der zuständigen Aufsichtsbehörde einzureichen.</p>
+<h2 id="widerrufsrecht">Widerrufsrecht</h2>
+<p>Sie haben das Recht, erteilte Einwilligungen mit Wirkung für die Zukunft zu
+widerrufen.</p>
+<h2 id="widerspruchsrecht">Widerspruchsrecht</h2>
+<p><strong>Sie können der künftigen Verarbeitung der Sie betreffenden Daten nach Maßgabe
+der gesetzlichen Vorgaben jederzeit widersprechen. Der Widerspruch kann
+insbesondere gegen die Verarbeitung für Zwecke der Direktwerbung erfolgen.</strong></p>
+<h2 id="cookiesundwiderspruchsrechtbeidirektwerbung">Cookies und Widerspruchsrecht bei Direktwerbung</h2>
+<p>Als „Cookies“ werden kleine Dateien bezeichnet, die auf Rechnern der Nutzer
+gespeichert werden. Innerhalb der Cookies können unterschiedliche Angaben
+gespeichert werden. Ein Cookie dient primär dazu, die Angaben zu einem Nutzer
+(bzw. dem Gerät auf dem das Cookie gespeichert ist) während oder auch nach
+seinem Besuch innerhalb eines Onlineangebotes zu speichern. Als temporäre
+Cookies, bzw. „Session-Cookies“ oder „transiente Cookies“, werden Cookies
+bezeichnet, die gelöscht werden, nachdem ein Nutzer ein Onlineangebot verlässt
+und seinen Browser schließt. In einem solchen Cookie kann z.B. der Inhalt eines
+Warenkorbs in einem Onlineshop oder ein Login-Status gespeichert werden. Als
+„permanent“ oder „persistent“ werden Cookies bezeichnet, die auch nach dem
+Schließen des Browsers gespeichert bleiben. So kann z.B. der Login-Status
+gespeichert werden, wenn die Nutzer diese nach mehreren Tagen aufsuchen. Ebenso
+können in einem solchen Cookie die Interessen der Nutzer gespeichert werden, die
+für Reichweitenmessung oder Marketingzwecke verwendet werden. Als
+„Third-Party-Cookie“ werden Cookies bezeichnet, die von anderen Anbietern als
+dem Verantwortlichen, der das Onlineangebot betreibt, angeboten werden
+(andernfalls, wenn es nur dessen Cookies sind spricht man von „First-Party
+Cookies“).</p>
+<p>Wir können temporäre und permanente Cookies einsetzen und klären hierüber im
+Rahmen unserer Datenschutzerklärung auf.</p>
+<p>Sofern wir die Nutzer um eine Einwilligung in den Einsatz von Cookies bitten
+(z.B. im Rahmen einer Cookie-Einwilligung), ist die Rechtsgrundlage dieser
+Verarbeitung Art. 6 Abs. 1 lit. a. DSGVO. Ansonsten werden die personenbezogenen
+Cookies der Nutzer entsprechend den nachfolgenden Erläuterungen im Rahmen dieser
+Datenschutzerklärung auf Grundlage unserer berechtigten Interessen (d.h.
+Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres
+Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) oder sofern der
+Einsatz von Cookies zur Erbringung unserer vertragsbezogenen Leistungen
+erforderlich ist, gem. Art. 6 Abs. 1 lit. b. DSGVO, bzw. sofern der Einsatz von
+Cookies für die Wahrnehmung einer Aufgabe, die im öffentlichen Interesse liegt
+erforderlich ist oder in Ausübung öffentlicher Gewalt erfolgt, gem. Art. 6 Abs.
+1 lit. e. DSGVO, verarbeitet.</p>
+<p>Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert
+werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen
+ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den
+Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies
+kann zu Funktionseinschränkungen dieses Onlineangebotes führen.</p>
+<p>Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des Onlinemarketing
+eingesetzten Cookies kann bei einer Vielzahl der Dienste, vor allem im Fall des
+Trackings, über die US-amerikanische Seite
+<a target="_blank" rel="noopener noreferrer" href="http://www.aboutads.info/choices/">aboutads.info/choices/</a> oder die EU-Seite
+<a target="_blank" rel="noopener noreferrer" href="http://www.youronlinechoices.com/">youronlinechoices.com</a> erklärt werden. Des
+Weiteren kann die Speicherung von Cookies mittels deren
+Abschaltung in den Einstellungen des Browsers erreicht werden. Bitte beachten
+Sie, dass dann gegebenenfalls nicht alle Funktionen dieses Onlineangebotes
+genutzt werden können.</p>
+<h2 id="lschungvondaten">Löschung von Daten</h2>
+<p>Die von uns verarbeiteten Daten werden nach Maßgabe der gesetzlichen Vorgaben
+gelöscht oder in ihrer Verarbeitung eingeschränkt. Sofern nicht im Rahmen dieser
+Datenschutzerklärung ausdrücklich angegeben, werden die bei uns gespeicherten
+Daten gelöscht, sobald sie für ihre Zweckbestimmung nicht mehr erforderlich sind
+und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen.</p>
+<p>Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich
+zulässige Zwecke erforderlich sind, wird deren Verarbeitung eingeschränkt. D.h.
+die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z.B.
+für Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden
+müssen.</p>
+<h2 id="nderungenundaktualisierungenderdatenschutzerklrung">Änderungen und Aktualisierungen der Datenschutzerklärung</h2>
+<p>Wir bitten Sie sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu
+informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der
+von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir
+informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits
+(z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung
+erforderlich wird.<p></p>
+<h2 id="geschftsbezogeneverarbeitung">Geschäftsbezogene Verarbeitung</h2>
+<p>Zusätzlich verarbeiten wir</p>
+<ul>
+<li>Vertragsdaten (z.B., Vertragsgegenstand, Laufzeit, Kundenkategorie).</li>
+<li>Zahlungsdaten (z.B., Bankverbindung, Zahlungshistorie)</li>
+</ul>
+<p>von unseren Kunden, Interessenten und Geschäftspartner zwecks Erbringung
+vertraglicher Leistungen, Service und Kundenpflege, Marketing, Werbung und
+Marktforschung.</p>
+<h2 id="agenturdienstleistungen">Agenturdienstleistungen</h2>
+<p>Wir verarbeiten die Daten unserer Kunden im Rahmen unserer vertraglichen
+Leistungen zu denen konzeptionelle und strategische Beratung, Kampagnenplanung,
+Software- und Designentwicklung/-beratung oder Pflege, Umsetzung von Kampagnen
+und Prozessen/ Handling, Serveradministration, Datenanalyse/ Beratungsleistungen
+und Schulungsleistungen gehören.</p>
+<p>Hierbei verarbeiten wir Bestandsdaten (z.B., Kundenstammdaten, wie Namen oder
+Adressen), Kontaktdaten (z.B., E-Mail, Telefonnummern), Inhaltsdaten (z.B.,
+Texteingaben, Fotografien, Videos), Vertragsdaten (z.B., Vertragsgegenstand,
+Laufzeit), Zahlungsdaten (z.B., Bankverbindung, Zahlungshistorie), Nutzungs- und
+Metadaten (z.B. im Rahmen der Auswertung und Erfolgsmessung von
+Marketingmaßnahmen). Besondere Kategorien personenbezogener Daten verarbeiten
+wir grundsätzlich nicht, außer wenn diese Bestandteile einer beauftragten
+Verarbeitung sind. Zu den Betroffenen gehören unsere Kunden, Interessenten sowie
+deren Kunden, Nutzer, Websitebesucher oder Mitarbeiter sowie Dritte. Der Zweck
+der Verarbeitung besteht in der Erbringung von Vertragsleistungen, Abrechnung
+und unserem Kundenservice. Die Rechtsgrundlagen der Verarbeitung ergeben sich
+aus Art. 6 Abs. 1 lit. b DSGVO (vertragliche Leistungen), Art. 6 Abs. 1 lit. f
+DSGVO (Analyse, Statistik, Optimierung, Sicherheitsmaßnahmen). Wir verarbeiten
+Daten, die zur Begründung und Erfüllung der vertraglichen Leistungen
+erforderlich sind und weisen auf die Erforderlichkeit ihrer Angabe hin. Eine
+Offenlegung an Externe erfolgt nur, wenn sie im Rahmen eines Auftrags
+erforderlich ist. Bei der Verarbeitung der uns im Rahmen eines Auftrags
+überlassenen Daten handeln wir entsprechend den Weisungen der Auftraggeber sowie
+der gesetzlichen Vorgaben einer Auftragsverarbeitung gem. Art. 28 DSGVO und
+verarbeiten die Daten zu keinen anderen, als den auftragsgemäßen Zwecken.</p>
+<p>Wir löschen die Daten nach Ablauf gesetzlicher Gewährleistungs- und
+vergleichbarer Pflichten. die Erforderlichkeit der Aufbewahrung der Daten wird
+alle drei Jahre überprüft; im Fall der gesetzlichen Archivierungspflichten
+erfolgt die Löschung nach deren Ablauf (6 J, gem. § 257 Abs. 1 HGB, 10 J, gem. §
+147 Abs. 1 AO). Im Fall von Daten, die uns gegenüber im Rahmen eines Auftrags
+durch den Auftraggeber offengelegt wurden, löschen wir die Daten entsprechend
+den Vorgaben des Auftrags, grundsätzlich nach Ende des Auftrags.</p>
+<h2 id="vertraglicheleistungen">Vertragliche Leistungen</h2>
+<p>Wir verarbeiten die Daten unserer Vertragspartner und Interessenten sowie
+anderer Auftraggeber, Kunden, Mandanten, Klienten oder Vertragspartner
+(einheitlich bezeichnet als „Vertragspartner“) entsprechend Art. 6 Abs. 1 lit.
+b. DSGVO, um ihnen gegenüber unsere vertraglichen oder vorvertraglichen
+Leistungen zu erbringen. Die hierbei verarbeiteten Daten, die Art, der Umfang
+und der Zweck und die Erforderlichkeit ihrer Verarbeitung, bestimmen sich nach
+dem zugrundeliegenden Vertragsverhältnis.</p>
+<p>Zu den verarbeiteten Daten gehören die Stammdaten unserer Vertragspartner (z.B.,
+Namen und Adressen), Kontaktdaten (z.B. E-Mailadressen und Telefonnummern) sowie
+Vertragsdaten (z.B., in Anspruch genommene Leistungen, Vertragsinhalte,
+vertragliche Kommunikation, Namen von Kontaktpersonen) und Zahlungsdaten (z.B., 
+Bankverbindungen, Zahlungshistorie).</p>
+<p>Besondere Kategorien personenbezogener Daten verarbeiten wir grundsätzlich
+nicht, außer wenn diese Bestandteile einer beauftragten oder vertragsgemäßen
+Verarbeitung sind.</p>
+<p>Wir verarbeiten Daten, die zur Begründung und Erfüllung der vertraglichen
+Leistungen erforderlich sind und weisen auf die Erforderlichkeit ihrer Angabe,
+sofern diese für die Vertragspartner nicht evident ist, hin. Eine Offenlegung an
+externe Personen oder Unternehmen erfolgt nur, wenn sie im Rahmen eines Vertrags
+erforderlich ist. Bei der Verarbeitung der uns im Rahmen eines Auftrags
+überlassenen Daten, handeln wir entsprechend den Weisungen der Auftraggeber
+sowie der gesetzlichen Vorgaben.</p>
+<p>Im Rahmen der Inanspruchnahme unserer Onlinedienste, können wir die IP-Adresse
+und den Zeitpunkt der jeweiligen Nutzerhandlung speichern. Die Speicherung
+erfolgt auf Grundlage unserer berechtigten Interessen, als auch der Interessen
+der Nutzer am Schutz vor Missbrauch und sonstiger unbefugter Nutzung. Eine
+Weitergabe dieser Daten an Dritte erfolgt grundsätzlich nicht, außer sie ist zur
+Verfolgung unserer Ansprüche gem. Art. 6 Abs. 1 lit. f. DSGVO erforderlich oder
+es besteht hierzu eine gesetzliche Verpflichtung gem. Art. 6 Abs. 1 lit. c.
+DSGVO.</p>
+<p>Die Löschung der Daten erfolgt, wenn die Daten zur Erfüllung vertraglicher oder
+gesetzlicher Fürsorgepflichten sowie für den Umgang mit etwaigen
+Gewährleistungs- und vergleichbaren Pflichten nicht mehr erforderlich sind,
+wobei die Erforderlichkeit der Aufbewahrung der Daten alle drei Jahre überprüft
+wird; im Übrigen gelten die gesetzlichen Aufbewahrungspflichten.</p>
+<h2 id="administrationfinanzbuchhaltungbroorganisationkontaktverwaltung">Administration, Finanzbuchhaltung, Büroorganisation, Kontaktverwaltung</h2>
+<p>Wir verarbeiten Daten im Rahmen von Verwaltungsaufgaben sowie Organisation
+unseres Betriebs, Finanzbuchhaltung und Befolgung der gesetzlichen Pflichten,
+wie z.B. der Archivierung. Hierbei verarbeiten wir dieselben Daten, die wir im
+Rahmen der Erbringung unserer vertraglichen Leistungen verarbeiten. Die
+Verarbeitungsgrundlagen sind Art. 6 Abs. 1 lit. c. DSGVO, Art. 6 Abs. 1 lit. f.
+DSGVO. Von der Verarbeitung sind Kunden, Interessenten, Geschäftspartner und
+Websitebesucher betroffen. Der Zweck und unser Interesse an der Verarbeitung
+liegt in der Administration, Finanzbuchhaltung, Büroorganisation, Archivierung
+von Daten, also Aufgaben die der Aufrechterhaltung unserer Geschäftstätigkeiten,
+Wahrnehmung unserer Aufgaben und Erbringung unserer Leistungen dienen. Die
+Löschung der Daten im Hinblick auf vertragliche Leistungen und die vertragliche
+Kommunikation entspricht den, bei diesen Verarbeitungstätigkeiten genannten
+Angaben.</p>
+<p>Wir offenbaren oder übermitteln hierbei Daten an die Finanzverwaltung, Berater,
+wie z.B., Steuerberater oder Wirtschaftsprüfer sowie weitere Gebührenstellen und
+Zahlungsdienstleister.</p>
+<p>Ferner speichern wir auf Grundlage unserer betriebswirtschaftlichen Interessen
+Angaben zu Lieferanten, Veranstaltern und sonstigen Geschäftspartnern, z.B.
+zwecks späterer Kontaktaufnahme. Diese mehrheitlich unternehmensbezogenen Daten,
+speichern wir grundsätzlich dauerhaft.</p>
+<h2 id="googleclouddienste">Google Cloud-Dienste</h2>
+<p>Wir nutzen die von Google angebotene Cloud und die Cloud-Softwaredienste (sog.
+Software as a Service, z.B. Google Suite) für die folgenden Zwecke:
+Dokumentenspeicherung und Verwaltung, Kalenderverwaltung, E-Mail-Versand,
+Tabellenkalkulationen und Präsentationen, Austausch von Dokumenten, Inhalten und
+Informationen mit bestimmten Empfängern oder Veröffentlichung von Webseiten,
+Formularen oder sonstigen Inhalten und Informationen sowie Chats und Teilnahme
+an Audio- und Videokonferenzen.</p>
+<p>Hierbei werden die personenbezogenen Daten der Nutzer verarbeitet, soweit diese
+Bestandteil der innerhalb der&nbsp; beschriebenen Dienste verarbeiteten
+Dokumente und Inhalte werden oder Teil von Kommunikationsvorgängen sind. Hierzu
+können z.B. Stammdaten und Kontaktdaten der Nutzer, Daten zu Vorgängen,
+Verträgen, sonstigen Prozessen und deren Inhalte gehören. Google verarbeitet
+ferner Nutzungsdaten und Metadaten, die von Google zu Sicherheitszwecken und
+Serviceoptimierung verwendet werden.</p>
+<p>Im Rahmen der Nutzung öffentlich zugängliche&nbsp; Dokumente, Webseiten oder
+sonstige  Inhalte, kann Google Cookies auf den Rechner der Nutzer für
+Zwecke der Webanalyse oder um sich Einstellungen der Nutzer zu merken,
+speichern.</p>
+<p>Wir nutzen die Google Cloud-Dienste auf Grundlage unserer berechtigten
+Interessen gem. Art. 6 Abs. 1 lit. f DSGVO an effizienten und sicheren
+Verwaltungs- und Zusammenarbeitsprozessen. Ferner erfolgt die Verarbeitung auf
+Grundlage eines <a target="_blank" rel="noopener noreferrer" href="https://cloud.google.com/terms/data-processing-terms">Auftragsverarbeitungsvertrages mit Google</a>.</p>
+<p>Weitere Hinweise erhalten Sie in der <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/policies/privacy">Datenschutzerklärung von Google</a>
+und den <a target="_blank" rel="noopener noreferrer" href="https://cloud.google.com/security/privacy/">Sicherheitshinweisen zu Google Cloud-Diensten</a>.
+Sie können der Verarbeitung Ihrer Daten in der Google Cloud uns gegenüber
+entsprechend den gesetzlichen Vorgaben widersprechen. Im Übrigen bestimmt sich
+die Löschung der Daten innerhalb von Googles Cloud-Diensten nach den übrigen
+Verarbeitungsprozessen in deren Rahmen die Daten verarbeitet werden (z.B.,
+Löschung für Vertragszwecke nicht mehr erforderlicher oder Speicherung für
+Zwecke der Besteuerung erforderlicher Daten).</p>
+<p>Die Google Cloud-Dienste werden von Google Irland Limited angeboten. Soweit eine
+Übermittlung in die USA stattfindet, verweisen wir auf die Zertifizierung von
+Google USA unter dem <a target="_blank" rel="noopener noreferrer" href="https://www.privacyshield.gov/participant?id=a2zt0000000000001L5AAI&amp;status=Aktive">Privacy Shield</a>
+und <a target="_blank" rel="noopener noreferrer" href="https://cloud.google.com/terms/data-processing-terms">Standardschutzklauseln</a>.</p>
+<h2 id="microsoftclouddienste">Microsoft Cloud-Dienste</h2>
+<p>Wir nutzen die von Microsoft angebotene Cloud und die Cloud-Softwaredienste
+(sog. Software as a Service, z.B. Microsoft Office) für die folgenden Zwecke:
+Dokumentenspeicherung und Verwaltung, Kalenderverwaltung, E-Mail-Versand,
+Tabellenkalkulationen und Präsentationen, Austausch von Dokumenten, Inhalten und
+Informationen mit bestimmten Empfängern oder Veröffentlichung von Webseiten,
+Formularen oder sonstigen Inhalten und Informationen sowie Chats und Teilnahme
+an Audio- und Videokonferenzen.</p>
+<p>Hierbei werden die personenbezogenen Daten der Nutzer verarbeitet, soweit diese
+Bestandteil der innerhalb  der beschriebenen Dienste verarbeiteten Dokumente und
+Inhalte werden oder Teil von Kommunikationsvorgängen sind. Hierzu können z.B.
+Stammdaten und Kontaktdaten der Nutzer, Daten zu Vorgängen, Verträgen, sonstigen
+Prozessen und deren Inhalte gehören. Microsoft verarbeitet ferner Nutzungsdaten
+und Metadaten, die von Microsoft zu Sicherheitszwecken und Serviceoptimierung
+verwendet werden.</p>
+<p>Im Rahmen der Nutzung öffentlich zugängliche Dokumente, Webseiten oder sonstige
+Inhalte, kann Microsoft Cookies auf den Rechner der Nutzer für Zwecke der
+Webanalyse oder um sich Einstellungen der Nutzer zu merken, speichern.</p>
+<p>Wir nutzen die Microsoft Cloud-Dienste auf Grundlage unserer berechtigten
+Interessen gem. Art. 6 Abs. 1 lit. f DSGVO an effizienten und sicheren
+Verwaltungs- und Zusammenarbeitsprozessen. Ferner erfolgt die Verarbeitung auf
+Grundlage eines Auftragsverarbeitungsvertrages mit Microsoft.</p>
+<p>Weitere Hinweise erhalten Sie in der <a target="_blank" rel="noopener noreferrer" href="https://privacy.microsoft.com/de-de/privacystatement">Datenschutzerklärung von Microsoft</a>
+und den <a target="_blank" rel="noopener noreferrer" href="https://www.microsoft.com/de-de/trustcenter">Sicherheitshinweisen zu Microsoft Cloud-Diensten</a>.
+Sie können der Verarbeitung Ihrer Daten in der Microsoft Cloud uns gegenüber
+entsprechend den gesetzlichen Vorgaben widersprechen. Im Übrigen bestimmt sich
+die Löschung der Daten innerhalb von Microsofts Cloud-Diensten nach den übrigen
+Verarbeitungsprozessen in deren Rahmen die Daten verarbeitet werden (z.B.,
+Löschung für Vertragszwecke nicht mehr erforderlicher oder Speicherung für
+Zwecke der Besteuerung erforderlicher Daten).</p>
+<p>Die Microsoft Cloud-Dienste werden von Microsoft Corporation, One Microsoft Way,
+Redmond, WA 98052-6399 USA angeboten. Soweit eine Verarbeitung von Daten in die
+USA stattfindet, verweisen wir auf die Zertifizierung von Microsoft unter dem
+<a target="_blank" rel="noopener noreferrer" href="https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&amp;status=Active">Privacy Shield</a>.</p>
+<h2 id="kommentareundbeitrge">Kommentare und Beiträge</h2>
+<p>Wenn Nutzer Kommentare oder sonstige Beiträge hinterlassen, können ihre
+IP-Adressen auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6
+Abs. 1 lit. f. DSGVO für 7 Tage gespeichert werden. Das erfolgt zu unserer
+Sicherheit, falls jemand in Kommentaren und Beiträgen widerrechtliche Inhalte
+hinterlässt (Beleidigungen, verbotene politische Propaganda, etc.). In diesem
+Fall können wir selbst für den Kommentar oder Beitrag belangt werden und sind
+daher an der Identität des Verfassers interessiert.</p>
+<p>Des Weiteren behalten wir uns vor, auf Grundlage unserer berechtigten Interessen
+gem. Art. 6 Abs. 1 lit. f. DSGVO, die Angaben der Nutzer zwecks Spamerkennung zu
+verarbeiten.</p>
+<p>Auf derselben Rechtsgrundlage behalten wir uns vor, im Fall von Umfragen die
+IP-Adressen der Nutzer für deren Dauer zu speichern und Cookies zu verwenden, um
+Mehrfachabstimmungen zu vermeiden.</p>
+<p>Die im Rahmen der Kommentare und Beiträge mitgeteilte Informationen zur Person,
+etwaige Kontakt- sowie Websiteinformationen als auch die inhaltlichen Angaben,
+werden von uns bis zum Widerspruch der Nutzer dauerhaft gespeichert.</p>
+<h2 id="kommentarabonnements">Kommentarabonnements</h2>
+<p>Die Nachfolgekommentare können durch Nutzer mit deren Einwilligung gem. Art. 6
+Abs. 1 lit. a DSGVO abonniert werden. Die Nutzer erhalten eine
+Bestätigungsemail, um zu überprüfen, ob sie der Inhaber der eingegebenen
+Emailadresse sind. Nutzer können laufende Kommentarabonnements jederzeit
+abbestellen. Die Bestätigungsemail wird Hinweise zu den Widerrufsmöglichkeiten
+enthalten. Für die Zwecke des Nachweises der Einwilligung der Nutzer, speichern
+wir den Anmeldezeitpunkt nebst der IP-Adresse der Nutzer und löschen diese
+Informationen, wenn Nutzer sich von dem Abonnement abmelden.</p>
+<p>Sie können den Empfang unseres Abonnements jederzeit kündigen, d.h. Ihre
+Einwilligungen widerrufen.  Wir können die ausgetragenen E-Mailadressen bis zu
+drei Jahren auf Grundlage unserer berechtigten Interessen speichern bevor wir
+sie löschen, um eine ehemals gegebene Einwilligung nachweisen zu können. Die
+Verarbeitung dieser Daten wird auf den Zweck einer möglichen Abwehr von
+Ansprüchen beschränkt. Ein individueller Löschungsantrag ist jederzeit möglich,
+sofern zugleich das ehemalige Bestehen einer Einwilligung bestätigt
+wird.</p>
+<h2 id="kontaktaufnahme">Kontaktaufnahme</h2>
+<p>Bei der Kontaktaufnahme mit uns (z.B. per Kontaktformular, E-Mail, Telefon oder
+via sozialer Medien) werden die Angaben des Nutzers zur Bearbeitung der
+Kontaktanfrage und deren Abwicklung gem. Art. 6 Abs. 1 lit. b. (im Rahmen
+vertraglicher-/vorvertraglicher Beziehungen),  Art. 6 Abs. 1 lit. f. (andere
+Anfragen) DSGVO verarbeitet.. Die Angaben der Nutzer können in einem
+Customer-Relationship-Management System ("CRM System") oder vergleichbarer
+Anfragenorganisation gespeichert werden.</p>
+<p>Wir löschen die Anfragen, sofern diese nicht mehr erforderlich sind. Wir
+überprüfen die Erforderlichkeit alle zwei Jahre; Ferner gelten die gesetzlichen
+Archivierungspflichten.</p>
+<h2 id="googleanalytics">Google Analytics</h2>
+<p>Wir setzen Google Analytics, einen Webanalysedienst der Google Ireland Limited,
+Gordon House, Barrow Street, Dublin 4, Irland („Google“) ein. Google verwendet
+Cookies. Die durch das Cookie erzeugten Informationen über Benutzung des
+Onlineangebotes durch die Nutzer werden in der Regel an einen Server von Google
+in den USA übertragen und dort gespeichert.</p>
+<p>Google wird diese Informationen in unserem Auftrag benutzen, um die Nutzung
+unseres Onlineangebotes durch die Nutzer auszuwerten, um Reports über die
+Aktivitäten innerhalb dieses Onlineangebotes zusammenzustellen und um weitere,
+mit der Nutzung dieses Onlineangebotes und der Internetnutzung verbundene
+Dienstleistungen, uns gegenüber zu erbringen. Dabei können aus den verarbeiteten
+Daten pseudonyme Nutzungsprofile der Nutzer erstellt werden.</p>
+<p>Wir setzen Google Analytics nur mit aktivierter IP-Anonymisierung ein. Das
+bedeutet, die IP-Adresse der Nutzer wird von Google innerhalb von
+Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des
+Abkommens über den Europäischen Wirtschaftsraum gekürzt. Nur in Ausnahmefällen
+wird die volle IP-Adresse an einen Server von Google in den USA übertragen und
+dort gekürzt.</p>
+<p>Die von dem Browser des Nutzers übermittelte IP-Adresse wird nicht mit anderen
+Daten von Google zusammengeführt. Die Nutzer können die Speicherung der Cookies
+durch eine entsprechende Einstellung ihrer Browser-Software verhindern; die
+Nutzer können darüber hinaus die Erfassung der durch das Cookie erzeugten und
+auf ihre Nutzung des Onlineangebotes bezogenen Daten an Google sowie die
+Verarbeitung dieser Daten durch Google verhindern, indem sie das unter folgendem
+Link verfügbare Browser-Plugin herunterladen und installieren:
+<a target="_blank" rel="noopener noreferrer" href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a></p>
+<p>Sofern wir die Nutzer um eine Einwilligung bitten (z.B. im Rahmen einer
+Cookie-Einwilligung), ist die Rechtsgrundlage dieser Verarbeitung Art. 6 Abs. 1
+lit. a. DSGVO. Ansonsten werden die personenbezogenen Daten der Nutzer auf
+Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse,
+Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des
+Art. 6 Abs. 1 lit. f. DSGVO) verarbeitet.</p>
+<p>Soweit Daten in den USA verarbeitet werden, weisen wir daraufhin, dass Google
+unter dem <a target="_blank" rel="noopener noreferrer" href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active">Privacy-Shield-Abkommen</a>
+zertifiziert ist und hierdurch zusichert, das europäische Datenschutzrecht
+einzuhalten.</p>
+<p>Weitere Informationen zur Datennutzung durch Google, Einstellungs- und
+Widerspruchsmöglichkeiten, erfahren Sie in der
+<a target="_blank" rel="noopener noreferrer" href="https://policies.google.com/privacy">Datenschutzerklärung von Google</a>
+sowie in den Einstellungen für die
+<a target="_blank" rel="noopener noreferrer" href="https://adssettings.google.com/authenticated">Darstellung von Werbeeinblendungen durch Google</a>.</p>
+<p>Die personenbezogenen Daten der Nutzer werden nach 14 Monaten gelöscht oder
+anonymisiert.</p>
+<h2 id="onlineprsenzeninsozialenmedien">Onlinepräsenzen in sozialen Medien</h2>
+<p>Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, um
+mit den dort aktiven Kunden, Interessenten und Nutzern kommunizieren und sie
+dort über unsere Leistungen informieren zu können.</p>
+<p>Wir weisen darauf hin, dass dabei Daten der Nutzer außerhalb des Raumes der
+Europäischen Union verarbeitet werden können. Hierdurch können sich für die
+Nutzer Risiken ergeben, weil so z.B. die Durchsetzung der Rechte der Nutzer
+erschwert werden könnte. Im Hinblick auf US-Anbieter die unter dem
+Privacy-Shield zertifiziert sind, weisen wir darauf hin, dass sie sich damit
+verpflichten, die Datenschutzstandards der EU einzuhalten.</p>
+<p>Ferner werden die Daten der Nutzer im Regelfall für Marktforschungs- und
+Werbezwecke verarbeitet. So können z.B. aus dem Nutzungsverhalten und sich
+daraus ergebenden Interessen der Nutzer Nutzungsprofile erstellt werden. Die
+Nutzungsprofile können wiederum verwendet werden, um z.B. Werbeanzeigen
+innerhalb und außerhalb der Plattformen zu schalten, die mutmaßlich den
+Interessen der Nutzer entsprechen. Zu diesen Zwecken werden im Regelfall Cookies
+auf den Rechnern der Nutzer gespeichert, in denen das Nutzungsverhalten und die
+Interessen der Nutzer gespeichert werden. Ferner können in den Nutzungsprofilen
+auch Daten unabhängig der von den Nutzern verwendeten Geräte gespeichert werden
+(insbesondere wenn die Nutzer Mitglieder der jeweiligen Plattformen sind und bei
+diesen eingeloggt sind).</p>
+<p>Die Verarbeitung der personenbezogenen Daten der Nutzer erfolgt auf Grundlage
+unserer berechtigten Interessen an einer effektiven Information der Nutzer und
+Kommunikation mit den Nutzern gem. Art. 6 Abs. 1 lit. f. DSGVO. Falls die Nutzer
+von den jeweiligen Anbietern der Plattformen um eine Einwilligung in die
+vorbeschriebene Datenverarbeitung gebeten werden, ist die Rechtsgrundlage der
+Verarbeitung Art. 6 Abs. 1 lit. a., Art. 7 DSGVO.</p>
+<p>Für eine detaillierte Darstellung der jeweiligen Verarbeitungen und der
+Widerspruchsmöglichkeiten (Opt-Out), verweisen wir auf die nachfolgend
+verlinkten Angaben der Anbieter.</p>
+<p>Auch im Fall von Auskunftsanfragen und der Geltendmachung von Nutzerrechten,
+weisen wir darauf hin, dass diese am effektivsten bei den Anbietern geltend
+gemacht werden können. Nur die Anbieter haben jeweils Zugriff auf die Daten der
+Nutzer und können direkt entsprechende Maßnahmen ergreifen und Auskünfte geben.
+Sollten Sie dennoch Hilfe benötigen, dann können Sie sich an uns wenden.</p>
+<ul>
+<li><p>Facebook, -Seiten, -Gruppen, (Facebook Ireland Ltd., 4 Grand Canal Square,
+Grand Canal Harbour, Dublin 2, Irland) auf Grundlage einer
+<a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/legal/terms/page_controller_addendum">Vereinbarung über gemeinsame Verarbeitung personenbezogener Daten</a> - 
+<a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/about/privacy/">Datenschutzerklärung</a>,
+<a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/legal/terms/information_about_page_insights_data">speziell für Seiten</a>,
+<a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/settings?tab=ads">Opt-Out</a> und
+<a target="_blank" rel="noopener noreferrer" href="http://www.youronlinechoices.com">youronlinechoices.com</a>,
+<a target="_blank" rel="noopener noreferrer" href="https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active">Privacy Shield</a>.</p></li>
+<li><p>Google/ YouTube (Google Ireland Limited, Gordon House, Barrow Street, Dublin
+4, Irland) – <a target="_blank" rel="noopener noreferrer" href="https://policies.google.com/privacy">Datenschutzerklärung</a>,
+<a target="_blank" rel="noopener noreferrer" href="https://adssettings.google.com/authenticated">Opt-Out</a>,
+<a target="_blank" rel="noopener noreferrer" href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active">Privacy Shield</a>.</p></li>
+<li><p>Instagram (Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA) –
+<a target="_blank" rel="noopener noreferrer" href="http://instagram.com/about/legal/privacy/">Datenschutzerklärung/ Opt-Out</a>.</p></li>
+<li><p>Twitter (Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103,
+USA) - <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/de/privacy">Datenschutzerklärung</a>,
+<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/personalization">Opt-Out</a>,
+<a target="_blank" rel="noopener noreferrer" href="https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&amp;status=Active">Privacy Shield</a>.</p></li>
+<li><p>Pinterest (Pinterest Inc., 635 High Street, Palo Alto, CA, 94301, USA) –
+<a target="_blank" rel="noopener noreferrer" href="https://about.pinterest.com/de/privacy-policy">Datenschutzerklärung/ Opt-Out</a>.</p></li>
+<li><p>LinkedIn (LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland) -
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/legal/privacy-policy">Datenschutzerklärung</a>,
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out">Opt-Out</a>,
+<a target="_blank" rel="noopener noreferrer" href="https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&amp;status=Active">Privacy Shield</a>.</p></li>
+<li><p>Xing (XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland) -
+<a target="_blank" rel="noopener noreferrer" href="https://privacy.xing.com/de/datenschutzerklaerung">Datenschutzerklärung/ Opt-Out</a>.</p></li>
+<li><p>Wakalet (Wakelet Limited, 76 Quay Street, Manchester, M3 4PR, United Kingdom) -
+<a target="_blank" rel="noopener noreferrer" href="https://wakelet.com/privacy.html">Datenschutzerklärung/ Opt-Out</a>.</p></li>
+<li><p>Soundcloud (SoundCloud Limited, Rheinsberger Str. 76/77, 10115 Berlin,
+Deutschland) - <a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/pages/privacy">Datenschutzerklärung/ Opt-Out</a>.</p></li>
+</ul>
+<h2 id="einbindungvondienstenundinhaltendritter">Einbindung von Diensten und Inhalten Dritter</h2>
+<p>Wir setzen innerhalb unseres Onlineangebotes auf Grundlage unserer berechtigten
+Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem
+Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO)
+Inhalts- oder Serviceangebote von Drittanbietern ein, um deren Inhalte und
+Services, wie z.B. Videos oder Schriftarten einzubinden (nachfolgend einheitlich
+bezeichnet als “Inhalte”).</p>
+<p>Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse
+der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren
+Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser
+Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren
+jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte
+verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare
+Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder
+Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der
+Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die
+pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer
+gespeichert werden und unter anderem technische Informationen zum Browser und
+Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur
+Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen
+aus anderen Quellen verbunden werden.</p>
+<h2 id="typekitschriftartenvonadobe">Typekit-Schriftarten von Adobe</h2>
+<p>Wir setzen&nbsp;auf Grundlage unserer berechtigten Interessen (d.h. Interesse an
+der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im
+Sinne des Art. 6 Abs. 1 lit. f. DSGVO) externe "Typekit"-Schriftarten des
+Anbieters&nbsp;Adobe Systems Software Ireland Limited, 4-6 Riverwalk, Citywest
+Business Campus, Dublin 24, Republic of Ireland ein. Adobe ist unter dem
+<a target="_blank" rel="noopener noreferrer" href="https://www.privacyshield.gov/participant?id=a2zt0000000TNo9AAG&amp;status=Active">Privacy-Shield-Abkommen</a>
+zertifiziert und bietet hierdurch eine Garantie, das europäische
+Datenschutzrecht einzuhalten.</p>
+<h2 id="verwendungvonfacebooksocialplugins">Verwendung von Facebook Social Plugins</h2>
+<p>Wir nutzen auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der
+Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im
+Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Social Plugins ("Plugins") des sozialen
+Netzwerkes facebook.com, welches von der Facebook Ireland Ltd., 4 Grand Canal
+Square, Grand Canal Harbour, Dublin 2, Irland betrieben wird ("Facebook"). <br>
+Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen
+gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von Facebook
+teilen können. Die Liste und das Aussehen der Facebook Social Plugins kann hier
+eingesehen werden: <a target="_blank" rel="noopener noreferrer" href="https://developers.facebook.com/docs/plugins/">https://developers.facebook.com/docs/plugins/</a>.</p>
+<p>Facebook ist unter dem <a target="_blank" rel="noopener noreferrer" href="https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active">Privacy-Shield-Abkommen</a>
+zertifiziert und bietet hierdurch eine Garantie, das europäische
+Datenschutzrecht einzuhalten.</p>
+<p>Wenn ein Nutzer eine Funktion dieses Onlineangebotes aufruft, die ein solches
+Plugin enthält, baut sein Gerät eine direkte Verbindung mit den Servern von
+Facebook auf. Der Inhalt des Plugins wird von Facebook direkt an das Gerät des
+Nutzers übermittelt und von diesem in das Onlineangebot eingebunden. Dabei
+können aus den verarbeiteten Daten Nutzungsprofile der Nutzer erstellt werden.
+Wir haben daher keinen Einfluss auf den Umfang der Daten, die Facebook mit Hilfe
+dieses Plugins erhebt und informiert die Nutzer daher entsprechend unserem
+Kenntnisstand.</p>
+<p>Durch die Einbindung der Plugins erhält Facebook die Information, dass ein
+Nutzer die entsprechende Seite des Onlineangebotes aufgerufen hat. Ist der
+Nutzer bei Facebook eingeloggt, kann Facebook den Besuch seinem Facebook-Konto
+zuordnen. Wenn Nutzer mit den Plugins interagieren, zum Beispiel den Like Button
+betätigen oder einen Kommentar abgeben, wird die entsprechende Information von
+Ihrem Gerät direkt an Facebook übermittelt und dort gespeichert. Falls ein
+Nutzer kein Mitglied von Facebook ist, besteht trotzdem die Möglichkeit, dass
+Facebook seine IP-Adresse in Erfahrung bringt und speichert. Laut Facebook wird
+in Deutschland nur eine anonymisierte IP-Adresse gespeichert.</p>
+<p>Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der
+Daten durch Facebook sowie die diesbezüglichen Rechte und
+Einstellungsmöglichkeiten zum Schutz der Privatsphäre der Nutzer, können diese
+den <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/about/privacy/">Datenschutzhinweisen</a> von Facebook
+entnehmen.</p>
+<p>Wenn ein Nutzer Facebookmitglied ist und nicht möchte, dass Facebook über dieses
+Onlineangebot Daten über ihn sammelt und mit seinen bei Facebook gespeicherten
+Mitgliedsdaten verknüpft, muss er sich vor der Nutzung unseres Onlineangebotes
+bei Facebook ausloggen und seine Cookies löschen. Weitere Einstellungen und
+Widersprüche zur Nutzung von Daten für Werbezwecke, sind innerhalb der
+Facebook-Profileinstellungen möglich: <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/settings?tab=ads">https://www.facebook.com/settings?tab=ads</a>
+oder über die US-amerikanische Seite <a target="_blank" rel="noopener noreferrer" href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>
+oder die EU-Seite <a target="_blank" rel="noopener noreferrer" href="http://www.youronlinechoices.com/">http://www.youronlinechoices.com/</a>.
+Die Einstellungen erfolgen plattformunabhängig, d.h. sie werden für alle Geräte,
+wie Desktopcomputer oder mobile Geräte übernommen.</p>
+<h2 id="instagram">Instagram</h2>
+<p>Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes
+Instagram, angeboten durch die Instagram Inc., 1601 Willow Road, Menlo Park, CA,
+94025, USA, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos
+oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses
+Onlineangebotes innerhalb von Instagram teilen können. Sofern die Nutzer
+Mitglieder der Plattform Instagram sind, kann Instagram den Aufruf der o.g.
+Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen.
+<a target="_blank" rel="noopener noreferrer" href="http://instagram.com/about/legal/privacy/">Datenschutzerklärung</a> von Instagram.</p>
+<h2 id="xing">Xing</h2>
+<p>Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes
+Xing, angeboten durch die XING AG, Dammtorstraße 29-32, 20354 Hamburg,
+Deutschland, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos
+oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses
+Onlineangebotes innerhalb von Xing teilen können. Sofern die Nutzer Mitglieder
+der Plattform Xing sind, kann Xing den Aufruf der o.g. Inhalte und Funktionen
+den dortigen Profilen der Nutzer zuordnen.
+<a target="_blank" rel="noopener noreferrer" href="https://privacy.xing.com/de/datenschutzerklaerung">Datenschutzerklärung von Xing</a>.</p>
+<h2 id="linkedin">LinkedIn</h2>
+<p>Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes
+LinkedIn, angeboten durch die LinkedIn Ireland Unlimited Company Wilton Place,
+Dublin 2, Irland, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder,
+Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses
+Onlineangebotes innerhalb von LinkedIn teilen können. Sofern die Nutzer
+Mitglieder der Plattform LinkedIn sind, kann LinkedIn den Aufruf der o.g.
+Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen.
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/legal/privacy-policy">Datenschutzerklärung von LinkedIn</a>.
+LinkedIn ist unter dem <a target="_blank" rel="noopener noreferrer" href="https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&amp;status=Active">Privacy-Shield-Abkommen</a>
+zertifiziert und bietet hierdurch eine Garantie, das europäische
+Datenschutzrecht einzuhalten.</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://datenschutz-generator.de">Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke</a></p>
+</div>
+
+
+<footer class="_footer_8ix6as">
+  <div class="_top_8ix6as">
+    <div class="_name-box_8ix6as">
+      <svg width="942" height="228" viewBox="0 0 942 228" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projektitekt" class="_logo_8ix6as"><path d="M25.748 190.084c-1.525 0-3.028-.023-4.507-.07a55.39 55.39 0 01-4.16-.277V226H.094V133.23h26.763c4.484 0 8.402.196 11.753.589 3.351.393 6.344.982 8.979 1.768 6.333 1.941 11.21 5.038 14.63 9.291s5.13 9.66 5.13 16.225c0 4.483-.924 8.516-2.773 12.099-1.849 3.582-4.553 6.621-8.112 9.117-3.56 2.497-7.904 4.415-13.035 5.755-5.131 1.34-11.025 2.011-17.681 2.011zm-8.667-14.63c.97.139 2.207.243 3.71.312 1.502.07 3.062.104 4.68.104 4.576 0 8.412-.37 11.51-1.11 3.096-.739 5.593-1.767 7.488-3.085 1.895-1.317 3.259-2.912 4.09-4.784.833-1.872 1.249-3.917 1.249-6.136 0-2.727-.624-5.085-1.872-7.072-1.249-1.988-3.421-3.536-6.518-4.646-1.618-.554-3.617-.959-5.998-1.213-2.38-.254-5.304-.381-8.77-.381H17.08v28.011zm136.939-14.352c0 6.471-1.792 11.96-5.374 16.467-3.582 4.507-9.118 7.846-16.606 10.019v.277L159.636 226H139.25l-25.238-35.916h-11.649V226H85.377V133.23h28.22c4.668 0 9.013.265 13.035.797 4.021.532 7.465 1.329 10.33 2.392 5.455 2.08 9.662 5.166 12.62 9.256 2.958 4.091 4.438 9.234 4.438 15.428zm-43.266 14.768c3.883 0 7.176-.173 9.88-.52 2.704-.346 4.98-.866 6.83-1.56 3.42-1.294 5.79-3.062 7.107-5.304 1.317-2.242 1.976-4.819 1.976-7.731 0-2.496-.52-4.703-1.56-6.622-1.04-1.918-2.808-3.432-5.304-4.541-1.618-.74-3.652-1.283-6.102-1.63-2.45-.346-5.477-.52-9.083-.52h-12.134v28.428h8.39zm132.5 3.744c0-5.639-.692-10.573-2.08-14.803-1.386-4.23-3.304-7.754-5.754-10.574-2.45-2.82-5.362-4.922-8.736-6.31-3.375-1.386-7.073-2.08-11.094-2.08-4.022 0-7.72.694-11.094 2.08-3.374 1.388-6.286 3.49-8.736 6.31-2.45 2.82-4.368 6.345-5.755 10.574-1.387 4.23-2.08 9.164-2.08 14.803 0 5.64.693 10.574 2.08 14.804s3.305 7.742 5.755 10.539c2.45 2.796 5.362 4.9 8.736 6.31 3.374 1.41 7.072 2.114 11.094 2.114 4.021 0 7.72-.705 11.094-2.115 3.374-1.41 6.286-3.513 8.736-6.31 2.45-2.796 4.368-6.309 5.755-10.538 1.387-4.23 2.08-9.164 2.08-14.804zm17.543 0c0 7.073-1.005 13.556-3.016 19.45-2.011 5.893-4.946 10.966-8.806 15.218-3.86 4.253-8.598 7.558-14.214 9.915-5.616 2.358-12.006 3.537-19.171 3.537-7.165 0-13.555-1.18-19.172-3.537-5.616-2.357-10.354-5.662-14.213-9.915-3.86-4.252-6.795-9.325-8.806-15.219-2.01-5.893-3.016-12.376-3.016-19.449 0-7.072 1.005-13.555 3.016-19.448 2.01-5.894 4.946-10.967 8.806-15.22 3.86-4.252 8.597-7.557 14.213-9.915 5.617-2.357 12.007-3.536 19.172-3.536 7.165 0 13.555 1.179 19.171 3.536 5.616 2.358 10.354 5.663 14.214 9.915 3.86 4.253 6.795 9.326 8.806 15.22 2.01 5.893 3.016 12.376 3.016 19.448zm32.518-46.385h16.988v68.573c0 3.05-.22 5.674-.659 7.87-.44 2.195-1.098 4.125-1.976 5.79-1.156 2.218-2.612 4.101-4.368 5.65a23.444 23.444 0 01-5.963 3.813c-2.219.994-4.6 1.71-7.142 2.15-2.542.439-5.177.659-7.904.659-2.82 0-5.558-.232-8.216-.694-2.658-.462-4.888-1.063-6.691-1.803v-14.49a35.625 35.625 0 006.517 1.94c2.312.463 4.6.694 6.865.694 4.39 0 7.58-1.017 9.568-3.05 1.988-2.035 2.981-5.04 2.981-9.014v-68.088zm55.816 78.557h45.623V226h-62.61V133.23h60.114v14.214H349.13v23.99h37.025v14.214h-37.025v26.14zM412.78 226V133.23h16.988v42.225h.277l35.015-42.225h21.078l-38.69 45.97L489.33 226h-21.772l-37.511-41.879h-.277v41.88H412.78zm127.648 0H523.44v-78.557h-29.953v-14.214h76.825v14.214h-29.884V226zm43.057 0V133.23h16.988V226h-16.988zm77.102 0H643.6v-78.557h-29.954v-14.214h76.825v14.214h-29.884V226zm60.045-14.214h45.623V226h-62.61V133.23h60.114v14.214h-43.127v23.99h37.025v14.214h-37.025v26.14zM784.283 226V133.23h16.988v42.225h.277l35.014-42.225h21.079l-38.69 45.97L860.831 226h-21.772l-37.511-41.879h-.277v41.88h-16.988zm127.648 0h-16.988v-78.557H864.99v-14.214h76.824v14.214h-29.883V226zM300 34.19C114.632 34.118 17 85.044 17 116H0C0 80.047 86.884 12.282 300 12.282c213.116 0 300 67.765 300 103.718h-17c0-30.956-97.632-81.882-283-81.811z" fill="#203864"/></svg>
+
+      <div class="_name_8ix6as">Sylvia C. Schuster</div>
+      <div class="_title_8ix6as">M.A. Architektin</div>
+    </div>
+
+    <div class="_box_8ix6as _address-box_8ix6as">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="currentColor" class="_box-logo_8ix6as"><path d="M50 44.118c-7.377 0-13.279-5.883-13.279-13.236 0-7.353 5.902-13.235 13.279-13.235s13.279 5.882 13.279 13.235S57.377 44.118 50 44.118zM50 0C39.82 0 30.23 5 24.476 13.53c-5.754 8.382-6.935 19.117-3.246 28.676l14.016 30.882 12.098 25.294C47.787 99.412 48.82 100 50 100c1.18 0 2.213-.588 2.656-1.618l12.098-25.294L78.77 42.206c3.689-9.559 2.509-20.294-3.246-28.677C69.77 5 60.18 0 50 0z"/></svg>
+      <div class="_box-text_8ix6as">
+        Turpinstr. 19<br>
+        52066 Aachen
+      </div>
+    </div>
+
+    <div class="_box_8ix6as _mail-box_8ix6as">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="currentColor" class="_box-logo_8ix6as"><path d="M0 15.152v69.696h100V15.152zm51.75 43.436c-1 .995-2.5.995-3.5 0l-37-35.969h77.625zm-19.875-8.961L7.5 74.02V25.855zm3.625 3.485l9.375 9.085c1.5 1.37 3.375 2.116 5.25 2.116s3.75-.747 5.25-2.116l9.375-9.085L89 77.38H11.125zm32.625-3.485L92.5 25.979v47.917z"/></svg>
+      <div class="_box-text_8ix6as">
+        Schreiben Sie uns!<br>
+        <a href="mailto:mail@projektitekt.de">mail@projektitekt.de</a>
+      </div>
+    </div>
+
+    <div class="_box_8ix6as">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="currentColor" class="_box-logo_8ix6as"><path d="M39.036 26.487c1-1 1.624-2.373 1.624-3.873 0-1.499-.624-2.873-1.624-3.873L21.794 1.624c-1-1-2.373-1.624-3.748-1.624-1.374 0-2.873.625-3.873 1.624l-1.874 1.874 24.863 24.864zM64.15 70.592c-.5.5-1.25.75-1.875.75s-1.374-.25-1.874-.75l-30.985-30.86c-.5-.5-.75-1.25-.75-1.875 0-.624.25-1.374.75-1.874l3.873-3.748L8.426 7.372l-4.123 4.123c-2.5 2.374-3.999 5.497-4.123 8.87-.375 5.623 1 10.995 2.873 16.243 2 4.623 4.623 8.995 7.497 13.119 10.245 15.367 23.114 28.736 38.107 39.356 2.498 1.874 5.122 3.498 7.871 4.998 6.247 3.123 12.869 5.372 19.99 5.872 4.748.375 9.496-1.5 12.744-4.998l3.374-3.373-24.738-24.864zM98.383 78.213L81.141 60.971a5.48 5.48 0 00-3.873-1.624c-1.5 0-2.873.625-3.873 1.624l-1.874 1.999 24.863 24.864 1.874-1.875c1-1 1.624-2.374 1.624-3.873s-.5-2.874-1.499-3.873z"/></svg>
+      <div class="_box-text_8ix6as">
+        +49 (2402) 90 55 161<br>
+        +49 (151) 651 52 999
+      </div>
+    </div>
+  </div>
+
+  <div class="_bottom_8ix6as">
+    <div class="_bottom-content_8ix6as">
+      <div class="_copyright_8ix6as">
+        © Projektitekt 2019–2025
+      </div>
+
+      <ul class="_links_8ix6as">
+        <li><a href="/imprint" id="ember116" class="ember-view">Impressum</a></li>
+        <li><a href="/privacy" id="ember117" class="active ember-view">Datenschutz</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+<script type="x/boundary" id="fastboot-body-end"></script>
+
+    <script src="/assets/vendor-179ea980af01e3e79493ffbcb3eda475.js"></script>
+    <script src="/assets/projektitekt-efada3944c02fb08c0af2289a0c9ee91.js"></script>
+
+    
+  </body>
+</html>
