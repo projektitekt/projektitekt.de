@@ -11,7 +11,7 @@ Bitte kontaktieren Sie uns für Inhouse-Schulungen in Aachen, NRW und darüber h
 - **Lehrgang: Projektleitung im Planungsbüro** zweitägiger Lehrgang in Kooperation mit dem [IWW Institut](https://www.projektleitung-im-planungsbuero.de) am 20. und 21. April 2025 in Würzburg *(ausgebucht, aktuell Warteliste)*
 - **Projektmanagement und Projektsteuerung am Bau Vertiefung** Web-Seminar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=75397) am 28. April 2026, online (max. 30 Plätze)
 - **Projektmanagement und Projektsteuerung am Bau Grundlagen** Web-Seminar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=75396) am 14. April 2026, online (max. 30 Plätze)
-Meine weiteren Seminarangebote bei der Akademie der Architektenkammer NRW im Sommer 2026 (5. Mai, 22. Juni) entnehmen Sie bitte direkt dem [Seminarprogramm](https://www.aknw.de/berufspraxis/fort-und-weiterbildung/seminaruebersicht).
+<br>Meine weiteren Seminarangebote bei der Akademie der Architektenkammer NRW im Sommer 2026 (5. Mai, 22. Juni) entnehmen Sie bitte direkt dem [Seminarprogramm](https://www.aknw.de/berufspraxis/fort-und-weiterbildung/seminaruebersicht).
 
 **Vergangene Seminare**
 - **Projektmanagement Vertiefung** Webinar als Weiterbildung für Absolventen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/26001035/) am 21. Februar 2026, online
