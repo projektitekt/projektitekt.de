@@ -8,12 +8,15 @@ title: Fortbildungen für Planer am Bau
 **Unsere Schulungsformate**
 Bitte kontaktieren Sie uns für Inhouse-Schulungen in Aachen, NRW und darüber hinaus...
 
+- **Lehrgang: Projektleitung im Planungsbüro** zweitägiger Lehrgang in Kooperation mit dem [IWW Institut](https://www.projektleitung-im-planungsbuero.de) am 20. und 21. April 2025 in Würzburg *(ausgebucht, aktuell Warteliste)*
+- **Projektmanagement und Projektsteuerung am Bau Vertiefung** Web-Seminar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=75397) am 28. April 2026, online (max. 30 Plätze)
+- **Projektmanagement und Projektsteuerung am Bau Grundlagen** Web-Seminar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=75396) am 14. April 2026, online (max. 30 Plätze)
+Meine weiteren Seminarangebote bei der Akademie der Architektenkammer NRW im Sommer 2026 (5. Mai, 22. Juni) entnehmen Sie bitte direkt dem [Seminarprogramm](https://www.aknw.de/berufspraxis/fort-und-weiterbildung/seminaruebersicht).
+
+**Vergangene Seminare**
 - **Projektmanagement Vertiefung** Webinar als Weiterbildung für Absolventen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/26001035/) am 21. Februar 2026, online
 - **Grundlagen der Projektsteuerung** Webinar als Weiterbildung für Absolventen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/25001360/) am 2. Februar 2026, online
 - **Lehrgang: Projektleitung im Planungsbüro** zweitägiger Lehrgang in Kooperation mit dem [IWW Institut](https://www.projektleitung-im-planungsbuero.de) am 20. und 21. Januar 2025 in Würzburg *(ausgebucht, zweiter Termin in Planung)*
-
-**Vergangene Seminare**
-
 - **Projektmanagement Grundlagen** Webinar als Weiterbildung für Absolventen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/26001001/) am 10. Januar 2026, online
 - **Projektmanagement im Planungsbüro** Webinar als Gemeinschaftsveranstaltung der Architektenkammer und der [Ingenieurkammer Sachsen-Anhalt](https://www.ingak-st.de/o.red.r/weiterbildung-436--100-0-25-36-0-1.html) am 12. Dezember 2025, online
 - **Workshopreihe: Agile Arbeitsorganisation & zielorientierte Führung** vierteilige Workshopreihe in Kooperation mit [Elisa Lublasser](https://www.prozess-facetten.de/) - donnerstags im November 2025 von 18:30 bis 20 Uhr in Aachen (8 Punkte bei der AKNW beantragt). Details im [Flyer im PDF-Format](/contents/akademie/2025_Workshopreihe_work+.pdf) und Anmeldung [hier](https://forms.office.com/pages/responsepage.aspx?id=ODs6SO6Xo0WOJrNthtahK6WhY-PrI0xJjJmlSfkqWidUOFpPTjE3Q1pNQlJRVEZOS0VBOUIxM1RaSy4u&route=shorturl).
