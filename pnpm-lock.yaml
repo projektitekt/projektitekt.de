@@ -117,11 +117,11 @@ importers:
         specifier: 1.3.0
         version: 1.3.0(supports-color@7.2.0)
       '@glimmer/component':
-        specifier: 1.0.4
-        version: 1.0.4(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)
+        specifier: 1.1.2
+        version: 1.1.2(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)
       '@glimmer/tracking':
-        specifier: 1.0.4
-        version: 1.0.4
+        specifier: 1.1.2
+        version: 1.1.2
       babel-eslint:
         specifier: 10.1.0
         version: 10.1.0(eslint@6.8.0(supports-color@7.2.0))(supports-color@7.2.0)
@@ -784,12 +784,12 @@ packages:
     resolution: {integrity: sha512-nl/1zRn+Wd3MO8Bb+YPqHmFl/2vwQLTsEB6Zt+K9bWXsM/kA+dPCeeCReLN6PbkMP16xxqtNSIrQ8Y49hnWjpg==}
     engines: {node: 10.* || 12.* || >= 14}
 
-  '@glimmer/component@1.0.4':
-    resolution: {integrity: sha512-sS4N8wtcKfYdUJ6O3m8nbTut6NjErdz94Ap8VB1ekcg4WSD+7sI7Nmv6kt2rdPoe363nUdjUbRBzHNWhLzraBw==}
+  '@glimmer/component@1.1.2':
+    resolution: {integrity: sha512-XyAsEEa4kWOPy+gIdMjJ8XlzA3qrGH55ZDv6nA16ibalCR17k74BI0CztxuRds+Rm6CtbUVgheCVlcCULuqD7A==}
     engines: {node: 6.* || 8.* || >= 10.*}
 
   '@glimmer/di@0.1.11':
-    resolution: {integrity: sha1-poeMB6E6LCx2/N5ZilyXY3v8QoA=}
+    resolution: {integrity: sha512-moRwafNDwHTnTHzyyZC9D+mUSvYrs1Ak0tRPjjmCghdoHHIvMshVbEnwKb/1WmW5CUlKc2eL9rlAV32n3GiItg==}
 
   '@glimmer/encoder@0.42.2':
     resolution: {integrity: sha512-8xkdly0i0BP5HMI0suPB9ly0AnEq8x9Z8j3Gee1HYIovM5VLNtmh7a8HsaHYRs/xHmBEZcqtr8JV89w6F59YMQ==}
@@ -827,8 +827,8 @@ packages:
   '@glimmer/syntax@0.65.2':
     resolution: {integrity: sha512-cfAqRgka8EVhDgDJKu3d1WMOZLJu1H+tuOb4J4LutcbYRswLYkvPYED2UA8Bw6oekpN34GYFRzwb/JODAWNBpA==}
 
-  '@glimmer/tracking@1.0.4':
-    resolution: {integrity: sha512-F+oT8I55ba2puSGIzInmVrv/8QA2PcK1VD+GWgFMhF6WC97D+uZX7BFg+a3s/2N4FVBq5KHE+QxZzgazM151Yw==}
+  '@glimmer/tracking@1.1.2':
+    resolution: {integrity: sha512-cyV32zsHh+CnftuRX84ALZpd2rpbDrhLhJnTXn9W//QpqdRZ5rdMsxSY9fOsj0CKEc706tmEU299oNnDc0d7tA==}
 
   '@glimmer/util@0.42.2':
     resolution: {integrity: sha512-Heck0baFSaWDanCYtmOcLeaz7v+rSqI8ovS7twrp2/FWEteb3Ze5sWQ2BEuSAG23L/k/lzVwYM/MY7ZugxBpaA==}
@@ -2905,7 +2905,7 @@ packages:
     engines: {node: 6.* || 8.* || >= 10.*}
 
   ember-cli-get-component-path-option@1.0.0:
-    resolution: {integrity: sha1-DXtZVVni+QUKvtgE8djv8bCLx3E=}
+    resolution: {integrity: sha512-k47TDwcJ2zPideBCZE8sCiShSxQSpebY2BHcX2DdipMmBox5gsfyVrbKJWIHeSTTKyEUgmBIvQkqTOozEziCZA==}
 
   ember-cli-head@0.4.1:
     resolution: {integrity: sha512-MIgshw5nGil7Q/TU4SDRCsgsiA3wPC9WqOig/g1LlHTNXjR4vH7s/ddG7GTfK5Kt4ZQHJEUDXpd/lIbdBkIQ/Q==}
@@ -2935,21 +2935,21 @@ packages:
     engines: {node: 6.* || 8.* || >= 10.*}
 
   ember-cli-is-package-missing@1.0.0:
-    resolution: {integrity: sha1-bmGEyvuSY13ZPKbJRrEEKS1OM5A=}
+    resolution: {integrity: sha512-9hEoZj6Au5onlSDdcoBqYEPT8ehlYntZPxH8pBKV0GO7LNel88otSAQsCfXvbi2eKE+MaSeLG/gNaCI5UdWm9g==}
 
   ember-cli-lodash-subset@2.0.1:
     resolution: {integrity: sha1-IMtop5D+D94kiN39jvu332/nZvI=}
     engines: {node: ^4.5 || 6.* || >= 7.*}
 
   ember-cli-normalize-entity-name@1.0.0:
-    resolution: {integrity: sha1-CxT3vLxZmqEXtf3cgeT9A8S61bc=}
+    resolution: {integrity: sha512-rF4P1rW2P1gVX1ynZYPmuIf7TnAFDiJmIUFI1Xz16VYykUAyiOCme0Y22LeZq8rTzwBMiwBwoE3RO4GYWehXZA==}
 
   ember-cli-page-progress@2.0.0:
     resolution: {integrity: sha512-7UCK1U+MUeOzWpKI3hb4zAauYPRHT5jxXhL4iLsH/wwBzgQM60HCTGFHtuww29eW46ojBUqm0MUgSYWaY3zjNQ==}
     engines: {node: 10.* || >= 12}
 
   ember-cli-path-utils@1.0.0:
-    resolution: {integrity: sha1-Tjmvi1UwHN3FAXc5t3qAT7ogce0=}
+    resolution: {integrity: sha512-Qq0vvquzf4cFHoDZavzkOy3Izc893r/5spspWgyzLCPTaG78fM3HsrjZm7UWEltbXUqwHHYrqZd/R0jS08NqSA==}
 
   ember-cli-preprocess-registry@3.3.0:
     resolution: {integrity: sha512-60GYpw7VPeB7TvzTLZTuLTlHdOXvayxjAQ+IxM2T04Xkfyu75O2ItbWlftQW7NZVGkaCsXSRAmn22PG03VpLMA==}
@@ -2959,7 +2959,7 @@ packages:
     engines: {node: '>= 0.10.0'}
 
   ember-cli-string-utils@1.1.0:
-    resolution: {integrity: sha1-ObZ3/CgF9VFzc1N2/O8njqpEUqE=}
+    resolution: {integrity: sha512-PlJt4fUDyBrC/0X+4cOpaGCiMawaaB//qD85AXmDRikxhxVzfVdpuoec02HSiTGTTB85qCIzWBIh8lDOiMyyFg==}
 
   ember-cli-test-info@1.0.0:
     resolution: {integrity: sha1-7U6WDySel1I8+JHkrtIHLOhFd7Q=}
@@ -7902,7 +7902,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@glimmer/component@1.0.4(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)':
+  '@glimmer/component@1.1.2(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)':
     dependencies:
       '@glimmer/di': 0.1.11
       '@glimmer/env': 0.1.7
@@ -7985,7 +7985,7 @@ snapshots:
       '@handlebars/parser': 1.1.0
       simple-html-tokenizer: 0.5.11
 
-  '@glimmer/tracking@1.0.4':
+  '@glimmer/tracking@1.1.2':
     dependencies:
       '@glimmer/env': 0.1.7
       '@glimmer/validator': 0.44.0
