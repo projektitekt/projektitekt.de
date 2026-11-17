@@ -8,6 +8,13 @@ on:
   schedule:
     - cron:  '0 3 * * *' # daily, at 3am
 
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
 jobs:
   lint:
     name: Linting
