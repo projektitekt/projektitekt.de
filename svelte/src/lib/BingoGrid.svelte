@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
-	import { shuffle } from '#lib/bingo.js';
+	import { hasBingo, shuffle } from '#lib/bingo.js';
+	import { celebrate, loadConfetti } from '#lib/confetti.js';
 
 	const LABELS = [
 		'„Hallo? Halloooo?“',
@@ -26,11 +27,17 @@
 	let order = $state(LABELS.map((_, label) => label));
 	let marked = $state(LABELS.map(() => false));
 	let textVisible = $state(false);
+	const won = $derived(hasBingo(marked));
 
 	// The prerendered order stays hidden until the browser has shuffled it.
 	onMount(() => {
 		order = shuffle(order);
 		textVisible = true;
+		void loadConfetti();
+	});
+
+	$effect(() => {
+		if (won) return celebrate();
 	});
 </script>
 
