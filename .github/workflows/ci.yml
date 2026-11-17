@@ -28,8 +28,8 @@ jobs:
       - uses: pnpm/action-setup@73e46992e05b19abd31f2f3c20e0e7370d762115 # v6.1.1
 
       - run: pnpm install --frozen-lockfile
-      - run: pnpm --filter ./svelte lint
-      - run: pnpm --filter ./svelte check
+      - run: pnpm lint
+      - run: pnpm check
 
   test:
     name: Tests
@@ -43,7 +43,7 @@ jobs:
       - uses: pnpm/action-setup@73e46992e05b19abd31f2f3c20e0e7370d762115 # v6.1.1
 
       - run: pnpm install --frozen-lockfile
-      - run: pnpm --filter ./svelte test
-      - run: pnpm --filter ./svelte build
-      - run: pnpm --filter ./svelte exec playwright install --with-deps chromium
-      - run: pnpm --filter ./svelte test:smoke
+      - run: pnpm test
+      - run: pnpm build
+      - run: pnpm exec playwright install --with-deps chromium
+      - run: pnpm test:smoke

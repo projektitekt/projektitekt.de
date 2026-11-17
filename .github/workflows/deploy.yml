@@ -25,11 +25,11 @@ jobs:
       - uses: pnpm/action-setup@73e46992e05b19abd31f2f3c20e0e7370d762115 # v6.1.1
 
       - run: pnpm install --frozen-lockfile
-      - run: pnpm --filter ./svelte build
+      - run: pnpm build
 
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
-          path: svelte/build
+          path: build
 
   deploy:
     name: Deploy

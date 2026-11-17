@@ -12,12 +12,11 @@ export default defineConfig({
 			},
 			adapter: adapter(),
 			// The site owner uploads files to the repository's `public/` directory.
-			files: { assets: '../public' },
+			files: { assets: 'public' },
 			// `404.html` is served for missing URLs at any depth, so asset URLs must be root-relative.
 			paths: { origin: 'https://projektitekt.de', relative: false }
 		})
 	],
-	server: { fs: { allow: ['../content'] } },
 	test: {
 		expect: { requireAssertions: true },
 		projects: [

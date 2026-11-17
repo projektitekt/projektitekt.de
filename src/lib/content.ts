@@ -28,7 +28,7 @@ export function parsePage(path: string, source: string): Page {
 	return { title: result.output.title, html };
 }
 
-const sources = import.meta.glob<string>('../../../content/*.md', {
+const sources = import.meta.glob<string>('/content/*.md', {
 	query: '?raw',
 	import: 'default',
 	eager: true
