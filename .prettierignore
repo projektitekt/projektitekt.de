@@ -6,7 +6,6 @@ bun.lock
 bun.lockb
 
 
-# Owner content and captured snapshots
+# Owner content
 /content/
 /static/
-/tests/baseline/

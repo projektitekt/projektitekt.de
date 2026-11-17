@@ -29,18 +29,17 @@ pnpm install
 pnpm dev
 ```
 
-| Command                       | Purpose                                                        |
-| ----------------------------- | -------------------------------------------------------------- |
-| `pnpm build`                  | Build the static site into `build/`                            |
-| `pnpm preview`                | Serve the build locally                                        |
-| `pnpm lint`                   | Check formatting with Prettier and run ESLint                  |
-| `pnpm format`                 | Format all files with Prettier                                 |
-| `pnpm check`                  | Type-check with `svelte-check`                                 |
-| `pnpm test`                   | Run the unit tests with Vitest                                 |
-| `pnpm test:smoke`             | Run the Playwright smoke tests against `build/`                |
-| `pnpm snapshot compare <url>` | Compare a running site with the snapshots in `tests/baseline/` |
+| Command           | Purpose                                         |
+| ----------------- | ----------------------------------------------- |
+| `pnpm build`      | Build the static site into `build/`             |
+| `pnpm preview`    | Serve the build locally                         |
+| `pnpm lint`       | Check formatting with Prettier and run ESLint   |
+| `pnpm format`     | Format all files with Prettier                  |
+| `pnpm check`      | Type-check with `svelte-check`                  |
+| `pnpm test`       | Run the unit tests with Vitest                  |
+| `pnpm test:smoke` | Run the Playwright smoke tests against `build/` |
 
-The smoke tests and the snapshot script need Chromium, which `pnpm exec playwright install chromium` downloads once.
+The smoke tests need Chromium, which `pnpm exec playwright install chromium` downloads once.
 
 ## Deployment
 
