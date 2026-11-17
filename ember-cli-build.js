@@ -31,7 +31,6 @@ module.exports = function(defaults) {
         '/beratung',
         '/bingo',
         '/imprint',
-        '/news',
         '/presse',
         '/privacy',
         '/referenzen',
