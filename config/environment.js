@@ -1,10 +1,6 @@
 'use strict';
 
-const getRepoInfo = require('git-repo-info');
-
 module.exports = function(environment) {
-  let { abbreviatedSha } = getRepoInfo();
-
   let ENV = {
     modulePrefix: 'projektitekt',
     environment,
@@ -28,14 +24,7 @@ module.exports = function(environment) {
 
     fastboot: {
       hostWhitelist: ['projektitekt.de', /^localhost:\d+$/]
-    },
-
-    sentry: {
-      enabled: false,
-      environment,
-      dsn: 'https://45bb93af3b9f4070986722f65d768302@o379737.ingest.sentry.io/5204937',
-      release: abbreviatedSha,
-    },
+    }
   };
 
   if (environment === 'development') {
@@ -56,10 +45,6 @@ module.exports = function(environment) {
 
     ENV.APP.rootElement = '#ember-testing';
     ENV.APP.autoboot = false;
-  }
-
-  if (environment === 'production') {
-    ENV.sentry.enabled = true;
   }
 
   return ENV;
