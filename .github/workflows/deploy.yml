@@ -13,22 +13,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@0717577d45739eb3c851188b29f50ed6c0b2194e # v2.8.0
         with:
           persist-credentials: false
 
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@f1f314fca9dfce2769ece7d933488f076716723e # v1.4.6
         with:
           node-version: 12.x
 
-      - uses: pnpm/action-setup@v2.0.0
+      - uses: pnpm/action-setup@3236b209b507b249883918e7c4c8c7cdd2c0d5db # v2.0.0
         with:
           version: 6.0.1
 
       - run: pnpm install --frozen-lockfile
       - run: pnpm build
 
-      - uses: JamesIves/github-pages-deploy-action@4.1.7
+      - uses: JamesIves/github-pages-deploy-action@6ce741f5d4e01e15f9ea5ec96df1a43f522c330f # 4.1.7
         with:
           branch: gh-pages
           folder: dist
