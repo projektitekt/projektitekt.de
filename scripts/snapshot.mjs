@@ -132,7 +132,7 @@ function normalizeBody() {
 	while (comments.nextNode()) commentNodes.push(comments.currentNode);
 	for (const comment of commentNodes) comment.remove();
 
-	// Inline SVG markup is copied from the files in `static/svg-jar/` and only adds noise.
+	// Inline SVG markup only adds noise.
 	for (const svg of body.querySelectorAll('svg')) svg.replaceChildren();
 
 	for (const element of [body, ...body.querySelectorAll('*')]) {
