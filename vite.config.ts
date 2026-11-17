@@ -11,8 +11,6 @@ export default defineConfig({
 					filename.split(/[/\\]/).includes('node_modules') ? undefined : true
 			},
 			adapter: adapter(),
-			// The site owner uploads files to the repository's `public/` directory.
-			files: { assets: 'public' },
 			// `404.html` is served for missing URLs at any depth, so asset URLs must be root-relative.
 			paths: { origin: 'https://projektitekt.de', relative: false }
 		})

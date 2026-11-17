@@ -8,5 +8,5 @@ bun.lockb
 
 # Owner content and captured snapshots
 /content/
-/public/
+/static/
 /tests/baseline/
