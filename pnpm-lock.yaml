@@ -183,8 +183,8 @@ importers:
         specifier: 4.1.0
         version: 4.1.0(supports-color@7.2.0)
       ember-load-initializers:
-        specifier: 2.1.2
-        version: 2.1.2(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)
+        specifier: 3.0.1
+        version: 3.0.1(ember-source@3.17.3(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0))
       ember-maybe-import-regenerator:
         specifier: 0.1.6
         version: 0.1.6(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)
@@ -664,11 +664,6 @@ packages:
 
   '@babel/plugin-transform-typescript@7.13.0':
     resolution: {integrity: sha512-elQEwluzaU8R8dbVuW2Q2Y8Nznf7hnjM7+DSCd14Lo5fF63C9qNLbwZYbmZrtV9/ySpSUpkRpQXvJb6xyu4hCQ==}
-    peerDependencies:
-      '@babel/core': ^7.0.0-0
-
-  '@babel/plugin-transform-typescript@7.4.5':
-    resolution: {integrity: sha512-RPB/YeGr4ZrFKNwfuQRlMf2lxoCUaU01MTw39/OFE/RiL8HDjtn68BwEPft1P7JN4akyEmjGWAMNldOV7o9V2g==}
     peerDependencies:
       '@babel/core': ^7.0.0-0
 
@@ -2972,10 +2967,6 @@ packages:
     resolution: {integrity: sha512-mlSXX9SciIRwGkFTX6XGyJYp4ry6oCFZRxh5jJ7VH8UXLTNx2ZACtDTwaWtNhYrWXgKyiDUvmD8enD56aePWRA==}
     engines: {node: '>= 4.0'}
 
-  ember-cli-typescript@2.0.2:
-    resolution: {integrity: sha512-7I5azCTxOgRDN8aSSnJZIKSqr+MGnT+jLTUbBYqF8wu6ojs2DUnTePxUcQMcvNh3Q3B1ySv7Q/uZFSjdU9gSjA==}
-    engines: {node: 6.* || 8.* || >= 10.*}
-
   ember-cli-typescript@3.0.0:
     resolution: {integrity: sha512-lo5YArbJzJi5ssvaGqTt6+FnhTALnSvYVuxM7lfyL1UCMudyNJ94ovH5C7n5il7ATd6WsNiAPRUO/v+s5Jq/aA==}
     engines: {node: 8.* || >= 10.*}
@@ -3041,9 +3032,11 @@ packages:
     resolution: {integrity: sha512-fngrwMsnhkBt51KZgwNwQYxgURwV4lxtoHdjxf7RueGZ5zM7frJLevhHw7pbQNGqXZ3N+MRkhfNOLkdDK9kFdA==}
     engines: {node: ^4.5 || 6.* || >= 7.*}
 
-  ember-load-initializers@2.1.2:
-    resolution: {integrity: sha512-CYR+U/wRxLbrfYN3dh+0Tb6mFaxJKfdyz+wNql6cqTrA0BBi9k6J3AaKXj273TqvEpyyXegQFFkZEiuZdYtgJw==}
-    engines: {node: 6.* || 8.* || >= 10.*}
+  ember-load-initializers@3.0.1:
+    resolution: {integrity: sha512-qV3vxJKw5+7TVDdtdLPy8PhVsh58MlK8jwzqh5xeOwJPNP7o0+BlhvwoIlLYTPzGaHdfjEIFCgVSyMRGd74E1g==}
+    engines: {node: '>= 18.*'}
+    peerDependencies:
+      ember-source: '>= 5'
 
   ember-maybe-import-regenerator@0.1.6:
     resolution: {integrity: sha512-aX9UINiUXIjzsCNNna1ioASB/2lbnFgSHI63bBcd4MOVE9AqoLdOL7h+ocyylYXyYoBj2JDRwCzjWNf2Xbp5wg==}
@@ -7528,12 +7521,6 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@babel/plugin-transform-typescript@7.4.5(@babel/core@7.13.15(supports-color@7.2.0))':
-    dependencies:
-      '@babel/core': 7.13.15(supports-color@7.2.0)
-      '@babel/helper-plugin-utils': 7.13.0
-      '@babel/plugin-syntax-typescript': 7.12.13(@babel/core@7.13.15(supports-color@7.2.0))
-
   '@babel/plugin-transform-typescript@7.5.5(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)':
     dependencies:
       '@babel/core': 7.13.15(supports-color@7.2.0)
@@ -11047,24 +11034,6 @@ snapshots:
       - '@babel/core'
       - supports-color
 
-  ember-cli-typescript@2.0.2(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0):
-    dependencies:
-      '@babel/plugin-proposal-class-properties': 7.13.0(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)
-      '@babel/plugin-transform-typescript': 7.4.5(@babel/core@7.13.15(supports-color@7.2.0))
-      ansi-to-html: 0.6.14
-      debug: 4.3.1(supports-color@7.2.0)
-      ember-cli-babel-plugin-helpers: 1.1.1
-      execa: 1.0.0
-      fs-extra: 7.0.1
-      resolve: 1.20.0
-      rsvp: 4.8.5
-      semver: 6.3.0
-      stagehand: 1.0.0(supports-color@7.2.0)
-      walk-sync: 1.1.4
-    transitivePeerDependencies:
-      - '@babel/core'
-      - supports-color
-
   ember-cli-typescript@3.0.0(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0):
     dependencies:
       '@babel/plugin-transform-typescript': 7.5.5(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)
@@ -11376,13 +11345,9 @@ snapshots:
       - '@babel/core'
       - supports-color
 
-  ember-load-initializers@2.1.2(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0):
+  ember-load-initializers@3.0.1(ember-source@3.17.3(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)):
     dependencies:
-      ember-cli-babel: 7.26.3(supports-color@7.2.0)
-      ember-cli-typescript: 2.0.2(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)
-    transitivePeerDependencies:
-      - '@babel/core'
-      - supports-color
+      ember-source: 3.17.3(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)
 
   ember-maybe-import-regenerator@0.1.6(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0):
     dependencies:
