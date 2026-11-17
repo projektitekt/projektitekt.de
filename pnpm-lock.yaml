@@ -156,8 +156,8 @@ importers:
         specifier: 4.5.0
         version: 4.5.0(supports-color@7.2.0)
       ember-cli-inject-live-reload:
-        specifier: 2.0.2
-        version: 2.0.2
+        specifier: 2.1.0
+        version: 2.1.0
       ember-cli-page-progress:
         specifier: 2.0.0
         version: 2.0.0(supports-color@7.2.0)
@@ -2934,8 +2934,8 @@ packages:
     resolution: {integrity: sha512-bYJpK1pqFu9AadDAGTw05g2LMNzY8xTCIqQm7dMJmKEoUpLRFbPf4SfHXrktzDh7Q5iggl6Skzf1M0bPlIxARw==}
     engines: {node: 8.* || 10.* || >= 12.*}
 
-  ember-cli-inject-live-reload@2.0.2:
-    resolution: {integrity: sha512-HDD6o/kBHT/kUtazklU0OW23q2jigIN42QmcpFdXUSvJ2/2SYA6yIqSUxWfJgISmtn5gTNZ2KPq1p3dLkhJxSQ==}
+  ember-cli-inject-live-reload@2.1.0:
+    resolution: {integrity: sha512-YV5wYRD5PJHmxaxaJt18u6LE6Y+wo455BnmcpN+hGNlChy2piM9/GMvYgTAz/8Vin8RJ5KekqP/w/NEaRndc/A==}
     engines: {node: 6.* || 8.* || >= 10.*}
 
   ember-cli-is-package-missing@1.0.0:
@@ -10995,7 +10995,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  ember-cli-inject-live-reload@2.0.2:
+  ember-cli-inject-live-reload@2.1.0:
     dependencies:
       clean-base-url: 1.0.0
       ember-cli-version-checker: 3.1.3
