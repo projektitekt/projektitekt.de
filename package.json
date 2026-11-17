@@ -59,7 +59,7 @@
     "eslint-plugin-ember": "7.13.0",
     "eslint-plugin-node": "11.1.0",
     "loader.js": "4.7.0",
-    "memory-scroll": "1.0.0",
+    "memory-scroll": "1.0.2",
     "npm-run-all": "4.1.5",
     "postcss-nested": "4.2.3",
     "prember": "1.0.5",

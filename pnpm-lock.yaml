@@ -222,8 +222,8 @@ importers:
         specifier: 4.7.0
         version: 4.7.0
       memory-scroll:
-        specifier: 1.0.0
-        version: 1.0.0(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)
+        specifier: 1.0.2
+        version: 1.0.2(supports-color@7.2.0)
       node:
         specifier: runtime:^22
         version: runtime:22.23.5
@@ -4687,8 +4687,8 @@ packages:
     resolution: {integrity: sha512-jA0rdU5KoQMC0e6ppoNRtpp6vjFq6+NY7r8hywnC7V+1Xj/MtHwGIbB1QaK/dunyjWteJzmkpd7ooeWg10T7GA==}
     engines: {node: '>=4.3.0 <5.0.0 || >=5.10'}
 
-  memory-scroll@1.0.0:
-    resolution: {integrity: sha512-dWN0ItndqYhCu2Tch7hzFaZMmYNyOJORNbOd+cMMu7BRlsxozYMKXjJFK559dm37qlIEquweuwVaktboYviFNw==}
+  memory-scroll@1.0.2:
+    resolution: {integrity: sha512-R88p0Mv/ih491do3iyDCD1nwufEwPa6XtnRFe44G1ML7rifR3IqzHBjzFHP33vhWQWDcnxOWj6JXjhZlDHbzyg==}
     engines: {node: ^4.5 || 6.* || >= 7.*}
 
   memory-streams@0.1.3:
@@ -13463,11 +13463,10 @@ snapshots:
       errno: 0.1.8
       readable-stream: 2.3.7
 
-  memory-scroll@1.0.0(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0):
+  memory-scroll@1.0.2(supports-color@7.2.0):
     dependencies:
-      ember-cli-babel: 6.18.0(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)
+      ember-cli-babel: 7.26.3(supports-color@7.2.0)
     transitivePeerDependencies:
-      - '@babel/core'
       - supports-color
 
   memory-streams@0.1.3:
