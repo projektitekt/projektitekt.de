@@ -3,7 +3,7 @@ title: Vita
 ---
 
 ## Vita Sylvia C. Schuster
-![Sylvia C. Schuster](/contents/scs_erklaert.png)
+![Sylvia C. Schuster](/contents/scs_erklaert.webp)
 - **Inhaberin Projektitekt** <br>
   seit 2023 Systemischer Coach <br>
   seit 2020 Dozentin Baumanagement <br>
@@ -19,7 +19,7 @@ title: Vita
   Studiengang Smart Building Engineering, Bachelor 4. Semester<br>
   Interimsweise Verantwortliche für das Modul "Baumanagement und Baurecht"<br><br>
   
-  ![Sylvia C. Schuster und Petra Kirschgens](/contents/scs_pk.png)
+  ![Sylvia C. Schuster und Petra Kirschgens](/contents/scs_pk.webp)
   - **Ehrenamtliche Tätigkeiten** <br>
   seit 2024 Mitglied im erweiterten Vorstand der Bezirksgruppe Aachen des [Bund Deutscher Baumeister e.V.](https://www.baumeister-online.de/landesverband/nordrhein-westfalen/aachen/)<br>
   seit 2023 Sprecherin der Fokusgruppe "Planen und Bauen - Digitale Prozesse" - Kooperation von [Aachen Building Experts e.V.](https://aachenbuildingexperts.de/) und [digitalHub e.V.](https://aachen.digital/)<br>
@@ -28,7 +28,7 @@ title: Vita
   seit 2018 Geschäftsführerin / seit 2021 Vorsitzende Luftsportverein Aachen e.V. <br>
   seit 2019 Segelfluglehrerin  Luftsportverein Aachen e.V.<br><br>
   
-![Sylvia C. Schuster ist ehrenamtlich Segelfluglehrerin und Vorsitzende des LVA](/contents/scs_ehrenamt.png)
+![Sylvia C. Schuster ist ehrenamtlich Segelfluglehrerin und Vorsitzende des LVA](/contents/scs_ehrenamt.webp)
 
 - **Angestellte Planerin, Bauleiterin und Projektmanagerin** <br>
   2008-2019 in verschiedenen Planungsbüros <br>
