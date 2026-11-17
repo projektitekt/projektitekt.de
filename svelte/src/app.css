@@ -1,0 +1,84 @@
+:root {
+	--blue900: #082d3a;
+	--blue800: #203864;
+	--blue700: #2f5597;
+	--blue400: #8faadc;
+	--blue300: #b4c7e7;
+	--blue200: #dae3f3;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background: var(--blue800);
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	font-family: 'Corbel', sans-serif;
+	background: white;
+	color: var(--blue900);
+}
+
+a {
+	color: var(--blue800);
+}
+
+h1.title {
+	max-width: 80%;
+	margin: 45px 0 35px;
+	text-align: center;
+	font-size: 34px;
+	color: var(--blue800);
+
+	@media only screen and (max-width: 360px) {
+		font-size: 32px;
+	}
+}
+
+.content {
+	width: 600px;
+	max-width: 80%;
+	min-height: calc(100vh - 640px);
+	margin-bottom: 55px;
+}
+
+.content p {
+	margin: 0 0 16px;
+
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.content ul {
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.content ul > li {
+	margin-bottom: 4px;
+}
+
+.content p:last-child {
+	margin-bottom: 0;
+}
+
+.content img {
+	max-width: 100%;
+}
+
+.content.home {
+	display: flex;
+	width: 800px;
+
+	@media only screen and (max-width: 640px) {
+		flex-direction: column-reverse;
+	}
+}
