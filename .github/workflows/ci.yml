@@ -47,3 +47,5 @@ jobs:
       - run: pnpm test
       - run: pnpm --filter ./svelte test
       - run: pnpm --filter ./svelte build
+      - run: pnpm --filter ./svelte exec playwright install --with-deps chromium
+      - run: pnpm --filter ./svelte test:smoke
