@@ -22,7 +22,7 @@ body {
 	flex-direction: column;
 	align-items: center;
 
-	font-family: 'Corbel', sans-serif;
+	font-family: 'Cabin Variable', sans-serif;
 	background: white;
 	color: var(--blue900);
 }
