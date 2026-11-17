@@ -1,7 +1,2 @@
 packages:
   - svelte
-
-allowBuilds:
-  core-js: false
-  fsevents: false
-  phantomjs-prebuilt: false

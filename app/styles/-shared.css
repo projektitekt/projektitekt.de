@@ -1,9 +1,0 @@
-.separator {
-  width: 85%;
-  max-width: 800px;
-  height: 1px;
-  border-width: 0;
-  margin: 0;
-
-  background: var(--blue800);
-}
