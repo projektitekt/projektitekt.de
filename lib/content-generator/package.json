@@ -4,6 +4,6 @@
     "ember-addon"
   ],
   "dependencies": {
-    "broccoli-static-site-json": "*"
+    "broccoli-static-site-json": "5.0.0"
   }
 }
