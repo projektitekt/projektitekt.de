@@ -29,6 +29,8 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
       - run: pnpm lint
+      - run: pnpm --filter ./svelte lint
+      - run: pnpm --filter ./svelte check
 
   test:
     name: Tests
@@ -43,3 +45,5 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
       - run: pnpm test
+      - run: pnpm --filter ./svelte test
+      - run: pnpm --filter ./svelte build
