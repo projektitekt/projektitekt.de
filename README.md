@@ -1,58 +1,47 @@
-# projektitekt
+# projektitekt.de
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+The website of [Projektitekt](https://projektitekt.de), built with [SvelteKit](https://svelte.dev/docs/kit) as a fully prerendered static site and deployed to GitHub Pages.
 
-## Prerequisites
+## Editing content
 
-You will need the following things properly installed on your computer.
+Every page except the bingo game is a Markdown file in `content/`. The file name becomes the URL, so `content/vita.md` is published at `/vita/`, and a new file becomes a new page. `content/_index.md` is the home page.
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/)
-- [pnpm](https://pnpm.io/)
-- [Ember CLI](https://ember-cli.com/)
-- [Google Chrome](https://google.com/chrome/)
+Each file starts with a frontmatter block that sets the page title:
 
-## Installation
+```markdown
+---
+title: Vita
+---
 
-- `git clone <repository-url>` this repository
-- `cd projektitekt`
-- `pnpm install`
+The page content in Markdown. Raw HTML is allowed.
+```
 
-## Running / Development
+Images, PDFs and other files go into `static/contents/` and are linked as `/contents/<file>`. Everything else in `static/` is also published unchanged.
 
-- `ember serve`
-- Visit your app at [http://localhost:4200](http://localhost:4200).
-- Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
+Links to other pages are checked during the build, so a link to a page or file that does not exist fails the deployment.
 
-### Code Generators
+## Development
 
-Make use of the many generators for code, try `ember help generate` for more details
+[pnpm](https://pnpm.io/) installs the required Node.js version automatically.
 
-### Running Tests
+```sh
+pnpm install
+pnpm dev
+```
 
-- `ember test`
-- `ember test --server`
+| Command                       | Purpose                                                        |
+| ----------------------------- | -------------------------------------------------------------- |
+| `pnpm build`                  | Build the static site into `build/`                            |
+| `pnpm preview`                | Serve the build locally                                        |
+| `pnpm lint`                   | Check formatting with Prettier and run ESLint                  |
+| `pnpm format`                 | Format all files with Prettier                                 |
+| `pnpm check`                  | Type-check with `svelte-check`                                 |
+| `pnpm test`                   | Run the unit tests with Vitest                                 |
+| `pnpm test:smoke`             | Run the Playwright smoke tests against `build/`                |
+| `pnpm snapshot compare <url>` | Compare a running site with the snapshots in `tests/baseline/` |
 
-### Linting
+The smoke tests and the snapshot script need Chromium, which `pnpm exec playwright install chromium` downloads once.
 
-- `pnpm lint:hbs`
-- `pnpm lint:js`
-- `pnpm lint:js --fix`
+## Deployment
 
-### Building
-
-- `ember build` (development)
-- `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-- [ember.js](https://emberjs.com/)
-- [ember-cli](https://ember-cli.com/)
-- Development Browser Extensions
-  - [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  - [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+Every push to `master` builds the site and deploys it to GitHub Pages through `.github/workflows/deploy.yml`.
