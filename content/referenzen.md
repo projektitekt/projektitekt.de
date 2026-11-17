@@ -25,7 +25,7 @@ Im Folgenden erfahren Sie mehr über unsere Kunden und Kooperationspartner, mit 
 - **Lehrauftrag Baumanagement in den Studiengängen Architektur und Smart Building Engineering**<br>
   [Fachhochschule Aachen](https://www.fh-aachen.de/menschen/sschuster), Aachen.
   
-![Workshop mit Projektitekt](/contents/projektitekt_workshop.jpg)
+![Workshop mit Projektitekt](/contents/projektitekt_workshop.webp)
 <br><br>
 
 - **Schulungen Building Information Modeling (BIM)**<br>

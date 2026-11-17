@@ -3,7 +3,7 @@ title: Projektitekt macht Planungsbüros effizient
 ---
 
 **Projektitekt unterstützt Architektur-, Ingenieur- und Planungsbüros durch Schulungen im Projektmanagement, Organisationsberatung und Coaching.**<br><br>
-![Das Angebot von Projektitekt: Schulungen, Beratung und Coaching](/contents/index/schulung-beratung-coaching.png)<br><br>
+![Das Angebot von Projektitekt: Schulungen, Beratung und Coaching](/contents/index/schulung-beratung-coaching.webp)<br><br>
 Ich unterstütze Architektur-, Planungs- und Ingenieurbüros bei der Optimierung ihrer Büro- und Projektorganisation. Mein Ansatz fußt auf drei Säulen:
 - Beratung: Klarheit in der Aufbauorganisation und Verbesserung der Büro- und Projektabläufe
 - Schulung: Qualifizierung der Mitarbeitenden, insbesondere im Bereich Projektmanagement/Projektleitung
@@ -13,7 +13,7 @@ Ich unterstütze Architektur-, Planungs- und Ingenieurbüros bei der Optimierung
 Gemeinsam mit meinen Kunden decke ich bislang ungenutzte Potenziale auf und unterstütze sie dabei, Klarheit zu schaffen – für Unternehmensführung, Mitarbeitende und Kunden. 
 
 Meine Expertise basiert auf einer [langjährigen Tätigkeit](/vita) in Planung, Bauleitung und Projektmanagement. Ich weiß, wie Planungs- und Bauprojekte laufen und welchen Herausforderungen sich kleine und mittlere Planungsbüros tagtäglich stellen. Aus meiner Erfahrung heraus habe ich einen praxisnahen Schulungs- und Beratungsansatz entwickelt. <br><br>
-![USP Projektitekt](/contents/USP_Projektitekt.PNG) <br>
+![USP Projektitekt](/contents/USP_Projektitekt.webp) <br>
 
 Gerne führe ich mit Ihnen ein unverbindliches und kostenfreies Erstgespräch um herauszufinden, wie ich Sie am besten unterstützen kann.
 <br>Rufen Sie mich an unter +49 (151) 651 52 999 oder schreiben Sie eine [E-Mail](mailto:mail@projektitekt.de).

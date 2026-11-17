@@ -1,7 +1,7 @@
 ---
 title: Neuigkeiten & Pressespiegel
 ---
-<img src="/contents/AZ1.jpg" alt="Aachener Zeitung vom 02.06.2020" style="border: black solid 1px;"> 
+<img src="/contents/AZ1.webp" alt="Aachener Zeitung vom 02.06.2020" style="border: black solid 1px;"> 
 
 Einige visuelle Eindrücke von Projektitekt gibt es auch bei [Instagram](https://www.instagram.com/projektitekt.de/). 
 
@@ -94,7 +94,7 @@ Interview ALLPLAN:
 - **« Ausgezeichnete Ideen, aus denen noch viel mehr werden kann »**<br>
   Artikel in den [Wirtschaftlichen Nachrichten](/contents/2020-04_Wirtschaftliche_Nachrichten_Gruendungswettbewerb.pdf) (PDF 0,3 MB), 04.2020.
 
-<img src="/contents/200508_baumeister_news.jpg" alt="Baumeister News vom 08.05.2020" style="border: black solid 1px;">
+<img src="/contents/200508_baumeister_news.webp" alt="Baumeister News vom 08.05.2020" style="border: black solid 1px;">
 
 - **« Innovation aus Tradition: Standorterweiterung für Arzneimittelhersteller in fünfter Generation »**<br>
   Fachartikel in der [Reinraumtechnik](https://www.reinraum.de/news.html?id=5298), 03.2019.

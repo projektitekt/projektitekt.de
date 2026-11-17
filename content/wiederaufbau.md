@@ -70,7 +70,7 @@ Nach mehreren Tagen Unterstützung in einer Notunterkunft, Ausräumen diverser K
 **Initiative zur Unterstützung des Wiederaufbaus nach dem Hochwasser am 14./15. Juli 2021 in der Städteregion Aachen**<br>
 Wir vermitteln Baufachleute, Planer und ausführende Unternehmen, die beim Wiederaufbau von Gebäuden unterstützen möchten.<br><br>
 *Anregungen und Rückfragen gerne an [wiederaufbau@projektitekt.de](mailto:wiederaufbau@projektitekt.de).*
-![Unterstützung](/contents/hochwasser_patenschaft.png)
+![Unterstützung](/contents/hochwasser_patenschaft.webp)
 
 **Ziel**
 Wir möchten Menschen in Aachen, Eschweiler, Stolberg und der Region Nordeifel dabei unterstützen, ihre Häuser möglichst bald wieder bewohnbar zu machen. Unsere Initiative dient der Koordination und Vermittlung zwischen Betroffenen und Helfern der Planungs- und Baubranche.
@@ -85,14 +85,14 @@ Architekten, Ingenieure, Fachplaner, Handwerker, Bauunternehmen und Privatperson
 Über das **[Formular für Unterstützer](https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link)** kannst du mitteilen, in welchen Bereichen und in welchem Umfang du unterstützen kannst und möchtest. Wir sprechen an dieser Stelle primär die Bau- und Planungsbranche an - aber natürlich freuen wir uns auch über jedes andere Hilfsangebot.
 <br><br>
 [![Formular Helfer][1]][2]
-[1]: /contents/form_helfer.png
+[1]: /contents/form_helfer.webp
 [2]: https://docs.google.com/forms/d/e/1FAIpQLScnLdA8_0LHcyk_jTBBXC2L4BCWFkmLCbIaZgqWjpX8B5Vdfw/viewform?usp=sf_link
 
 **Du bist selbst betroffen?**<br>
 Du wohnst in der Städteregion Aachen oder der näheren Umgebung, bist vom Hochwasser betroffen und benötigst Unterstützung beim Wiederaufbau? Fülle das<br>**[Formular für Betroffene](https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link)** aus und teile uns mit, was du brauchst! (kein Google Account notwendig). Deine Kontaktdaten werden von uns dann an potentielle Helfer vermittelt. Im besten Falle finden wir für dich einen Paten, der dich in den nächsten Wochen und Monaten begleitet und mit seinem/diesem Netzwerk unterstützt.
 <br><br>
 [![Formular Betroffene][3]][4]
-[3]: /contents/form_betroffene.png
+[3]: /contents/form_betroffene.webp
 [4]: https://docs.google.com/forms/d/e/1FAIpQLSc1p-45MlIg2skPlQ6bRcVfuJHrmyx1ZTThx1k4vYq64nkuqw/viewform?usp=sf_link
 
 **Wie geht es weiter, wenn ich ein Formular ausgefüllt habe?**

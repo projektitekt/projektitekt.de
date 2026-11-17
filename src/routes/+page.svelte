@@ -48,7 +48,7 @@
 	</div>
 
 	<div class="photo-wrapper">
-		<img src="/scs_sq.jpg" class="photo" alt="Sylvia C. Schuster" />
+		<img src="/scs_sq.webp" class="photo" alt="Sylvia C. Schuster" />
 	</div>
 </div>
 

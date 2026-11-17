@@ -42,14 +42,14 @@ Bitte kontaktieren Sie uns direkt telefonisch oder via E-Mail für Inhouse-Schul
 - **Individuelle Inhouse-Schulungen** zu ausgewählten Inhalten nach Ihren Bedürfnissen. Bitte nehmen Sie Kontakt zu uns auf.
 
 Das Thema Lehre und fachliche Schulungen hat bei Projektitekt im Jahr 2020 begonnen, in dem Gründerin Sylvia C. Schuster einen Lehrauftrag im Fach Baumanagement an der Fachhochschule Aachen übernommen hat. Seit 2023 stellt das Thema Fortbildungen einen Schwerpunkt unserer Tätigkeit dar. Aktuell finden die Schulungen und Workshops zu einem hohen Anteil in Präsenz statt, da Planspiele und praktische Übungen ein zentrales Element unserer Methodik sind. Im Folgenden geben wir Ihnen einen Überblick über mögliche Schulungsthemen (Auszug unserer Fortbildungsreihe "Projektleitung für Bauprojekte"): <br> <br>
-![Themenbeispiele unserer Schulungen](/contents/akademie/schulungsinhalte_beispiele1.png)<br>
+![Themenbeispiele unserer Schulungen](/contents/akademie/schulungsinhalte_beispiele1.webp)<br>
 
 **Status Quo: Bauprojekte werden immer komplexer**<br>
 Die Planung und Ausführung von Bauprojekten wird immer komplexer – ob wir kreative Räume gestalten oder bautechnische 
 Details lösen: Als Planende, Ingenieure und Architekten müssen wir unseren eigenen Bereich planerisch abdecken, ständig 
 neue Normen und Gesetze berücksichtigen, mit der digitalen Entwicklung Schritt halten und möchten dabei möglichst wenig 
 Ressourcen verschwenden.<br>
-<br>![Moderation S. Schuster](/contents/projektitekt_workshop.jpg)<br>
+<br>![Moderation S. Schuster](/contents/projektitekt_workshop.webp)<br>
 Ein fachliches Studium und einige Jahre Berufserfahrung helfen bei der Bewältigung dieser anspruchsvollen Aufgaben. Wer 
 bereits seine Fachkompetenz in der Planung unter Beweis gestellt hat, wird gerne mit der Rolle des (Teil-)Projektleiters betraut. Für 
 einen frisch gebackenen Projektleiter ergibt sich ein neuer Verantwortungsbereich, der zusätzliche Kompetenzen erfordert. 
@@ -62,7 +62,7 @@ Zeitmanagement aus den Augen verloren.
 **Eine gute Projektleitung schuldet den ganzheitlichen Projekterfolg**, der neben einer guten Planung auch das Einhalten der vereinbarten Kosten und Terminziele bedeutet. Es geht darum, Verantwortung für diese Themen zu übernehmen – unabhängig von der Größe des Bauvorhabens oder des Planungsteams. Projektleiter/in wird man nicht über Nacht – es bedarf eines Lernprozesses, in dem Wissen und Erfahrungen gesammelt, aber auch Fehler gemacht werden dürfen.
 Wir bilden Planende aus, die ihre (neue) Rolle als Projektleitende wahrnehmen und ihren Projektablauf künftig proaktiv planen und steuern möchten.<br>
 
-![Themenbeispiele unserer Schulungen](/contents/akademie/schulungsinhalte_beispiele2.png)<br>
+![Themenbeispiele unserer Schulungen](/contents/akademie/schulungsinhalte_beispiele2.webp)<br>
 
 <br>
 **Modul 1: Einstieg in die Projektleitung: Von der Zieldefinition zum Projekterfolg**

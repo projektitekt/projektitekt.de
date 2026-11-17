@@ -2,7 +2,7 @@
 title: Operative Prozessberatung für Planungsbüros
 ---
 
-![Sylvia C. Schuster](/contents/projektitekt_bauhelm.jpg)
+![Sylvia C. Schuster](/contents/projektitekt_bauhelm.webp)
 
 Gemeinsam finden wir nachhaltige Lösungen zur Optimierung Ihrer Projektabläufe und implementieren neue Tools und Prozesse in Ihrem Büro oder Unternehmen.
 Wenn eine der folgenden Fragen für Sie relevant ist, sollten wir ins Gespräch kommen:

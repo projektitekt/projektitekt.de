@@ -15,7 +15,7 @@ Fachliches, persönliches und methodisches Knowhow wird oft stillschweigend vora
 glänzen viele Projekte durch eine hochwertige Planung, gleichzeitig werden wichtige Themen wie Wirtschaftlichkeit und 
 Zeitmanagement aus den Augen verloren.
 
-<br>![Moderation S. Schuster](/contents/projektitekt_workshop.jpg)<br>
+<br>![Moderation S. Schuster](/contents/projektitekt_workshop.webp)<br>
 
 **Ziel**
 
@@ -26,15 +26,15 @@ Wir bilden Planende aus, die ihre (neue) Rolle als Projektleitende wahrnehmen un
 Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erlernte unmittelbar im Büro- und Projektalltag angewendet werden kann. Zwischen den ganztätigen Modulen gibt es Möglichkeiten zum Austausch und für Rückfragen an die Referenten.<br>
 **Neu ab 2024:** Wir bieten von nun an auch Einzelmodule als Inhouse-Schulungen an. Melden Sie sich gerne bei uns für weitere Informationen!
 
-![Gesamtablauf der Schulung](/contents/akademie/fortbildung_gesamtablauf.png)<br><br>
-<br><br><br>![Grafik Modul 1](/contents/akademie/modul1_titel.png)
+![Gesamtablauf der Schulung](/contents/akademie/fortbildung_gesamtablauf.webp)<br><br>
+<br><br><br>![Grafik Modul 1](/contents/akademie/modul1_titel.webp)
 **Modul 1: Einstieg in die Projektleitung: Von der Zieldefinition zum Projekterfolg**
 - Grundlagen Projektleitung in Bauprojekten
 - Verschiedene Rollen im Büro- und Projektalltag
 - Faktor Mensch und Zusammenspiel im Team: Fähigkeiten, Persönlichkeiten, Verhalten
 - Zieldefinition, Zwischenziele, Projekterfolg
 
-<br><br><br>![Grafik Modul 2](/contents/akademie/modul2_titel.png)<br>
+<br><br><br>![Grafik Modul 2](/contents/akademie/modul2_titel.webp)<br>
 **Modul 2: Verständnis von Projektaufbau, Projektablauf und Organisation von Bauprojekten**
 - verschiedene Leistungsbilder gemäß HOAI
 - Rollen und Schnittstellen innerhalb interdisziplinärer Planungsteams
@@ -45,7 +45,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Planspiel: Terminplanerstellung / Planung der Planung
 
 
-<br><br><br>![Grafik Modul 3](/contents/akademie/modul3_titel.png)<br>
+<br><br><br>![Grafik Modul 3](/contents/akademie/modul3_titel.webp)<br>
 **Modul 3: Verantwortung übernehmen für den Projekterfolg**
 - Grundlagen Kosten, Grundlagen Honorarermittlung
 - Zusammenhang Baukosten und Honorare
@@ -55,7 +55,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Erledigen, Delegieren oder Koordinieren?
 
 
-<br><br><br>![Grafik Modul 4](/contents/akademie/modul4_titel.png)<br>
+<br><br><br>![Grafik Modul 4](/contents/akademie/modul4_titel.webp)<br>
 **Modul 4: Den wirtschaftlichen Projekterfolg planen und steuern**
 - Lösungsorientierung statt Fokus auf Probleme am Beispiel der Ausführungsvorbereitung
 - Maßnahmen zur Vermeidung von Planungsänderungen, Fehlern und Wiederholungsleistungen
@@ -64,7 +64,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Verschiedene Führungs- und Abhängigkeitsebenen, Führungsstile
 
 
-<br><br><br>![Grafik Modul 5](/contents/akademie/modul5_titel.png)<br>
+<br><br><br>![Grafik Modul 5](/contents/akademie/modul5_titel.webp)<br>
 **Modul 5: Umgang mit Zielkonflikten, Störungen im Bauablauf, Änderungsmanagement**
 - Organisation und Prozesse während der Bauausführung
 - Abhängigkeit von Kosten, Terminen und Qualitäten
@@ -73,7 +73,7 @@ Das Programm erstreckt sich über mehrere Monate, sodass das in den Modulen Erle
 - Ausschreibung, Bauvertrag, Nachträge
 
 
-<br><br><br>![Grafik Modul 6](/contents/akademie/modul6_titel.png)<br>
+<br><br><br>![Grafik Modul 6](/contents/akademie/modul6_titel.webp)<br>
 **Modul 6: Vertrag, Projektabschluss, Überprüfen der Ziele & Lessons Learned**
 - Zusammenführen der Erkenntnisse aus Modul 1-5 als Grundlage künftiger Projekte
 - Der Vertrag als Fundament aller Planungsleistungen
