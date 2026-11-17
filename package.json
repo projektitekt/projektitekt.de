@@ -11,13 +11,13 @@
     "test": "tests"
   },
   "scripts": {
-    "build": "ember build --environment=production",
+    "build": "JOBS=1 NODE_OPTIONS=--openssl-legacy-provider ember build --environment=production",
     "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:*",
     "lint:hbs": "ember-template-lint .",
     "lint:js": "eslint .",
-    "start": "ember serve",
+    "start": "JOBS=1 NODE_OPTIONS=--openssl-legacy-provider ember serve",
     "test": "npm-run-all test:*",
-    "test:ember": "ember test"
+    "test:ember": "JOBS=1 NODE_OPTIONS=--openssl-legacy-provider ember test"
   },
   "dependencies": {
     "@sentry/browser": "^5.15.4",
@@ -79,7 +79,16 @@
       "lib/content-generator"
     ]
   },
-  "volta": {
-    "node": "14.21.2"
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": "^22",
+      "onFail": "download"
+    },
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^12.1.0",
+      "onFail": "download"
+    }
   }
 }
