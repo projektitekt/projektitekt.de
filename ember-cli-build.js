@@ -35,6 +35,7 @@ module.exports = function(defaults) {
         '/privacy',
         '/referenzen',
         '/vita',
+        '/wiederaufbau',
       ],
       emptyFile: '404.html',
     },
