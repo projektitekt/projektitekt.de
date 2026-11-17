@@ -153,8 +153,8 @@ importers:
         specifier: 2.2.0
         version: 2.2.0(supports-color@7.2.0)
       ember-cli-htmlbars:
-        specifier: 4.5.0
-        version: 4.5.0(supports-color@7.2.0)
+        specifier: 7.0.1
+        version: 7.0.1(@babel/core@7.13.15(supports-color@7.2.0))(ember-source@3.17.3(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0))(supports-color@7.2.0)
       ember-cli-inject-live-reload:
         specifier: 2.0.2
         version: 2.0.2
@@ -827,6 +827,9 @@ packages:
   '@glimmer/syntax@0.65.2':
     resolution: {integrity: sha512-cfAqRgka8EVhDgDJKu3d1WMOZLJu1H+tuOb4J4LutcbYRswLYkvPYED2UA8Bw6oekpN34GYFRzwb/JODAWNBpA==}
 
+  '@glimmer/syntax@0.97.0':
+    resolution: {integrity: sha512-uDUqlAxU40eJHJjMUR6ffdpDp6W53gNvS9YZNrBbf77sUL5xUFsBAaReB3FuyVPbwRg09p5rviioUJ8nyg7BBA==}
+
   '@glimmer/tracking@1.0.4':
     resolution: {integrity: sha512-F+oT8I55ba2puSGIzInmVrv/8QA2PcK1VD+GWgFMhF6WC97D+uZX7BFg+a3s/2N4FVBq5KHE+QxZzgazM151Yw==}
 
@@ -1461,6 +1464,10 @@ packages:
   babel-helpers@6.24.1:
     resolution: {integrity: sha1-NHHenK7DiOXIUOWX5Yom3fN2ArI=}
 
+  babel-import-util@3.0.1:
+    resolution: {integrity: sha512-2copPaWQFUrzooJVIVZA/Oppx/S/KOoZ4Uhr+XWEQDMZ8Rvq/0SNQpbdIyMBJ8IELWt10dewuJw+tX4XjOo7Rg==}
+    engines: {node: '>= 12.*'}
+
   babel-loader@8.2.2:
     resolution: {integrity: sha512-JvTd0/D889PQBtUXJ2PXaKU/pjZDMtHA9V2ecm+eNRmmBCMR09a+fmpGTNwnJtFmFl5Ei7Vy47LjBb+L0wQ99g==}
     engines: {node: '>= 8.9'}
@@ -1500,6 +1507,10 @@ packages:
   babel-plugin-ember-modules-api-polyfill@3.5.0:
     resolution: {integrity: sha512-pJajN/DkQUnStw0Az8c6khVcMQHgzqWr61lLNtVeu0g61LRW0k9jyK7vaedrHDWGe/Qe8sxG5wpiyW9NsMqFzA==}
     engines: {node: 6.* || 8.* || >= 10.*}
+
+  babel-plugin-ember-template-compilation@2.4.1:
+    resolution: {integrity: sha512-n+ktQ3JeyWrpRutSyPn2PsHeH+A94SVm+iUoogzf9VUqpP47FfWem24gpQXhn+p6+x5/BpuFJXMLXWt7ZoYAKA==}
+    engines: {node: '>= 12.*'}
 
   babel-plugin-filter-imports@4.0.0:
     resolution: {integrity: sha512-jDLlxI8QnfKd7PtieH6pl4tZJzymzfCDCPGdTq/grgbiYAikwDPp/oL0IlFJn0HQjLpcLkyYhPKkUVneRESw5w==}
@@ -1663,6 +1674,10 @@ packages:
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
 
+  balanced-match@4.0.4:
+    resolution: {integrity: sha512-BLrgEcRTwX2o6gGxGOCNyMvGSp35YofuYzw9h1IMTRmKqttAZZVU67bdb9Pr2vUHA8+j3i2tJfjO6C6+4myGTA==}
+    engines: {node: 18 || 20 || >=22}
+
   base64-arraybuffer@0.1.4:
     resolution: {integrity: sha1-mBjHngWbE1X5fgQooBfIOOkLqBI=}
     engines: {node: '>= 0.6.0'}
@@ -1753,6 +1768,10 @@ packages:
 
   brace-expansion@1.1.11:
     resolution: {integrity: sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA==}
+
+  brace-expansion@5.0.13:
+    resolution: {integrity: sha512-Vh3dmFbc4wZeox7M9I/0L9GfFd83Su4+yCck/OF9Gi/P/dAHn0RT7X4K9R7gMNMhDck3DvhR6QXsnQdjjgwNvQ==}
+    engines: {node: 20 || >=22}
 
   braces@2.3.2:
     resolution: {integrity: sha512-aNdbnj9P8PjdXU4ybaWLK2IF3jc/EoDYbC7AazW6to3TRsfXxscC9UXOB5iDiEQrkyIbWp2SLQda4+QAa7nc3w==}
@@ -2933,6 +2952,13 @@ packages:
   ember-cli-htmlbars@4.5.0:
     resolution: {integrity: sha512-bYJpK1pqFu9AadDAGTw05g2LMNzY8xTCIqQm7dMJmKEoUpLRFbPf4SfHXrktzDh7Q5iggl6Skzf1M0bPlIxARw==}
     engines: {node: 8.* || 10.* || >= 12.*}
+
+  ember-cli-htmlbars@7.0.1:
+    resolution: {integrity: sha512-bNVAwTvBOmk7KjGCN0Vq81w8FAWQ1zXwCS1CUUHTeWdcFypRsv0qUEkTtwxho4H3BYaoqMCXPS45Js9WWtEXYw==}
+    engines: {node: '>= 20'}
+    peerDependencies:
+      '@babel/core': '>= 7'
+      ember-source: '>= 4.0.0'
 
   ember-cli-inject-live-reload@2.0.2:
     resolution: {integrity: sha512-HDD6o/kBHT/kUtazklU0OW23q2jigIN42QmcpFdXUSvJ2/2SYA6yIqSUxWfJgISmtn5gTNZ2KPq1p3dLkhJxSQ==}
@@ -4764,6 +4790,10 @@ packages:
   minimalistic-crypto-utils@1.0.1:
     resolution: {integrity: sha1-9sAMHAsIIkblxNmd+4x8CDsrWCo=}
 
+  minimatch@10.2.6:
+    resolution: {integrity: sha512-vpLQEs+VLCr1nU0BXS07maYoFwlDAH0gngQuuttxIwutDFEMHq2blX+8vpgxDdK3J1PwjCJiep77OitTZ4Ll1A==}
+    engines: {node: 18 || 20 || >=22}
+
   minimatch@3.0.4:
     resolution: {integrity: sha512-yJHVQEhyqPLUTgt9B83PXu6W3rx4MvvHvSUvToogpwoGDOUQ+yDrR0HRot+yOCdCO7u4hX3pWft6kWBBcqh0UA==}
 
@@ -6040,6 +6070,10 @@ packages:
   simple-html-tokenizer@0.5.11:
     resolution: {integrity: sha512-C2WEK/Z3HoSFbYq8tI7ni3eOo/NneSPRoPpcM7WdLjFOArFuyXEjAoCdOC3DgMfRyziZQ1hCNR4mrNdWEvD0og==}
 
+  simple-html-tokenizer@1.0.0:
+    resolution: {integrity: sha512-ydo9dHOcttfRxVWBglPk7jcBucsuva2zN+5SmUO5eXgUBlxFCZ9CwYEpF30ESzfKsckimVQE+GIbfsgM3mgSdQ==}
+    engines: {node: '>= 20.19'}
+
   slash@1.0.0:
     resolution: {integrity: sha1-xB8vbDn8FtHNF61LXYlhFK5HDVU=}
     engines: {node: '>=0.10.0'}
@@ -6713,6 +6747,10 @@ packages:
   walk-sync@2.2.0:
     resolution: {integrity: sha512-IC8sL7aB4/ZgFcGI2T1LczZeFWZ06b3zoHH7jBPyHxOtIIz1jppWHjjEXkOFvFojBVAK9pV7g47xOZ4LW3QLfg==}
     engines: {node: 8.* || >= 10.*}
+
+  walk-sync@4.0.2:
+    resolution: {integrity: sha512-SPRy/z6vC+Fb20XQDzagaSVVNzX77EcLLPnBJsqNy0CFQgBS6cexbYP62kzRSqNdyIDdRGc7SOCybRrpkf+Pmg==}
+    engines: {node: '>= 20.*'}
 
   walker@1.0.7:
     resolution: {integrity: sha1-L3+bj9ENZ3JisYqITijRlhjgKPs=}
@@ -7979,6 +8017,10 @@ snapshots:
       '@handlebars/parser': 1.1.0
       simple-html-tokenizer: 0.5.11
 
+  '@glimmer/syntax@0.97.0':
+    dependencies:
+      simple-html-tokenizer: 1.0.0
+
   '@glimmer/tracking@1.0.4':
     dependencies:
       '@glimmer/env': 0.1.7
@@ -8794,6 +8836,8 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
+  babel-import-util@3.0.1: {}
+
   babel-loader@8.2.2(@babel/core@7.13.15(supports-color@7.2.0))(webpack@4.46.0(supports-color@7.2.0)):
     dependencies:
       '@babel/core': 7.13.15(supports-color@7.2.0)
@@ -8836,6 +8880,11 @@ snapshots:
   babel-plugin-ember-modules-api-polyfill@3.5.0:
     dependencies:
       ember-rfc176-data: 0.3.17
+
+  babel-plugin-ember-template-compilation@2.4.1:
+    dependencies:
+      '@glimmer/syntax': 0.97.0
+      babel-import-util: 3.0.1
 
   babel-plugin-filter-imports@4.0.0:
     dependencies:
@@ -9162,6 +9211,8 @@ snapshots:
 
   balanced-match@1.0.2: {}
 
+  balanced-match@4.0.4: {}
+
   base64-arraybuffer@0.1.4: {}
 
   base64-js@1.5.1: {}
@@ -9264,6 +9315,10 @@ snapshots:
     dependencies:
       balanced-match: 1.0.2
       concat-map: 0.0.1
+
+  brace-expansion@5.0.13:
+    dependencies:
+      balanced-match: 4.0.4
 
   braces@2.3.2(supports-color@7.2.0):
     dependencies:
@@ -10992,6 +11047,23 @@ snapshots:
       semver: 6.3.0
       strip-bom: 4.0.0
       walk-sync: 2.2.0
+    transitivePeerDependencies:
+      - supports-color
+
+  ember-cli-htmlbars@7.0.1(@babel/core@7.13.15(supports-color@7.2.0))(ember-source@3.17.3(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0))(supports-color@7.2.0):
+    dependencies:
+      '@babel/core': 7.13.15(supports-color@7.2.0)
+      '@ember/edition-utils': 1.2.0
+      babel-plugin-ember-template-compilation: 2.4.1
+      broccoli-debug: 0.6.5(supports-color@7.2.0)
+      broccoli-persistent-filter: 3.1.2(supports-color@7.2.0)
+      broccoli-plugin: 4.0.5(supports-color@7.2.0)
+      ember-source: 3.17.3(@babel/core@7.13.15(supports-color@7.2.0))(supports-color@7.2.0)
+      fs-tree-diff: 2.0.1(supports-color@7.2.0)
+      heimdalljs-logger: 0.1.10(supports-color@7.2.0)
+      js-string-escape: 1.0.1
+      silent-error: 1.1.1(supports-color@7.2.0)
+      walk-sync: 4.0.2
     transitivePeerDependencies:
       - supports-color
 
@@ -13552,6 +13624,10 @@ snapshots:
 
   minimalistic-crypto-utils@1.0.1: {}
 
+  minimatch@10.2.6:
+    dependencies:
+      brace-expansion: 5.0.13
+
   minimatch@3.0.4:
     dependencies:
       brace-expansion: 1.1.11
@@ -14808,6 +14884,8 @@ snapshots:
 
   simple-html-tokenizer@0.5.11: {}
 
+  simple-html-tokenizer@1.0.0: {}
+
   slash@1.0.0: {}
 
   slash@3.0.0: {}
@@ -15684,6 +15762,12 @@ snapshots:
       ensure-posix-path: 1.1.1
       matcher-collection: 2.0.1
       minimatch: 3.0.4
+
+  walk-sync@4.0.2:
+    dependencies:
+      ensure-posix-path: 1.1.1
+      matcher-collection: 2.0.1
+      minimatch: 10.2.6
 
   walker@1.0.7:
     dependencies:
