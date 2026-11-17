@@ -1,92 +1,60 @@
 {
-  "name": "projektitekt",
-  "version": "0.0.0",
-  "private": true,
-  "description": "Small description for projektitekt goes here",
-  "repository": "",
-  "license": "MIT",
-  "author": "",
-  "directories": {
-    "doc": "doc",
-    "test": "tests"
-  },
-  "scripts": {
-    "build": "JOBS=1 NODE_OPTIONS=--openssl-legacy-provider ember build --environment=production",
-    "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:*",
-    "lint:hbs": "ember-template-lint .",
-    "lint:js": "eslint .",
-    "snapshot": "node scripts/snapshot.mjs",
-    "start": "JOBS=1 NODE_OPTIONS=--openssl-legacy-provider ember serve",
-    "test": "npm-run-all test:*",
-    "test:ember": "JOBS=1 NODE_OPTIONS=--openssl-legacy-provider ember test"
-  },
-  "dependencies": {
-    "canvas-confetti": "1.4.0"
-  },
-  "devDependencies": {
-    "@ember/optional-features": "1.3.0",
-    "@glimmer/component": "1.0.4",
-    "@glimmer/tracking": "1.0.4",
-    "babel-eslint": "10.1.0",
-    "broccoli-asset-rev": "3.0.0",
-    "broccoli-static-site-json": "4.3.0",
-    "ember-auto-import": "1.11.2",
-    "ember-cli": "3.17.0",
-    "ember-cli-babel": "7.26.3",
-    "ember-cli-dependency-checker": "3.2.0",
-    "ember-cli-fastboot": "2.2.3",
-    "ember-cli-favicon": "2.2.0",
-    "ember-cli-htmlbars": "4.5.0",
-    "ember-cli-inject-live-reload": "2.0.2",
-    "ember-cli-page-progress": "2.0.0",
-    "ember-cli-sri": "2.1.1",
-    "ember-cli-uglify": "3.0.0",
-    "ember-css-modules": "1.3.4",
-    "ember-data": "3.17.1",
-    "ember-export-application-global": "2.0.1",
-    "ember-fetch": "7.1.0",
-    "ember-href-to": "4.1.0",
-    "ember-load-initializers": "2.1.2",
-    "ember-maybe-import-regenerator": "0.1.6",
-    "ember-page-title": "5.2.3",
-    "ember-qunit": "4.6.0",
-    "ember-resolver": "7.0.0",
-    "ember-source": "3.17.3",
-    "ember-svg-jar": "2.3.3",
-    "ember-template-lint": "2.21.0",
-    "ember-truth-helpers": "2.1.0",
-    "eslint": "6.8.0",
-    "eslint-plugin-ember": "7.13.0",
-    "eslint-plugin-node": "11.1.0",
-    "loader.js": "4.7.0",
-    "memory-scroll": "1.0.0",
-    "npm-run-all": "4.1.5",
-    "playwright": "1.65.1",
-    "postcss-nested": "4.2.3",
-    "prember": "1.0.5",
-    "qunit-dom": "1.6.0"
-  },
-  "engines": {
-    "node": "10.* || >= 12"
-  },
-  "ember": {
-    "edition": "octane"
-  },
-  "ember-addon": {
-    "paths": [
-      "lib/content-generator"
-    ]
-  },
-  "devEngines": {
-    "runtime": {
-      "name": "node",
-      "version": "^22",
-      "onFail": "download"
-    },
-    "packageManager": {
-      "name": "pnpm",
-      "version": "^12.1.0",
-      "onFail": "download"
-    }
-  }
+	"name": "projektitekt",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+		"lint": "prettier --check . && eslint .",
+		"format": "prettier --write .",
+		"test": "vitest --run",
+		"test:smoke": "playwright test",
+		"snapshot": "node scripts/snapshot.mjs"
+	},
+	"devDependencies": {
+		"@eslint/js": "10.0.1",
+		"@playwright/test": "1.65.1",
+		"@sveltejs/adapter-static": "4.0.1",
+		"@sveltejs/kit": "3.1.1",
+		"@sveltejs/vite-plugin-svelte": "7.3.1",
+		"@types/canvas-confetti": "1.9.0",
+		"@types/node": "26.6.6",
+		"@types/showdown": "2.0.6",
+		"canvas-confetti": "1.9.4",
+		"eslint": "10.14.0",
+		"eslint-config-prettier": "10.1.8",
+		"eslint-plugin-svelte": "3.23.1",
+		"globals": "17.14.0",
+		"playwright": "1.65.1",
+		"prettier": "3.9.10",
+		"prettier-plugin-svelte": "4.1.1",
+		"showdown": "2.1.0",
+		"svelte": "5.57.3",
+		"svelte-check": "4.7.8",
+		"typescript": "6.0.3",
+		"typescript-eslint": "8.72.1",
+		"valibot": "1.5.0",
+		"vite": "8.3.5",
+		"vitest": "4.1.12",
+		"yaml": "2.9.1"
+	},
+	"imports": {
+		"#lib/*": "./src/lib/*"
+	},
+	"devEngines": {
+		"runtime": {
+			"name": "node",
+			"version": "^26",
+			"onFail": "download"
+		},
+		"packageManager": {
+			"name": "pnpm",
+			"version": "^12.1.0",
+			"onFail": "download"
+		}
+	}
 }

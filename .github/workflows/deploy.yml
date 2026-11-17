@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - master
+  schedule:
+    # rebuilds the footer copyright year
+    - cron: '5 0 1 1 *' # January 1, 00:05 UTC
+  workflow_dispatch: {}
 
 permissions:
   contents: read
@@ -29,7 +33,7 @@ jobs:
 
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
-          path: dist
+          path: build
 
   deploy:
     name: Deploy
