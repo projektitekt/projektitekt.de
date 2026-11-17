@@ -9,7 +9,7 @@
 		{ href: resolve('/[slug]', { slug: 'beratung' }), label: 'Beratung' },
 		{ href: resolve('/[slug]', { slug: 'akademie' }), label: 'Akademie' },
 		{ href: resolve('/[slug]', { slug: 'referenzen' }), label: 'Referenzen' },
-		{ href: resolve('/[slug]', { slug: 'presse' }), label: 'News' }
+		{ href: resolve('/presse'), label: 'News' }
 	];
 </script>
 
