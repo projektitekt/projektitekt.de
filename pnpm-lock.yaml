@@ -113,8 +113,8 @@ importers:
         specifier: 1.4.0
         version: 1.4.0
       date-fns:
-        specifier: 2.20.1
-        version: 2.20.1
+        specifier: 2.30.0
+        version: 2.30.0
     devDependencies:
       '@ember/optional-features':
         specifier: 1.3.0
@@ -711,6 +711,10 @@ packages:
 
   '@babel/runtime@7.13.10':
     resolution: {integrity: sha512-4QPkjJq6Ns3V/RgpEahRk+AGfL0eO6RHHtTWoNNr5mO49G6B5+X6d6THgWEAvTrznU5xYpbAlVKRYcsCgh/Akw==}
+
+  '@babel/runtime@7.29.14':
+    resolution: {integrity: sha512-Y5tqevQaUAZhhj82BpYMNC1ssvLQTVAfwKdm8iy8qwmhvC2/CpcAu8OC+QEtjM7pMk7knx83u1Qj8gzkicyelw==}
+    engines: {node: '>=6.9.0'}
 
   '@babel/template@7.12.13':
     resolution: {integrity: sha512-/7xxiGA57xMo/P2GVvdEumr8ONhFOhfgq2ihK3h1e6THqzTAkHbkXgB0xI9yeTfIUoH3+oAeHhqm/I43OTbbjA==}
@@ -2658,8 +2662,8 @@ packages:
     resolution: {integrity: sha512-X5eWTSXO/BJmpdIKCRuKUgSCgAN0OwliVK3yPKbwIWU1Tdw5BRajxlzMidvh+gwko9AfQ9zIj52pzF91Q3YAvQ==}
     engines: {node: '>=10'}
 
-  date-fns@2.20.1:
-    resolution: {integrity: sha512-8P5M8Kxbnovd0zfvOs7ipkiVJ3/zZQ0F/nrBW4x5E+I0uAZVZ80h6CKd24fSXQ5TLK5hXMtI4yb2O5rEZdUt2A==}
+  date-fns@2.30.0:
+    resolution: {integrity: sha512-fnULvOpxnC5/Vg3NCiWelDsLiUc9bRwAPs/+LfTLNvetFCtCTN+yQz15C/fs4AwX1R9K5GLtLfn8QW+dWisaAw==}
     engines: {node: '>=0.11'}
 
   date-time@2.1.0:
@@ -7660,6 +7664,8 @@ snapshots:
     dependencies:
       regenerator-runtime: 0.13.7
 
+  '@babel/runtime@7.29.14': {}
+
   '@babel/template@7.12.13':
     dependencies:
       '@babel/code-frame': 7.12.13
@@ -10567,7 +10573,9 @@ snapshots:
       whatwg-mimetype: 2.3.0
       whatwg-url: 8.5.0
 
-  date-fns@2.20.1: {}
+  date-fns@2.30.0:
+    dependencies:
+      '@babel/runtime': 7.29.14
 
   date-time@2.1.0:
     dependencies:
