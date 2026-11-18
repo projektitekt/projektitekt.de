@@ -11,6 +11,8 @@ export default defineConfig({
 					filename.split(/[/\\]/).includes('node_modules') ? undefined : true
 			},
 			adapter: adapter(),
+			// Inlined styles cannot arrive after the first layout, which some Firefox extensions force early.
+			inlineStyleThreshold: Infinity,
 			// `404.html` is served for missing URLs at any depth, so asset URLs must be root-relative.
 			paths: { origin: 'https://projektitekt.de', relative: false }
 		})

@@ -56,6 +56,16 @@ for (const path of Object.keys(PAGES).filter((path) => path !== '/bingo')) {
 	});
 }
 
+for (const path of Object.keys(PAGES)) {
+	test(`${path} is styled without loading stylesheets`, async ({ page }) => {
+		await page.route('**/*.css', (route) => route.abort());
+
+		await page.goto(path);
+
+		await expect(page.locator('header')).toHaveCSS('background-color', 'rgb(32, 56, 100)');
+	});
+}
+
 test('/unternehmen redirects to /beratung', async ({ page }) => {
 	await page.goto('/unternehmen');
 
