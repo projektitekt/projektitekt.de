@@ -10,20 +10,15 @@ Bitte kontaktieren Sie uns direkt telefonisch oder via E-Mail für Inhouse-Schul
 
 - **Projektmanagement Vertiefung** Webinar als Weiterbildung für Absolvent:innen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/) am 13. Juli 2027
 - **Projektmanagement Grundlagen** Webinar als Weiterbildung für Absolvent:innen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/) am 16. Juni 2027
-<br>
 - **Projektmanagement Vertiefung** Webinar als Fortbildung für Mitglieder bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-mitglieder-sachverstaendige-und-gaeste/) am 01. Juni 2027
 - **Projektmanagement Grundlagen** Webinar als Fortbildung für Mitglieder bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-mitglieder-sachverstaendige-und-gaeste/) am 22. April 2027
-  <br>
 - **HOAI und Planervertrag I-IV** vierteilige Weiterbildung für Absolvent:innen vom 7.- 28. April 2027 - mittwochsabends online. Anmeldung über den [BDB.NRW](https://www.baumeister-online.de/veranstaltung/hoai-planervertrag-i-iv/2027-04-07/)
-  <br>
-- **Projektmanagement und Projektsteuerung am Bau (Vertiefung)** Webinar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=81131) am 7. und 8. April 2027, jeweils halbtägig, max. 30 Plätze
-- **Projektmanagement und Projektsteuerung am Bau (Grundlagen)** Webinar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=81130) am 4. und 5. März 2027, jeweils halbtägig, max. 30 Plätze
-  <br>
-- **Lehrgang: Projektleitung im Planungsbüro** zweitägiger Lehrgang in Kooperation mit dem [IWW Institut](https://www.projektleitung-im-planungsbuero.de) am 10. und 11. März 2027 in Würzburg
-  <br>
+- **Projektmanagement und Projektsteuerung am Bau (Vertiefung)** Webinar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=81131) am 7.+8. April 2027, jeweils halbtägig, max. 30 Plätze
+- **Projektmanagement und Projektsteuerung am Bau (Grundlagen)** Webinar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=81130) am 4.+5. März 2027, jeweils halbtägig, max. 30 Plätze
+- **Lehrgang: Projektleitung im Planungsbüro** zweitägiger Lehrgang in Kooperation mit dem [IWW Institut](https://www.projektleitung-im-planungsbuero.de) am 10.+11. März 2027 in Würzburg
 
 **Vergangene Seminare**
-- **Lehrgang: Projektleitung im Planungsbüro** zweitägiger Lehrgang in Kooperation mit dem [IWW Institut](https://www.projektleitung-im-planungsbuero.de) am 20. und 21. April 2026 in Würzburg
+- **Lehrgang: Projektleitung im Planungsbüro** zweitägiger Lehrgang in Kooperation mit dem [IWW Institut](https://www.projektleitung-im-planungsbuero.de) am 20.+21. April 2026 in Würzburg
 - **Projektmanagement und Projektsteuerung am Bau Vertiefung** Webinar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=75397) am 28. April 2026, online (max. 30 Plätze)
 - **Projektmanagement und Projektsteuerung am Bau Grundlagen** Webinar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=75396) am 14. April 2026, online (max. 30 Plätze)
 <br>Meine weiteren Seminarangebote bei der Akademie der Architektenkammer NRW im Sommer 2026 (5. Mai, 22. Juni) entnehmen Sie bitte direkt dem [Seminarprogramm](https://www.aknw.de/berufspraxis/fort-und-weiterbildung/seminaruebersicht).
