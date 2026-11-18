@@ -8,7 +8,7 @@ title: Fortbildungen für Planer am Bau
 **Unsere Schulungsformate**
 Bitte kontaktieren Sie uns direkt telefonisch oder via E-Mail für Inhouse-Schulungen in Aachen, NRW und darüber hinaus (aktuelle Verfügbarkeit frühstens März 2027).
 
-	  - **Projektmanagement Vertiefung** Webinar als Weiterbildung für Absolvent:innen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/) am 13. Juli 2027
+- **Projektmanagement Vertiefung** Webinar als Weiterbildung für Absolvent:innen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/) am 13. Juli 2027
 - **Projektmanagement Grundlagen** Webinar als Weiterbildung für Absolvent:innen bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-absolventinnen-junior-mitglieder/veranstaltungen/) am 16. Juni 2027
 <br>
 - **Projektmanagement Vertiefung** Webinar als Fortbildung für Mitglieder bei der [Architektenkammer NRW](https://www.akademie-aknw.de/fuer-mitglieder-sachverstaendige-und-gaeste/) am 01. Juni 2027
@@ -19,7 +19,7 @@ Bitte kontaktieren Sie uns direkt telefonisch oder via E-Mail für Inhouse-Schul
 - **Projektmanagement und Projektsteuerung am Bau (Vertiefung)** Webinar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=81131) am 7. und 8. April 2027, jeweils halbtägig, max. 30 Plätze
 - **Projektmanagement und Projektsteuerung am Bau (Grundlagen)** Webinar bei der [Ingenieurakademie West](https://ingenieurakademie-west.de/akademie/seminare/info.php?nr=81130) am 4. und 5. März 2027, jeweils halbtägig, max. 30 Plätze
   <br>
-	- **Lehrgang: Projektleitung im Planungsbüro** zweitägiger Lehrgang in Kooperation mit dem [IWW Institut](https://www.projektleitung-im-planungsbuero.de) am 10. und 11. März 2027 in Würzburg
+- **Lehrgang: Projektleitung im Planungsbüro** zweitägiger Lehrgang in Kooperation mit dem [IWW Institut](https://www.projektleitung-im-planungsbuero.de) am 10. und 11. März 2027 in Würzburg
   <br>
 
 **Vergangene Seminare**
