@@ -15,7 +15,9 @@ const CONTENT_TYPES = {
 	'.js': 'text/javascript',
 	'.pdf': 'application/pdf',
 	'.png': 'image/png',
-	'.svg': 'image/svg+xml'
+	'.svg': 'image/svg+xml',
+	'.woff': 'font/woff',
+	'.woff2': 'font/woff2'
 };
 
 const [root, port] = process.argv.slice(2);

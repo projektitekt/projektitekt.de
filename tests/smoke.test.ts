@@ -66,6 +66,19 @@ for (const path of Object.keys(PAGES)) {
 	});
 }
 
+test('/ renders its text in the self-hosted Carlito font', async ({ page }) => {
+	await page.goto('/');
+
+	const loadedFaces = await page.evaluate(async () => {
+		await document.fonts.ready;
+		return [...document.fonts]
+			.filter((face) => face.family.replaceAll('"', '') === 'Carlito' && face.status === 'loaded')
+			.map((face) => `${face.weight} ${face.style}`);
+	});
+
+	expect(new Set(loadedFaces)).toEqual(new Set(['400 normal', '700 normal']));
+});
+
 test('/unternehmen redirects to /beratung', async ({ page }) => {
 	await page.goto('/unternehmen');
 
